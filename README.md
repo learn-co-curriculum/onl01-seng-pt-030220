@@ -5,24 +5,18 @@
 1. [Zoom link for 1:1's and Study Groups](#)
 2. [Link to set up 1:1 with me!](#)
 
-## Pairing Week 4
+## Pairing
 
 
 | Pair 1       | Pair 2       | Pair 3 |
 | ------------- |:-------------:| ---------- |
-| Abel Kalum   | Amanda Contreras    |
-| Yanah   | Anna Lewis    |
-| Xav   | Anthony Risch    |
-| Willis Aybar   | Anton Zaharia    |
-| Tommy Connor   | Arif Cagirici    |
-| Tanya Shipley   | Billy Ferrera    |
 
 ## Any questions or issues please DM me. 
 
 # Weekly Assignments
 
-### Week 4: Feb 10th 2020
-#### This week's focus:  OO Ruby 
+### Week 1: Mar 2nd 2020
+#### This week's focus:  Procedural Ruby 
 
 1. Day 1 (Mon) - Object Oriented Ruby: Class Variables and Methods
 2. Day 2 (Tue) - Object Oriented Ruby: Object Models (5 Lessons)
@@ -35,15 +29,6 @@
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 1**|
-| Orientation | [Video](https://youtu.be/-jk4NqJ2i68) | [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeKy1nlSi32DLbV5LN-W3yAjuZNJnoxteaWp_AYN4fQFmkYxQ/viewform)|
-| Pair Programming| [Video](https://youtu.be/dKviur9B_fY)|[Quiz](https://docs.google.com/forms/d/e/1FAIpQLSey8rwpddfuKTeIo74DkqY1Eua4g9S8ZWLu-WFYxHVZZoEO5g/viewform)|
-| If Statements/ Ternary Operators | [Video](https://youtu.be/1VH5025I4V0)| [Code](https://github.com/EliasAHH/speaking-grandma-dumbo-web-080618/blob/master/grandma.rb)
-|**Week 2**|
-| Midnight Lab/ While loop | [Video](https://youtu.be/7DxEgAxIr14)|[Code](https://github.com/EliasAHH/countdown-to-midnight-onl01-seng-pt-012220/blob/master/countdown.rb)
-| Deli Counter/ Arrays- Iteraiton|[Video](https://youtu.be/8sfcqlzuH9s)|[Code](https://github.com/EliasAHH/deli-counter-onl01-seng-pt-012220/blob/master/deli_counter.rb)|[Repl](https://repl.it/@Eliasiscoding/ArraysIteration)
-|Yield labs and Prime Lab | [Video](https://youtu.be/GcDF5KoUpIg)| |[Repl](https://repl.it/@Eliasiscoding/Yields)|
-|Hash Manipulation Lab| [Video](https://youtu.be/ccwOz6dG3SI)| [Code](https://github.com/EliasAHH/apples-and-holidays-onl01-seng-pt-012220/blob/master/lib/holiday.rb)| [Repl](https://repl.it/@Eliasiscoding/Hashes)
-|**Week 3**|
-|Intro to OORuby| [Video](https://youtu.be/mtels8PeUnA)|  | [Repl](https://repl.it/@Eliasiscoding/Variables)
-|Windows Local Enviornment Setup | [Video](https://youtu.be/TvNeyHcHpSQ)| | |
-
+| Orientation | [Video](#) | [Quiz](#)|
+| Pair Programming| [Video](#)|[Quiz](#)|
+| If Statements/ Ternary Operators | [Video](#)| [Code](#)
