@@ -2,10 +2,10 @@
 
 # Helpful Links 
 
-1. [Zoom link for 1:1's and Study Groups](#)
-2. [Link to set up 1:1 with me!](#)
+1. [Zoom link for 1:1's and Study Groups](https://wework.zoom.com/j/2135328262)
+2. [Link to set up 1:1 with me!](https://go.oncehub.com/MicahsFirstMileMeetings)
 
-## Pairing
+## Pairing (will populate this list soon)
 
 
 | Pair 1       | Pair 2       | Pair 3 |
@@ -18,11 +18,11 @@
 ### Week 1: Mar 2nd 2020
 #### This week's focus:  Procedural Ruby 
 
-1. Day 1 (Mon) - Object Oriented Ruby: Class Variables and Methods
-2. Day 2 (Tue) - Object Oriented Ruby: Object Models (5 Lessons)
-3. Day 3 (Wed) - Object Oriented Ruby: OO Tic Tac Toe (2 Lessons)
-4. Day 4 (Thur) -Object Oriented Ruby: Object Labs (3 Lessons)
-5. Day 5 (Fri) - Object Oriented Ruby: Object Relationships (Has Many Object Lab) (4 Lessons)
+1. Day 1 (Mon) - Command Line Applications (all)  + Variables and Methods (up to Defining Methods) (6 lessons)
+2. Day 2 (Tue) - Variables and Methods ( Methods and Arguments - Method Scope Lab) (9 lessons)
+3. Day 3 (Wed) - Booleans (all) + Logic and Conditionals (all) (10 lessons)
+4. Day 4 (Thur) - Looping (all) (8 lessons)
+5. Day 5 (Fri) - Arrays (all) (15 lessons)
 
 # Study Group Videos and Code
 
