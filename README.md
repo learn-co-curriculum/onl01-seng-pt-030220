@@ -3,7 +3,7 @@
 # Helpful Links 
 
 1. [Zoom link for 1:1's and Study Groups](https://wework.zoom.com/j/2135328262)
-2. [Link to set up 1:1 with me!](https://go.oncehub.com/MicahsFirstMileMeetings)
+2. [Link to set up 1:1 with me!]()
 
 ## Pairing (will populate this list soon)
 
