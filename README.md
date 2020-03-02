@@ -18,7 +18,7 @@
 ### Week 1: Mar 2nd 2020
 #### This week's focus:  Procedural Ruby 
 
-1. Day 1 (Mon) - Command Line Applications (all)  + Variables and Methods (up to Defining Methods) (6 lessons)
+1. Day 1 (Mon) - Welcome to Learn (all)  + Variables and Methods (up to Defining Methods) (6 lessons)
 2. Day 2 (Tue) - Variables and Methods ( Methods and Arguments - Method Scope Lab) (9 lessons)
 3. Day 3 (Wed) - Booleans (all) + Logic and Conditionals (all) (10 lessons)
 4. Day 4 (Thur) - Looping (all) (8 lessons)
