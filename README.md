@@ -31,4 +31,6 @@
 |**Week 1**|
 | Orientation | [Video](https://youtu.be/BH1pgEvhxM8) | [Quiz](https://forms.gle/Zv4MJCWMDxQZ59gC6)|
 | Pair Programming| [Video](#)|[Quiz](#)|
-| If Statements/ Ternary Operators | [Video](#)| [Code](#)
+| Functions/Return Values Lab | [Video](https://youtu.be/LVAai-QnE54)| N/A|
+| If Statements/ Ternary Operators | [Video](#)| [Code](#)|
+
