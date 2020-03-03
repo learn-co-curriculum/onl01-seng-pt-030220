@@ -29,6 +29,6 @@
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 1**|
-| Orientation | [Video](#) | [Quiz](https://forms.gle/Zv4MJCWMDxQZ59gC6)|
+| Orientation | [Video](https://youtu.be/BH1pgEvhxM8) | [Quiz](https://forms.gle/Zv4MJCWMDxQZ59gC6)|
 | Pair Programming| [Video](#)|[Quiz](#)|
 | If Statements/ Ternary Operators | [Video](#)| [Code](#)
