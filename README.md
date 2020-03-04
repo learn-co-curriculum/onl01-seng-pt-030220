@@ -22,7 +22,7 @@
 2. Day 2 (Tue) - Variables and Methods ( Methods and Arguments - Method Scope Lab) (9 lessons)
 3. Day 3 (Wed) - Booleans (all) + Logic and Conditionals (all) (10 lessons)
 4. Day 4 (Thur) - Looping (all) (8 lessons)
-5. Day 5 (Fri) - Arrays (all) (15 lessons)
+5. Day 5 (Fri) - Arrays (all) (5 lessons)
 
 # Study Group Videos and Code
 
