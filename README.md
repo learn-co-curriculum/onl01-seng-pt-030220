@@ -34,4 +34,5 @@
 | Functions/Return Values Lab | [Video](https://youtu.be/LVAai-QnE54)| N/A|
 | Teusday Night OOH | [Video](https://youtu.be/8lefNmDKI90)|N/A|
 | If Statements/ Ternary Operators | [Video](#)| [Code](#)|
+| Wednesday Morning OOH | [Video](https://youtu.be/N8qdTTcsMyw)| N/A |
 
