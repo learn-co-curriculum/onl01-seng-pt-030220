@@ -35,4 +35,5 @@
 | Teusday Night OOH | [Video](https://youtu.be/8lefNmDKI90)|N/A|
 | If Statements/ Ternary Operators | [Video](#)| [Code](#)|
 | Wednesday Morning OOH | [Video](https://youtu.be/N8qdTTcsMyw)| N/A |
+| If Statement/Ternary Op Labs | [Video](https://youtu.be/vwzIRaTZkV0)| N/A |
 
