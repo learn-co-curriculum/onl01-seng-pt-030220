@@ -36,4 +36,6 @@
 | If Statements/ Ternary Operators | [Video](#)| [Code](#)|
 | Wednesday Morning OOH | [Video](https://youtu.be/N8qdTTcsMyw)| N/A |
 | If Statement/Ternary Op Labs | [Video](https://youtu.be/vwzIRaTZkV0)| N/A |
+| While and Until Loops /Countdown to Midnight Lab Walkthrough | [Video](https://youtu.be/QwLHQ8gjw18)| N/A |
+| First Mile Week 1 Thursday Night OOH | [Video](https://youtu.be/N8_oL0msK14)| | N/A |
 
