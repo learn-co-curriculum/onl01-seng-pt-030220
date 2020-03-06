@@ -30,7 +30,7 @@
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 1**|
 | Orientation | [Video](https://youtu.be/BH1pgEvhxM8) | [Quiz](https://forms.gle/Zv4MJCWMDxQZ59gC6)|
-| Pair Programming| [Video](#)|[Quiz](#)|
+| Pair Programming| [Video](https://www.youtube.com/watch?v=VLAytSYlAVo&feature=youtu.be)|[Quiz](https://forms.gle/uLqxxJgpicgxwPFS8)|
 | Functions/Return Values Lab | [Video](https://youtu.be/LVAai-QnE54)| N/A|
 | Teusday Night OOH | [Video](https://youtu.be/8lefNmDKI90)|N/A|
 | If Statements/ Ternary Operators | [Video](#)| [Code](#)|
