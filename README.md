@@ -18,11 +18,11 @@
 
 ### Week 2: Mar 9th 2020
 #### This Week's Focus: Arrays, Hashes, Iteration
-Day 1 - Iteration (Iteration and Abstraction -  Each Lab)
-Day 2 - Iteration Cont’d (Return from Yield Statements - Enumerators Code Challenge)
-Day 3 - Iteration Cont’d (Prime? Lab - Sorting Lab) + Hashes (all)
-Day 4 - Data Structures(all)
-Day 5 - Intro to object orientation (all) + Classes and instances (all) + Instance Methods (all)
+1. Day 1 - Iteration (Iteration and Abstraction -  Each Lab)
+2. Day 2 - Iteration Cont’d (Return from Yield Statements - Enumerators Code Challenge)
+3. Day 3 - Iteration Cont’d (Prime? Lab - Sorting Lab) + Hashes (all)
+4. Day 4 - Data Structures(all)
+5. Day 5 - Intro to object orientation (all) + Classes and instances (all) + Instance Methods (all)
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
@@ -51,5 +51,5 @@ Day 5 - Intro to object orientation (all) + Classes and instances (all) + Instan
 | If Statement/Ternary Op Labs | [Video](https://youtu.be/vwzIRaTZkV0)| N/A |
 | While and Until Loops /Countdown to Midnight Lab Walkthrough | [Video](https://youtu.be/QwLHQ8gjw18)| N/A |
 | First Mile Week 1 Thursday Night OOH | [Video](https://youtu.be/N8_oL0msK14)| | N/A |
-| First Mile Week 1 Friday OOH| |[Video](https://youtu.be/WNjEMJZghRw) | N/A |
+| First Mile Week 1 Friday OOH| [Video](https://youtu.be/WNjEMJZghRw) | N/A |
 
