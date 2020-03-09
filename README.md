@@ -5,7 +5,7 @@
 1. [Zoom link for 1:1's and Study Groups](https://wework.zoom.com/j/2135328262)
 2. [Link to set up 1:1 with me!](https://go.oncehub.com/MicahFirstMile)
 
-## Pairing (will populate this list soon)
+## Pairing (will populate after the First Mile)
 
 
 | Pair 1       | Pair 2       | Pair 3 |
@@ -13,7 +13,20 @@
 
 ## Any questions or issues please DM me. 
 
+
 # Weekly Assignments
+
+### Week 2: Mar 9th 2020
+#### This Week's Focus: Arrays, Hashes, Iteration
+Day 1 - Iteration (Iteration and Abstraction -  Each Lab)
+Day 2 - Iteration Cont’d (Return from Yield Statements - Enumerators Code Challenge)
+Day 3 - Iteration Cont’d (Prime? Lab - Sorting Lab) + Hashes (all)
+Day 4 - Data Structures(all)
+Day 5 - Intro to object orientation (all) + Classes and instances (all) + Instance Methods (all)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 2**|
 
 ### Week 1: Mar 2nd 2020
 #### This week's focus:  Procedural Ruby 
@@ -38,4 +51,5 @@
 | If Statement/Ternary Op Labs | [Video](https://youtu.be/vwzIRaTZkV0)| N/A |
 | While and Until Loops /Countdown to Midnight Lab Walkthrough | [Video](https://youtu.be/QwLHQ8gjw18)| N/A |
 | First Mile Week 1 Thursday Night OOH | [Video](https://youtu.be/N8_oL0msK14)| | N/A |
+| First Mile Week 1 Friday OOH| |[Video](https://youtu.be/WNjEMJZghRw) | N/A |
 
