@@ -29,6 +29,7 @@
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 2**|
 |Arrays and Iterations| [Video](https://youtu.be/i5wRJGMwmu4) | N/A| N/A|
+|Hash Iteration Lab| [Video](https://youtu.be/Plg9se4F5IA) |N/A| |N/A|
 
 ### Week 1: Mar 2nd 2020
 #### This week's focus:  Procedural Ruby 
