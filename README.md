@@ -17,6 +17,15 @@
 
 # Weekly Assignments
 
+### Week 3: Mar 16th 2020
+
+1. Object Oriented Ruby: Object Properties (up to Object Attributes Lesson) 
+2. Object Oriented Ruby: Object Properties (Object Attributes Lab - Video Review: Object Properties) 
+3. Object Oriented Ruby: Object Lifecycle 
+4. Object Oriented Ruby: Object’s Self 
+5. Object Oriented Ruby: Class Variables and Methods
+
+
 ### Week 2: Mar 9th 2020
 #### This Week's Focus: Arrays, Hashes, Iteration
 1. Day 1 - Iteration (Iteration and Abstraction -  Each Lab)
