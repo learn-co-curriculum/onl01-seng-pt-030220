@@ -25,6 +25,10 @@
 4. Object Oriented Ruby: Object’s Self 
 5. Object Oriented Ruby: Class Variables and Methods
 
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 3**|
+|Intro to OOP | [Video](https://youtu.be/6Ia-sfpALGY) | [Slides](https://docs.google.com/presentation/d/1q8aHtZuveTKJLZql6V4YRxbIwBreEcO6Ep-A5oK1UOA/edit?usp=sharing) | N/A |
 
 ### Week 2: Mar 9th 2020
 #### This Week's Focus: Arrays, Hashes, Iteration
@@ -39,6 +43,7 @@
 |**Week 2**|
 |Arrays and Iterations| [Video](https://youtu.be/i5wRJGMwmu4) | N/A| N/A|
 |Hash Iteration Lab| [Video](https://youtu.be/Plg9se4F5IA) |N/A| |N/A|
+|Friday OOH | [Video](https://youtu.be/_j8xI6MEmUc) | N/A | N/A |
 
 ### Week 1: Mar 2nd 2020
 #### This week's focus:  Procedural Ruby 
