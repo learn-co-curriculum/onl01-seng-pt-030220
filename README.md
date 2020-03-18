@@ -3,9 +3,9 @@
 # Helpful Links 
 
 1. [Zoom link for 1:1's and Study Groups](https://wework.zoom.com/j/2135328262)
-2. [Link to set up 1:1 with me!](https://go.oncehub.com/MicahFirstMile)
+2. [Link to set up 1:1 with me!](https://go.oncehub.com/MicahWeekly11)
 
-## Pairing (will populate after the First Mile)
+## Pairing (will populate week 4)
 
 
 | Pair 1       | Pair 2       | Pair 3 |
