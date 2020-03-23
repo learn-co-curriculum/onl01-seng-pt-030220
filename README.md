@@ -8,7 +8,7 @@
 ## Pairing 
 
 
-| Pair 1       | Pair 2       | Pair 3 (Not Used)|
+| Pair 1       | Pair 2       | Pair 3 |
 | ------------- |:-------------:| ---------- |
 | Brittany Mize   | Ruth Tafesework Kebede    |
 | Benjamin Ajisefinni   | Ahmed Al Abbas    |
@@ -36,8 +36,7 @@
 | Betelhem Elfagid   | Brandon Marrero    |
 | Rachel Padworski   | Camisha Farris    |
 | Brittany Russell   | Crystal Schooling    |
-| Marios Dimitropoulos   | Isaac Smith    |
-| Sean Melton   | John Michael Robey    |
+| Marios Dimitropoulos   | Isaac Smith    | John Michael Robey  |
 | Peter Rose   | Christopher Cid    |
 | Bartholomew Fountain   | Hailey Putnam    |
 | Tylar Pierson   | Jaquan Piper    |
