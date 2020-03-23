@@ -10,12 +10,59 @@
 
 | Pair 1       | Pair 2       | Pair 3 |
 | ------------- |:-------------:| ---------- |
+| Brittany Mize   | Ruth Tafesework Kebede    |
+| Benjamin Ajisefinni   | Ahmed Al Abbas    |
+| Shana Wiltshire   | Allen Phillip Pottinger    |
+| German Cruz   | Jordan Romero    |
+| Shaina Cailles   | Megan Morgan Mcclure    |
+| Christopher Chaison   | Zaire Swailes    |
+| Nikelson Exantus   | Jose E Reyes    |
+| Jordan Hayes   | Austin L Redmond    |
+| Dexter Fitch   | Marcos Rodriguez    |
+| Chayan Martinez   | Erik Prenzlin    |
+| Zitai Huang   | James Dodds    |
+| Cody Alvarez   | Jack Madden    |
+| Ronald Taylor   | Tabassum Hassan    |
+| Bethany Holley   | Dametrik Fick    |
+| Kimberly Aviles   | Alejandra Lee    |
+| Tariq Bailey   | Dylan Williamson    |
+| Odd   | Sara Isabel Garcia Reyes    |
+| Craig Storer   | Domenico Cascone    |
+| David Campbell   | Nicole Sims    |
+| Ruari Day   | Ariel Murphy    |
+| Brandon Guffey   | Matthew Gordon    |
+| Yakura Marzett   | Whitney Hodgkins    |
+| Skyler Littleaxe   | Adam Priest    |
+| Betelhem Elfagid   | Brandon Marrero    |
+| Rachel Padworski   | Camisha Farris    |
+| Brittany Russell   | Crystal Schooling    |
+| Marios Dimitropoulos   | Isaac Smith    |
+| Sean Melton   | John Michael Robey    |
+| Peter Rose   | Christopher Cid    |
+| Bartholomew Fountain   | Hailey Putnam    |
+| Tylar Pierson   | Jaquan Piper    |
+| Celeste Thomas   | Luis Gonzalez    |
+| Bikram Sodhi   | Maurice Falls    |
+| Melissa Perez   | Pablo Menz    |
+| Gage Morgan   | Tymetris Raino    |
+| Doug Jones   | Yukiko Ikeda    |
+| Rwanda S   | Robert Aledo    |
 
 
 ## Any questions or issues please DM me. 
 
 
 # Weekly Assignments
+
+### Week 4: Mar 23rd 2020
+
+1.  Object Oriented Ruby: Object Models (5 Lessons)
+2. Object Oriented Ruby: OO Tic Tac Toe (2 Lessons)
+3.  Object Oriented Ruby: Object Labs (3 Lessons)
+4. Object Oriented Ruby: Object Relationships (Has Many Object Lab) (4 Lessons)
+5.  Object Oriented Ruby: Object Relationships (Collaborating Objects Review) (3 Lessons)
+
+
 
 ### Week 3: Mar 16th 2020
 
