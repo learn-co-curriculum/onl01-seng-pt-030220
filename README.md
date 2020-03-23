@@ -5,10 +5,10 @@
 1. [Zoom link for 1:1's and Study Groups](https://wework.zoom.com/j/2135328262)
 2. [Link to set up 1:1 with me!](https://go.oncehub.com/MicahWeekly11)
 
-## Pairing (will populate week 4)
+## Pairing 
 
 
-| Pair 1       | Pair 2       | Pair 3 |
+| Pair 1       | Pair 2       | Pair 3 (Not Used)|
 | ------------- |:-------------:| ---------- |
 | Brittany Mize   | Ruth Tafesework Kebede    |
 | Benjamin Ajisefinni   | Ahmed Al Abbas    |
