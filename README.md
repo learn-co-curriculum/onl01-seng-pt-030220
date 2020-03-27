@@ -77,6 +77,7 @@
 |Intro to OOP | [Video](https://youtu.be/6Ia-sfpALGY) | [Slides](https://docs.google.com/presentation/d/1q8aHtZuveTKJLZql6V4YRxbIwBreEcO6Ep-A5oK1UOA/edit?usp=sharing) | N/A |
 |Intro to OOP pt. 2| [Video](https://youtu.be/qBFKDpKHgug) | Slides (above link) | N/A |
 |Simple CLI | [Video](https://youtu.be/5uqJiT81DzI) | [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/oop_simple_cli) | N/A |
+| Open Office Hours| |[Video](https://youtu.be/nua6WT7iEro) | N/A | N/A |
 
 ### Week 2: Mar 9th 2020
 #### This Week's Focus: Arrays, Hashes, Iteration
