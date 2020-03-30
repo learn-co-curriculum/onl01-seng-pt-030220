@@ -58,6 +58,8 @@
 3. Object Oriented Ruby: Object Architecture (Finish) (4 Lessons)
 4. Object Oriented Ruby: Metaprogramming (Mass Assignment Lab) (3 Lessons)
 5. Object Oriented Ruby: Metaprogramming (Finish) (2 Lessons)
+
+
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 5**|
