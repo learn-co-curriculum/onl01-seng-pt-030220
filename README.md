@@ -10,48 +10,55 @@
 
 | Pair 1       | Pair 2       | Pair 3 |
 | ------------- |:-------------:| ---------- |
-| Brittany Mize   | Ruth Tafesework Kebede    |
-| Benjamin Ajisefinni   | Ahmed Al Abbas    |
-| Shana Wiltshire   | Allen Phillip Pottinger    |
-| German Cruz   | Jordan Romero    |
-| Shaina Cailles   | Megan Morgan Mcclure    |
-| Christopher Chaison   | Zaire Swailes    |
-| Nikelson Exantus   | Jose E Reyes    |
-| Jordan Hayes   | Austin L Redmond    |
-| Dexter Fitch   | Marcos Rodriguez    |
-| Chayan Martinez   | Erik Prenzlin    |
-| Zitai Huang   | James Dodds    |
-| Cody Alvarez   | Jack Madden    |
-| Ronald Taylor   | Tabassum Hassan    |
-| Bethany Holley   | Dametrik Fick    |
-| Kimberly Aviles   | Alejandra Lee    |
-| Tariq Bailey   | Dylan Williamson    |
-| Odd   | Sara Isabel Garcia Reyes    |
-| Craig Storer   | Domenico Cascone    |
-| David Campbell   | Nicole Sims    |
-| Ruari Day   | Ariel Murphy    |
-| Brandon Guffey   | Matthew Gordon    |
-| Yakura Marzett   | Whitney Hodgkins    |
-| Skyler Littleaxe   | Adam Priest    |
-| Betelhem Elfagid   | Brandon Marrero    |
+| Brittany Mize   | Ahmed Afandy    |
+| Ruth Tafesework Kebede   | Allen Phillip Pottinger    |
+|   | Jordan Romero    | Melissa Perez |
+| Shana Wiltshire   | Megan Morgan Mcclure    |
+| German Cruz   | Zaire Swailes    |
+| Shaina Cailles   | Jose E Reyes    |
+|  Brandon Marrero    | Austin L Redmond    |
+| Nikelson Exantus   | Marcos Rodriguez    |
+| Jordan Hayes   | Erik Prenzlin    |
+| Dexter Fitch   | James Dodds    |
+| Zitai Huang   | Jack Madden    |
+| Cody Alvarez   | Tabassum Hassan    |
+| Ronald Taylor   | Dametrik Fick    |
+| Bethany Holley   | Alejandra Lee    |
+| Kimberly Aviles   | Dylan Williamson    |
+| Tariq Bailey   | Sara Isabel Garcia Reyes    |
+| Odd   | Domenico Cascone    |
+| Craig Storer   | Nicole Sims    |
+| David Campbell   | Ariel Murphy    |
+| Ruari Day   | Matthew Gordon    |
+| Brandon Guffey   | Whitney Hodgkins    |
+| Yakura Marzett   | Adam Priest    |
+| Skyler Littleaxe   |  Maurice Falls  |
 | Rachel Padworski   | Camisha Farris    |
 | Brittany Russell   | Crystal Schooling    |
-| Marios Dimitropoulos   | Isaac Smith    | John Michael Robey  |
-| Peter Rose   | Christopher Cid    |
-| Bartholomew Fountain   | Hailey Putnam    |
-| Tylar Pierson   | Jaquan Piper    |
-| Celeste Thomas   | Luis Gonzalez    |
-| Bikram Sodhi   | Maurice Falls    |
-| Melissa Perez   | Pablo Menz    |
-| Gage Morgan   | Tymetris Raino    |
-| Doug Jones   | Yukiko Ikeda    |
-| Rwanda S   | Robert Aledo    |
-
+| Marios Dimitropoulos   | Isaac Smith    |
+| Peter Rose   | John Michael Robey    |
+| Bartholomew Fountain   | Christopher Cid    |
+| Tylar Pierson   | Hailey Putnam    |
+| Celeste Thomas   | Jaquan Piper    |
+| Bikram Sodhi   | Luis Gonzalez    |
+| Benjamin Ajisefinni   |  Christopher Chaison   |
+| Gage Morgan   | Pablo Menz    |
+| Doug Jones   | Tymetris Raino    |
+| Rwanda S   | Yukiko Ikeda    |
+| Bernard Mel   | Robert Aledo    |
 
 ## Any questions or issues please DM me. 
 
 
 # Weekly Assignments
+
+### Week 5: Mar 30th 2020
+1. Object Oriented Ruby: Object Relationships (OO Banking) (3 Lessons)
+2. Object Oriented Ruby: Object Relationships (Finish), Object Oriented Ruby: Object Architecture (Intro to Inheritance Lab) (4 Lessons)
+3. Object Oriented Ruby: Object Architecture (Finish) (4 Lessons)
+4. Object Oriented Ruby: Metaprogramming (Mass Assignment Lab) (3 Lessons)
+5. Object Oriented Ruby: Metaprogramming (Finish) (2 Lessons)
+
 
 ### Week 4: Mar 23rd 2020
 
