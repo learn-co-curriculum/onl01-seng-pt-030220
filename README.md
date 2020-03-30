@@ -12,7 +12,7 @@
 | ------------- |:-------------:| ---------- |
 | Brittany Mize   | Ahmed Afandy    |
 | Ruth Tafesework Kebede   | Allen Phillip Pottinger    |
-|   | Jordan Romero    | Melissa Perez |
+|   Jordan Romero    | Melissa Perez |
 | Shana Wiltshire   | Megan Morgan Mcclure    |
 | German Cruz   | Zaire Swailes    |
 | Shaina Cailles   | Jose E Reyes    |
