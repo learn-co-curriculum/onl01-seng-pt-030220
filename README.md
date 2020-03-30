@@ -58,7 +58,9 @@
 3. Object Oriented Ruby: Object Architecture (Finish) (4 Lessons)
 4. Object Oriented Ruby: Metaprogramming (Mass Assignment Lab) (3 Lessons)
 5. Object Oriented Ruby: Metaprogramming (Finish) (2 Lessons)
-
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 5**|
 
 ### Week 4: Mar 23rd 2020
 
@@ -68,7 +70,12 @@
 4. Object Oriented Ruby: Object Relationships (Has Many Object Lab) (4 Lessons)
 5.  Object Oriented Ruby: Object Relationships (Collaborating Objects Review) (3 Lessons)
 
-
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 4**|
+| Object Class Methods and Self| |[Video](https://youtu.be/xD7-tfCMGzk) | N/A | N/A |
+|Simple CLI | [Video](https://youtu.be/5uqJiT81DzI) | [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/oop_simple_cli) | N/A |
+| Open Office Hours| |[Video](https://youtu.be/nua6WT7iEro) | N/A | N/A |
 
 ### Week 3: Mar 16th 2020
 
@@ -83,8 +90,7 @@
 |**Week 3**|
 |Intro to OOP | [Video](https://youtu.be/6Ia-sfpALGY) | [Slides](https://docs.google.com/presentation/d/1q8aHtZuveTKJLZql6V4YRxbIwBreEcO6Ep-A5oK1UOA/edit?usp=sharing) | N/A |
 |Intro to OOP pt. 2| [Video](https://youtu.be/qBFKDpKHgug) | Slides (above link) | N/A |
-|Simple CLI | [Video](https://youtu.be/5uqJiT81DzI) | [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/oop_simple_cli) | N/A |
-| Open Office Hours| |[Video](https://youtu.be/nua6WT7iEro) | N/A | N/A |
+
 
 ### Week 2: Mar 9th 2020
 #### This Week's Focus: Arrays, Hashes, Iteration
