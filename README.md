@@ -62,6 +62,8 @@
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| Object Relationships| [Video](https://youtu.be/ufdYrLuz1z0)| [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/oo_relations/pokemon) |  |
+| Intro To Scraping (Old Lecture) | [Video](https://youtu.be/rjg-gQGJhGc)| [Lesson, Code, Slides](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/intro_scraping) | N/A |
 |**Week 5**|
 
 ### Week 4: Mar 23rd 2020
