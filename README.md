@@ -12,21 +12,20 @@
 | ------------- |:-------------:| ---------- |
 | Brittany Mize   | Ahmed Afandy    |
 | Ruth Tafesework Kebede   | Allen Phillip Pottinger    |
-|   Jordan Romero    | Melissa Perez |
 | Shana Wiltshire   | Megan Morgan Mcclure    |
-| German Cruz   | Zaire Swailes    |
+| German Cruz   | Christopher Chaison    |
 | Shaina Cailles   | Jose E Reyes    |
 |  Brandon Marrero    | Austin L Redmond    |
 | Nikelson Exantus   | Marcos Rodriguez    |
 | Jordan Hayes   | Erik Prenzlin    |
 | Dexter Fitch   | James Dodds    |
 | Zitai Huang   | Jack Madden    |
-| Cody Alvarez   | Tabassum Hassan    |
+| Alejandra Lee    | Tabassum Hassan    |
 | Ronald Taylor   | Dametrik Fick    |
-| Bethany Holley   | Alejandra Lee    |
+| Bethany Holley   | Cody Alvarez   |
 | Kimberly Aviles   | Dylan Williamson    |
 | Tariq Bailey   | Sara Isabel Garcia Reyes    |
-| Odd   | Domenico Cascone    |
+| Melissa Perez | Domenico Cascone  |  Jordan Romero    | 
 | Craig Storer   | Nicole Sims    |
 | David Campbell   | Ariel Murphy    |
 | Ruari Day   | Matthew Gordon    |
@@ -41,13 +40,19 @@
 | Tylar Pierson   | Hailey Putnam    |
 | Celeste Thomas   | Jaquan Piper    |
 | Bikram Sodhi   | Luis Gonzalez    |
-| Benjamin Ajisefinni   |  Christopher Chaison   |
+| Benjamin Ajisefinni   |  Zaire Swailes   |
 | Gage Morgan   | Pablo Menz    |
 | Doug Jones   | Tymetris Raino    |
 | Rwanda S   | Yukiko Ikeda    |
 | Bernard Mel   | Robert Aledo    |
 
 ## Any questions or issues please DM me. 
+
+1. Object Oriented Ruby: Scraping (Scraping Lab) (3 Lessons)
+2.  Object Oriented Ruby: Scraping (Finish) (2 lessons)
+3. Object Oriented Ruby: Final Projects (start Music Library CLI) (0 lessons)
+4. Object Oriented Ruby: Final Projects (finish Music Library CLI) (1 lessons)
+5. Object Oriented Ruby: Final Projects (Student Scraper) (1 lessons)
 
 
 # Weekly Assignments
