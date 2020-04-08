@@ -73,6 +73,7 @@
 | Intro To Scraping (Old Lecture) | [Video](https://youtu.be/rjg-gQGJhGc)| [Lesson, Code, Slides](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/intro_scraping) | N/A |
 | Intro to APIs| [Video](https://youtu.be/ctniosV8an8) | N/A | N/A |
 | Pokemon CLI | [Video](https://youtu.be/W7Djc2IonRI) | N/A | N/A |
+| Pokemon CLI pt 2| [Video](https://youtu.be/06e6MVmpJ90) | N/A | N/A|
 
 
 ### Week 4: Mar 23rd 2020
