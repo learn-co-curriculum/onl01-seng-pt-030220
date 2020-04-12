@@ -74,6 +74,7 @@
 | Intro to APIs| [Video](https://youtu.be/ctniosV8an8) | N/A | N/A |
 | Pokemon CLI | [Video](https://youtu.be/W7Djc2IonRI) | N/A | N/A |
 | Pokemon CLI pt 2| [Video](https://youtu.be/06e6MVmpJ90) | N/A | N/A|
+| Pokemon CLI pt 3| [Video](https://youtu.be/Hbnp-mdD1Y4) | N/A | N/A|
 
 
 ### Week 4: Mar 23rd 2020
