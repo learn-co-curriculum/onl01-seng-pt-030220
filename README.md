@@ -5,7 +5,16 @@
 1. [Zoom link for 1:1's and Study Groups](https://wework.zoom.com/j/2135328262)
 2. [Link to set up 1:1 with me!](https://go.oncehub.com/MicahWeekly11)
 
-## Pairing 
+# Announcements
+- ATTENTION CODE WARRIORS: Welcome to your first Project Week! Pair Programming is not required this week! There are no POD groups! OOH WILL be held regularly throughout the week! Check the Cohort Calendar and Study Groups! (Cohort Calendar will be up to date as of Monday Morning, Study Groups will be made Monday Night for the rest of the week)
+- DO NOT LET YOURSELF FEEL ALONE DURING THIS PROJECT! I am here to help you, reach out if you need me!
+- If you are behind, GET CAUGHT UP!!!
+- If you need to watch someone doing a CLI, watch the PokemonPandemic series below! Or slack me!
+- AAQ does NOT support projects, but I do!!!
+- UTILIZE OOH and me!!
+
+
+## Pairing (NONE DURING PROJECT WEEK)
 
 
 | Pair 1       | Pair 2       | Pair 3 |
@@ -57,6 +66,9 @@
 
 # Weekly Assignments
 
+### Week 6: PROJECT WEEK
+1. Work on your project
+
 ### Week 5: Mar 30th 2020
 1. Object Oriented Ruby: Object Relationships (OO Banking) (3 Lessons)
 2. Object Oriented Ruby: Object Relationships (Finish), Object Oriented Ruby: Object Architecture (Intro to Inheritance Lab) (4 Lessons)
@@ -74,7 +86,8 @@
 | Intro to APIs| [Video](https://youtu.be/ctniosV8an8) | N/A | N/A |
 | Pokemon CLI | [Video](https://youtu.be/W7Djc2IonRI) | N/A | N/A |
 | Pokemon CLI pt 2| [Video](https://youtu.be/06e6MVmpJ90) | N/A | N/A|
-| Pokemon CLI pt 3| [Video](https://youtu.be/Hbnp-mdD1Y4) | N/A | N/A|
+| Pokemon CLI pt 3| [Video](https://youtu.be/Hbnp-mdD1Y4) | N/A | N/A| 
+| Pokemon CLI pt 4| [Video](https://youtu.be/xD3DMD90Ctk) | N/A | N/A|
 
 
 ### Week 4: Mar 23rd 2020
