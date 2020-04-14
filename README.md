@@ -12,6 +12,7 @@
 - If you need to watch someone doing a CLI, watch the PokemonPandemic series below! Or slack me!
 - AAQ does NOT support projects, but I do!!!
 - UTILIZE OOH and me!!
+- [Project Slideshow](https://docs.google.com/presentation/d/1SPkY7kc0sbftK_ifQ_wL0BWMpcKc3HUvvqqzg7iWtwg/edit?usp=sharing)
 
 
 ## Pairing (NONE DURING PROJECT WEEK)
