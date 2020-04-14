@@ -88,6 +88,7 @@
 | Pokemon CLI pt 2| [Video](https://youtu.be/06e6MVmpJ90) | N/A | N/A|
 | Pokemon CLI pt 3| [Video](https://youtu.be/Hbnp-mdD1Y4) | N/A | N/A| 
 | Pokemon CLI pt 4| [Video](https://youtu.be/xD3DMD90Ctk) | N/A | N/A|
+| Pokemon CLI pt 5| [Video](https://youtu.be/TaRHwKGdJsg) | N/A | N/A |
 
 
 ### Week 4: Mar 23rd 2020
