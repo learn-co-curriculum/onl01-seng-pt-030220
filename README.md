@@ -67,8 +67,21 @@
 
 # Weekly Assignments
 
-### Week 6: PROJECT WEEK
+### Week 7: PROJECT WEEK
 1. Work on your project
+[Monday OOH](https://youtu.be/JnwbVt56-7g)
+[Tuesday OOH](https://youtu.be/cy3F1g8EAjE)
+
+### Week 6: April 6th 2020
+1. OO Ruby: Scraping (Scraping Lab 3 Lessons)
+2. OO Ruby: Scraping (Finish) (2 Lessons)
+3. OO Ruby: Final Projects (Start Music Library CLI) 
+4. OO Ruby: Final Projects (Finish Music Library CLI) 
+5. OO Ruby: Final Preojects (Student Scraper)
+|Topic | Video| Code | Repl|
+|--|:--:|--|--|
+| Pokemon CLI pt 4| [Video](https://youtu.be/xD3DMD90Ctk) | N/A | N/A|
+| Pokemon CLI pt 5| [Video](https://youtu.be/TaRHwKGdJsg) | N/A | N/A |
 
 ### Week 5: Mar 30th 2020
 1. Object Oriented Ruby: Object Relationships (OO Banking) (3 Lessons)
@@ -88,8 +101,7 @@
 | Pokemon CLI | [Video](https://youtu.be/W7Djc2IonRI) | N/A | N/A |
 | Pokemon CLI pt 2| [Video](https://youtu.be/06e6MVmpJ90) | N/A | N/A|
 | Pokemon CLI pt 3| [Video](https://youtu.be/Hbnp-mdD1Y4) | N/A | N/A| 
-| Pokemon CLI pt 4| [Video](https://youtu.be/xD3DMD90Ctk) | N/A | N/A|
-| Pokemon CLI pt 5| [Video](https://youtu.be/TaRHwKGdJsg) | N/A | N/A |
+
 
 
 ### Week 4: Mar 23rd 2020
