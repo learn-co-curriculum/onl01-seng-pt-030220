@@ -2,7 +2,7 @@
 
 # Helpful Links 
 
-1. [Zoom link for 1:1's and Study Groups](https://wework.zoom.com/j/2135328262)
+1. [Zoom link for 1:1's and Study Groups]https://wework.zoom.com/j/2135328262?pwd=ZVZHalFGbEgvTStoSFVxbkF0UGRzQT09)
 2. [Link to set up 1:1 with me!](https://go.oncehub.com/MicahWeekly11)
 
 # Announcements
