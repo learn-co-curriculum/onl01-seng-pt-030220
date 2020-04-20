@@ -66,6 +66,9 @@
 
 
 # Weekly Assignments
+### Week 8: PROJECT WEEK PT 2 
+1. Finish your project
+2. [Schedule your review](https://go.oncehub.com/StructuredProgramCLIProjectReviews)
 
 ### Week 7: PROJECT WEEK
 1. Work on your project
