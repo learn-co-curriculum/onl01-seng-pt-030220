@@ -6,7 +6,7 @@
 2. [Link to set up 1:1 with me!](https://go.oncehub.com/MicahWeekly11)
 
 # Announcements
-- ATTENTION CODE WARRIORS: Welcome to your first Project Week! Pair Programming is not required this week! There are no POD groups! OOH WILL be held regularly throughout the week! Check the Cohort Calendar and Study Groups! (Cohort Calendar will be up to date as of Monday Morning, Study Groups will be made Monday Night for the rest of the week)
+- ATTENTION CODE WARRIORS:Project Week pt 2! Pair Programming is not required this week! There are no POD groups! OOH WILL be held regularly throughout the week! Check the Cohort Calendar and Study Groups! 
 - DO NOT LET YOURSELF FEEL ALONE DURING THIS PROJECT! I am here to help you, reach out if you need me!
 - If you are behind, GET CAUGHT UP!!!
 - If you need to watch someone doing a CLI, watch the PokemonPandemic series below! Or slack me!
@@ -81,6 +81,8 @@
 3. OO Ruby: Final Projects (Start Music Library CLI) 
 4. OO Ruby: Final Projects (Finish Music Library CLI) 
 5. OO Ruby: Final Preojects (Student Scraper)
+
+
 | Topic | Video | Code | Repl |
 | ----- |:-----:| ------ | ----- | 
 | Pokemon CLI pt 4 | [Video](https://youtu.be/xD3DMD90Ctk) | N/A | N/A |
