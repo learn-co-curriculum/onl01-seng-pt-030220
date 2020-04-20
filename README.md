@@ -82,7 +82,7 @@
 4. OO Ruby: Final Projects (Finish Music Library CLI) 
 5. OO Ruby: Final Preojects (Student Scraper)
 |Topic | Video| Code | Repl|
-|--|:--:|--|--|
+| ----- |:-----:| ------ | ----- | 
 | Pokemon CLI pt 4| [Video](https://youtu.be/xD3DMD90Ctk) | N/A | N/A|
 | Pokemon CLI pt 5| [Video](https://youtu.be/TaRHwKGdJsg) | N/A | N/A |
 
