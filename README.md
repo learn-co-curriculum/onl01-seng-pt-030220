@@ -6,16 +6,14 @@
 2. [Link to set up 1:1 with me!](https://go.oncehub.com/MicahWeekly11)
 
 # Announcements
-- ATTENTION CODE WARRIORS:Project Week pt 2! Pair Programming is not required this week! There are no POD groups! OOH WILL be held regularly throughout the week! Check the Cohort Calendar and Study Groups! 
-- DO NOT LET YOURSELF FEEL ALONE DURING THIS PROJECT! I am here to help you, reach out if you need me!
-- If you are behind, GET CAUGHT UP!!!
-- If you need to watch someone doing a CLI, watch the PokemonPandemic series below! Or slack me!
-- AAQ does NOT support projects, but I do!!!
-- UTILIZE OOH and me!!
+- PROJECT WEEK IS OVER!!!
+- POD Groups are Starting Back up!!!
+- GET YOUR PROJECT REVIEWS DONE THIS WEEK!!
+- Let me know if you are having trouble getting your project done!
 - [Project Slideshow](https://docs.google.com/presentation/d/1SPkY7kc0sbftK_ifQ_wL0BWMpcKc3HUvvqqzg7iWtwg/edit?usp=sharing)
 
 
-## Pairing (NONE DURING PROJECT WEEK)
+## Pairing
 
 
 | Pair 1       | Pair 2       | Pair 3 |
@@ -56,13 +54,17 @@
 | Rwanda S   | Yukiko Ikeda    |
 | Bernard Mel   | Robert Aledo    |
 
+
+
 ## Any questions or issues please DM me. 
 
-1. Object Oriented Ruby: Scraping (Scraping Lab) (3 Lessons)
-2.  Object Oriented Ruby: Scraping (Finish) (2 lessons)
-3. Object Oriented Ruby: Final Projects (start Music Library CLI) (0 lessons)
-4. Object Oriented Ruby: Final Projects (finish Music Library CLI) (1 lessons)
-5. Object Oriented Ruby: Final Projects (Student Scraper) (1 lessons)
+# Weekly Assignments
+### Week 9: Intro to SQL
+1. SQL: Topic Introduction, SQL: Getting Started (SQL Databases And Text Editors) (4 lessons)
+2. SQL: Getting Started (Basic SQL Queries) (3 Lessons)
+3. SQL: Getting Started (Finish) (3 lessons)
+4. SQL: Table Relations (SQL Join Tables) (5 lessons)
+5. SQL: Table Relations (Finish) (4 lessons)
 
 
 # Weekly Assignments
