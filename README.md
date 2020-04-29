@@ -66,6 +66,10 @@
 4. SQL: Table Relations (SQL Join Tables) (5 lessons)
 5. SQL: Table Relations (Finish) (4 lessons)
 
+| Topic | Video | Code | Repl |
+| ----- |:-----:| ------ | ----- | 
+| Intro to SQL | [Video](https://youtu.be/SD4cmjGBYCU) | N/A | N/A |
+
 
 # Weekly Assignments
 ### Week 8: PROJECT WEEK PT 2 
