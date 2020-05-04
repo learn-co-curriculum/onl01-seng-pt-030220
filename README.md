@@ -10,7 +10,7 @@
 - Don't let up now! Work hard throug until the break week at the end of this module!!! :)
 - [Project Slideshow](https://docs.google.com/presentation/d/1SPkY7kc0sbftK_ifQ_wL0BWMpcKc3HUvvqqzg7iWtwg/edit?usp=sharing)
 
-Students are coming in and out of the cohort, so the pairs are variable. They should settle out by next week, so if you either are paired with someone that is not in the cohort or you don't see your name on this list, just reach out on the #collaboration channel and 
+Students are coming in and out of the cohort, so the pairs are variable. They should settle out by next week, so if you either are paired with someone that is not in the cohort or you don't see your name on this list, just DM me or reach out on the #collaboration channel to get paired up
 ## Pairing
 
 
