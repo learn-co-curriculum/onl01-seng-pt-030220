@@ -6,57 +6,64 @@
 2. [Link to set up 1:1 with me!](https://go.oncehub.com/MicahWeekly11)
 
 # Announcements
-- PROJECT WEEK IS OVER!!!
-- POD Groups are Starting Back up!!!
-- GET YOUR PROJECT REVIEWS DONE THIS WEEK!!
-- Let me know if you are having trouble getting your project done!
+- PROJECT ASSESSMENT MUST BE COMPLETE BY THIS FRIDAY!!!
+- Don't let up now! Work hard throug until the break week at the end of this module!!! :)
 - [Project Slideshow](https://docs.google.com/presentation/d/1SPkY7kc0sbftK_ifQ_wL0BWMpcKc3HUvvqqzg7iWtwg/edit?usp=sharing)
 
-
+Students are coming in and out of the cohort, so the pairs are variable. They should settle out by next week, so if you either are paired with someone that is not in the cohort or you don't see your name on this list, just reach out on the #collaboration channel and 
 ## Pairing
 
 
 | Pair 1       | Pair 2       | Pair 3 |
 | ------------- |:-------------:| ---------- |
-| Brittany Mize   | Ahmed Afandy    |
-| Ruth Tafesework Kebede   | Allen Phillip Pottinger    |
-| Shana Wiltshire   | Megan Morgan Mcclure    |
-| German Cruz   | Christopher Chaison    |
-| Shaina Cailles   | Jose E Reyes    |
-|  Brandon Marrero    | Austin L Redmond    |
-| Nikelson Exantus   | Marcos Rodriguez    |
-| Jordan Hayes   | Erik Prenzlin    |
-| Dexter Fitch   | James Dodds    |
-| Zitai Huang   | Jack Madden    |
-| Alejandra Lee    | Tabassum Hassan    |
-| Ronald Taylor   | Dametrik Fick    |
-| Bethany Holley   | Cody Alvarez   |
-| Kimberly Aviles   | Dylan Williamson    |
-| Tariq Bailey   | Sara Isabel Garcia Reyes    |
-| Melissa Perez | Domenico Cascone  |  Jordan Romero    | 
-| Craig Storer   | Nicole Sims    |
-| David Campbell   | Ariel Murphy    |
-| Ruari Day   | Matthew Gordon    |
-| Brandon Guffey   | Whitney Hodgkins    |
-| Yakura Marzett   | Adam Priest    |
-| Skyler Littleaxe   |  Maurice Falls  |
-| Rachel Padworski   | Camisha Farris    |
-| Brittany Russell   | Crystal Schooling    |
-| Marios Dimitropoulos   | Isaac Smith    |
-| Peter Rose   | John Michael Robey    |
-| Bartholomew Fountain   | Christopher Cid    |
-| Tylar Pierson   | Hailey Putnam    |
-| Celeste Thomas   | Jaquan Piper    |
-| Bikram Sodhi   | Luis Gonzalez    |
-| Benjamin Ajisefinni   |  Zaire Swailes   |
-| Gage Morgan   | Pablo Menz    |
-| Doug Jones   | Tymetris Raino    |
-| Rwanda S   | Yukiko Ikeda    |
-| Bernard Mel   | Robert Aledo    |
+| Brittany Mize   | Kimberly Aviles    |
+| Tariq Bailey   | Bethany Holley    |
+| Odd   | Ronald Taylor    |
+| Craig Storer   | Cody Alvarez    |
+| David Campbell   | Zitai Huang    |
+| Ruari Day   | Dexter Fitch    |
+| Brandon Guffey   | Jordan Hayes    |
+| Yakura Marzett   | Nikelson Exantus    |
+| Skyler Littleaxe   | Christopher Chaison    |
+| Rachel Padworski   | Shaina Cailles    |
+| Brittany Russell   | German Cruz    |
+| Marios Dimitropoulos   | Shana Wiltshire    |
+| Peter Rose   | Benjamin Ajisefinni    |
+| Bartholomew Fountain   | Ruth Tafesework Kebede    |
+| Tylar Pierson   | Ahmed Afandy    |
+| Celeste Thomas   | Allen Phillip Pottinger    |
+| Bikram Sodhi   | Jordan Romero    |
+| Melissa Perez   | Megan Morgan Mcclure    |
+| Gage Morgan   | Zaire Swailes    |
+| Doug Jones   | Jose E Reyes    |
+| Rwanda S   | Austin L Redmond    |
+| Bernard Mel   | Marcos Rodriguez    |
+| Robert Aledo   | Erik Prenzlin    |
+| Yukiko Ikeda   | James Dodds    |
+| Tymetris Raino   | Jack Madden    |
+| Pablo Menz   | Tabassum Hassan    |
+| Maurice Falls   | Dametrik Fick    |
+| Luis Gonzalez   | Alejandra Lee    |
+| Jaquan Piper   | Dylan Williamson    |
+| Hailey Putnam   | Sara Isabel Garcia Reyes    |
+| Christopher Cid   | Domenico Cascone    |
+| John Michael Robey   | Nicole Sims    |
+| Isaac Smith   | Ariel Murphy    |
+| Crystal Schooling   | Matthew Gordon    |
+| Camisha Farris   | Whitney Hodgkins    |
+| Brandon Marrero   | Adam Priest    |
 
 
 
 ## Any questions or issues please DM me. 
+# Weekly Assignments
+### Week 10
+1. ORMs and ActiveRecord: ORMs (Mapping Classes To Tables Lab) (3 lessons)
+2. ORMs and ActiveRecord: ORMs (Updating Records In An ORM) (3 lessons)
+3. ORMs and ActiveRecord: ORMs (Preventing Record Duplication) (3 lessons)
+4. ORMs and ActiveRecord: ORMs (Dynamic ORM with Inheritance) (3 lessons)
+5. ORMs and ActiveRecord: ORMs (Finish) (4 lessons)
+
 
 # Weekly Assignments
 ### Week 9: Intro to SQL
