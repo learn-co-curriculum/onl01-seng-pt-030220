@@ -64,6 +64,10 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 4. ORMs and ActiveRecord: ORMs (Dynamic ORM with Inheritance) (3 lessons)
 5. ORMs and ActiveRecord: ORMs (Finish) (4 lessons)
 
+| Topic | Video | Code | Repl |
+| ----- |:-----:| ------ | ----- | 
+| Intro to SQL | [Video](https://www.youtube.com/watch?v=xrIkx5wAwug) | [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/make_orm/tweet_cli) | N/A |
+
 
 # Weekly Assignments
 ### Week 9: Intro to SQL
