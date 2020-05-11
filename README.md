@@ -6,7 +6,7 @@
 2. [Link to set up 1:1 with me!](https://go.oncehub.com/MicahWeekly11)
 
 # Announcements
-- PROJECT ASSESSMENT MUST BE COMPLETE BY THIS FRIDAY!!!
+- Week 3 of Sinatra! Stay on track! Get those daily assignments done.
 - Don't let up now! Work hard throug until the break week at the end of this module!!! :)
 - [Project Slideshow](https://docs.google.com/presentation/d/1SPkY7kc0sbftK_ifQ_wL0BWMpcKc3HUvvqqzg7iWtwg/edit?usp=sharing)
 
@@ -57,6 +57,15 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 
 ## Any questions or issues please DM me. 
 # Weekly Assignments
+
+### Week 11
+1. ORMs and ActiveRecord: ActiveRecord (Intro to Rake) (3 Lessons)
+2. ORMs and ActiveRecord: ActiveRecord (Migration and Active Record Lab) (3 Lessons)
+3. ORMs and ActiveRecord: ActiveRecord (Finish) (2 Lessons)
+4. ORMs and ActiveRecord: Associations (ActiveRecord Associations Lab) (2 Lessons)
+5. ORMs and ActiveRecord: Associations (Finish) (5 Lessons)
+
+
 ### Week 10
 1. ORMs and ActiveRecord: ORMs (Mapping Classes To Tables Lab) (3 lessons)
 2. ORMs and ActiveRecord: ORMs (Updating Records In An ORM) (3 lessons)
