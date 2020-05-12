@@ -67,9 +67,7 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 
 | Topic | Video | Code | Repl |
 | ----- |:-----:| ------ | ----- | 
-| Intro to ActiveRecord | | Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/blob/master/minis/activerecord.rb)
-) |  [Supplimental Video](https://youtu.be/Ro5RszyRb5w) |
-[
+| Intro to ActiveRecord | | [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/blob/master/minis/activerecord.rb) |  [Supplimental Video](https://youtu.be/Ro5RszyRb5w) |
 [Slides](https://docs.google.com/presentation/d/1RFuivIsZSd47B3aLeqHkqfOAwdMAwM9VoueIF08R9BU/edit?usp=sharing)
 
 ### Week 10
