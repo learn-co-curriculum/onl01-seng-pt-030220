@@ -11,48 +11,34 @@
 - [Project Slideshow](https://docs.google.com/presentation/d/1SPkY7kc0sbftK_ifQ_wL0BWMpcKc3HUvvqqzg7iWtwg/edit?usp=sharing)
 
 Students are coming in and out of the cohort, so the pairs are variable. They should settle out by next week, so if you either are paired with someone that is not in the cohort or you don't see your name on this list, just DM me or reach out on the #collaboration channel to get paired up
+
+
 ## Pairing
 
 
 | Pair 1       | Pair 2       | Pair 3 |
 | ------------- |:-------------:| ---------- |
-| Brittany Mize   | Kimberly Aviles    |
-| Tariq Bailey   | Bethany Holley    |
-| Odd   | Ronald Taylor    |
-| Craig Storer   | Cody Alvarez    |
-| David Campbell   | Zitai Huang    |
-| Ruari Day   | Dexter Fitch    |
-| Brandon Guffey   | Jordan Hayes    |
-| Yakura Marzett   | Nikelson Exantus    |
-| Skyler Littleaxe   | Christopher Chaison    |
-| Rachel Padworski   | Shaina Cailles    |
-| Brittany Russell   | German Cruz    |
-| Marios Dimitropoulos   | Shana Wiltshire    |
-| Peter Rose   | Benjamin Ajisefinni    |
-| Bartholomew Fountain   | Ruth Tafesework Kebede    |
-| Tylar Pierson   | Ahmed Afandy    |
-| Celeste Thomas   | Allen Phillip Pottinger    |
-| Bikram Sodhi   | Jordan Romero    |
-| Melissa Perez   | Megan Morgan Mcclure    |
-| Gage Morgan   | Zaire Swailes    |
-| Doug Jones   | Jose E Reyes    |
-| Rwanda S   | Austin L Redmond    |
-| Bernard Mel   | Marcos Rodriguez    |
-| Robert Aledo   | Erik Prenzlin    |
-| Yukiko Ikeda   | James Dodds    |
-| Tymetris Raino   | Jack Madden    |
-| Pablo Menz   | Tabassum Hassan    |
-| Maurice Falls   | Dametrik Fick    |
-| Luis Gonzalez   | Alejandra Lee    |
-| Jaquan Piper   | Dylan Williamson    |
-| Hailey Putnam   | Sara Isabel Garcia Reyes    |
-| Christopher Cid   | Domenico Cascone    |
-| John Michael Robey   | Nicole Sims    |
-| Isaac Smith   | Ariel Murphy    |
-| Crystal Schooling   | Matthew Gordon    |
-| Camisha Farris   | Whitney Hodgkins    |
-| Brandon Marrero   | Adam Priest    |
-
+| Kimberly Aviles   | Ronald Taylor    |
+| Ashley Norton   | Dexter Fitch    |
+| Odd   | Jordan Hayes    |
+| Ruari Day   | Christopher Chaison    |
+| Rachel Padworski   | German Cruz    |
+| Brittany Russell   | Tariq Bailey    |
+| Rwanda S   | Shana Wiltshire    |
+| Melissa Perez   | Ruth Tafesework Kebede    |
+| Bernard Mel   | Ahmed Afandy    |
+| Robert Aledo   | Alfredo Diaz    |
+| Jose Luis   | Allen Phillip Pottinger    |
+| Christopher Cid   | Jordan Romero    |
+| Isaac Smith   | Megan Morgan Mcclure    |
+| Brandon Marrero   | Austin L Redmond    |
+| Adam Priest   | Marcos Rodriguez    |
+| Matthew Gordon   | Jeffrey Marbury    |
+| Domenico Cascone   | Erik Prenzlin    |
+| Sara Isabel Garcia Reyes   | James Dodds    |
+| Dylan Williamson   | Jack Madden    |
+| Oj   | Dametrik Fick    |
+| Ashley Twomey   | Alejandra Lee    |
 
 
 ## Any questions or issues please DM me. 
