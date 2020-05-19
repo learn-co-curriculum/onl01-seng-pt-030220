@@ -43,7 +43,7 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 
 ## Any questions or issues please DM me. 
 # Weekly Assignments
-
+### Week 12
 1.  Sinatra: Sinatra Basics (What is Sinatra) (1 Lessons)
 2. Sinatra: Sinatra Basics (Sinatra From Scratch) (1 Lessons)
 3. Sinatra: Sinatra Basics (Sinatra Basics) (1 Lessons)
