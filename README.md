@@ -27,7 +27,7 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 | Melissa Perez   | Ruth Tafesework Kebede    |
 | Bernard Mel   | Ahmed Afandy    |
 | Robert Aledo   | Alfredo Diaz    |
-| Jose Luis   | Allen Phillip Pottinger    |
+|  Alejandra Lee | Allen Phillip Pottinger    |
 | Christopher Cid   | Jordan Romero    |
 | Isaac Smith   | Megan Morgan Mcclure    |
 | Brandon Marrero   | Austin L Redmond    |
@@ -37,7 +37,7 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 | Sara Isabel Garcia Reyes   | James Dodds    |
 | Dylan Williamson   | Jack Madden    |
 | Oj   | Dametrik Fick    |
-| Ashley Twomey   | Alejandra Lee    |
+| Ashley Twomey   | Jose Luis    |
 
 
 ## Any questions or issues please DM me. 
