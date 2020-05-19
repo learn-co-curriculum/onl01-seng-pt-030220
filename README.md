@@ -20,7 +20,6 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 | ------------- |:-------------:| ---------- |
 | Kimberly Aviles   | Ronald Taylor    |
 | Ashley Norton   | Dexter Fitch    |
-| Odd   | Jordan Hayes    |
 | Ruari Day   | Christopher Chaison    |
 | Rachel Padworski   | German Cruz    |
 | Brittany Russell   | Tariq Bailey    |
