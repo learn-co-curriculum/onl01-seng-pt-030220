@@ -48,7 +48,10 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 3. Sinatra: Sinatra Basics (Sinatra Basics) (1 Lessons)
 4. Sinatra: Sinatra Basics (Sinatra “Hello World” Lab) (2 Lessons)
 5. Sinatra: Sinatra Basics (Finish) (2 Lessons)
-
+| Topic | Video | Code | Repl |
+| ----- |:-----:| ------ | ----- | 
+|Intro to Sinatra|[Video](https://youtu.be/c5CtI2qR7GU)|[Code](https://github.com/micahshute/sinatra_intro_example)||
+|Intro to Sinatra (pt 2, POD)| [Video](https://youtu.be/GH-0ViRbhQY)|See above||
 
 ### Week 11
 1. ORMs and ActiveRecord: ActiveRecord (Intro to Rake) (3 Lessons)
