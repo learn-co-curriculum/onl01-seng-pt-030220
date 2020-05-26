@@ -42,6 +42,14 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 
 ## Any questions or issues please DM me. 
 # Weekly Assignments
+### Week 13
+1. Sinatra: MVC And Forms (Sinatra Basic Views Lab) (4 Lessons)
+2. Sinatra: MVC And Forms (Finish), Sinatra: Forms (Intro To Capybara Tests) (4 Lessons)
+3. Sinatra: Forms (Basic Sinatra Forms Lab) (5 Lessons)
+4. Sinatra: Forms (Sinatra Basic Forms Lab) (4 Lessons)
+5. Sinatra: Forms (Finish) (4 Lessons)
+
+
 ### Week 12
 1.  Sinatra: Sinatra Basics (What is Sinatra) (1 Lessons)
 2. Sinatra: Sinatra Basics (Sinatra From Scratch) (1 Lessons)
@@ -79,7 +87,6 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 | Intro to SQL | [Video](https://youtu.be/D7eQIGUuqRc) | [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/make_orm/tweet_cli) | N/A |
 
 
-# Weekly Assignments
 ### Week 9: Intro to SQL
 1. SQL: Topic Introduction, SQL: Getting Started (SQL Databases And Text Editors) (4 lessons)
 2. SQL: Getting Started (Basic SQL Queries) (3 Lessons)
@@ -92,7 +99,6 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 | Intro to SQL | [Video](https://youtu.be/SD4cmjGBYCU) | N/A | N/A |
 
 
-# Weekly Assignments
 ### Week 8: PROJECT WEEK PT 2 
 1. Finish your project
 2. [Schedule your review](https://go.oncehub.com/StructuredProgramCLIProjectReviews)
