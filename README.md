@@ -49,6 +49,9 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 4. Sinatra: Forms (Sinatra Basic Forms Lab) (4 Lessons)
 5. Sinatra: Forms (Finish) (4 Lessons)
 
+| Topic | Video | Code | Repl |
+| ----- |:-----:| ------ | ----- | 
+|Topic MVC/Forms|[Video](https://youtu.be/sR7xGHqXG-Y)|N/A|N/A|
 
 ### Week 12
 1.  Sinatra: Sinatra Basics (What is Sinatra) (1 Lessons)
@@ -62,6 +65,7 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 | ----- |:-----:| ------ | ----- | 
 |Intro to Sinatra|[Video](https://youtu.be/c5CtI2qR7GU)|[Code](https://github.com/micahshute/sinatra_intro_example)||
 |Intro to Sinatra (pt 2, POD)| [Video](https://youtu.be/GH-0ViRbhQY)|See above||
+|Intro to Sinatra (pt 3)| [Video](https://youtu.be/NDV-Opf8EQc) | N/A| N/A|
 
 ### Week 11
 1. ORMs and ActiveRecord: ActiveRecord (Intro to Rake) (3 Lessons)
