@@ -41,6 +41,15 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 
 
 ## Any questions or issues please DM me. 
+
+# Weekly Assignments
+1. Sinatra: Sessions (4 Lessons)
+2. Sinatra: ActiveRecord (Sinatra Sessions Lab- User Logins) (5 Lessons)
+3. Sinatra: ActiveRecord (Sinatra RESTful Routes Lab) (5 Lessons)
+4. Sinatra: ActiveRecord (Finish) (5 Lessons)
+5. Sinatra Project Mode: Fwitter (1 Lessons)
+
+
 # Weekly Assignments
 ### Week 13
 1. Sinatra: MVC And Forms (Sinatra Basic Views Lab) (4 Lessons)
