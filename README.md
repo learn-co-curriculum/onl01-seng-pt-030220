@@ -43,6 +43,7 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 ## Any questions or issues please DM me. 
 
 # Weekly Assignments
+### Week 14
 1. Sinatra: Sessions (4 Lessons)
 2. Sinatra: ActiveRecord (Sinatra Sessions Lab- User Logins) (5 Lessons)
 3. Sinatra: ActiveRecord (Sinatra RESTful Routes Lab) (5 Lessons)
