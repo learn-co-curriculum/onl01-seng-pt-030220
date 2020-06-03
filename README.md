@@ -54,6 +54,7 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 | ----- |:-----:| ------ | ----- | 
 |Sinatra Auth|[Video](https://youtu.be/2EwC112SHgw)|N/A|N/A|
 |Encryption, Hashing, Signatures| [Video]() |N/A|N/A|
+|Sinatra with 3rd Party API| [Video](https://youtu.be/u6LKNl5PYjU)|N/A|N/A|
 
 # Weekly Assignments
 ### Week 13
