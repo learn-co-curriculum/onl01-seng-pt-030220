@@ -56,6 +56,7 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 |Encryption, Hashing, Signatures| [Video]() |N/A|N/A|
 |Sinatra with 3rd Party API| [Video](https://youtu.be/u6LKNl5PYjU)|N/A|N/A|
 
+
 # Weekly Assignments
 ### Week 13
 1. Sinatra: MVC And Forms (Sinatra Basic Views Lab) (4 Lessons)
@@ -67,6 +68,7 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 | Topic | Video | Code | Repl |
 | ----- |:-----:| ------ | ----- | 
 |Topic MVC/Forms|[Video](https://youtu.be/sR7xGHqXG-Y)|N/A|N/A|
+|Sinatra CRUD| [Video](https://youtu.be/RAzIxbnGFyk)|N/A|N/A|
 
 ### Week 12
 1.  Sinatra: Sinatra Basics (What is Sinatra) (1 Lessons)
