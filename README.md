@@ -50,6 +50,11 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 5. Sinatra Project Mode: Fwitter (1 Lessons)
 
 
+| Topic | Video | Code | Repl |
+| ----- |:-----:| ------ | ----- | 
+|Sinatra Auth|[Video](https://youtu.be/2EwC112SHgw)|N/A|N/A|
+|Encryption, Hashing, Signatures| [Video]() |N/A|N/A|
+
 # Weekly Assignments
 ### Week 13
 1. Sinatra: MVC And Forms (Sinatra Basic Views Lab) (4 Lessons)
