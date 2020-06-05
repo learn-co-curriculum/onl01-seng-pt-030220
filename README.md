@@ -53,7 +53,7 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 
 | Topic | Video | Code | Repl |
 | ----- |:-----:| ------ | ----- | 
-|Sinatra Auth|[Video](https://youtu.be/2EwC112SHgw)|N/A|N/A|
+|Sinatra Auth|[Video](https://youtu.be/2EwC112SHgw)|[Code](https://github.com/micahshute/simple_sinatra_todos)|N/A|
 |Encryption, Hashing, Signatures| [Video]() |N/A|N/A|
 |Sinatra with 3rd Party API| [Video](https://youtu.be/u6LKNl5PYjU)|N/A|N/A|
 
