@@ -6,14 +6,14 @@
 2. [Link to set up 1:1 with me!](https://go.oncehub.com/MicahWeekly11)
 
 # Announcements
-- Week 3 of Sinatra! Stay on track! Get those daily assignments done.
-- Don't let up now! Work hard throug until the break week at the end of this module!!! :)
-- [Project Slideshow](https://docs.google.com/presentation/d/1SPkY7kc0sbftK_ifQ_wL0BWMpcKc3HUvvqqzg7iWtwg/edit?usp=sharing)
+- SINATRA PROJECT WEEK 1!!!!
+- As a reminder, there are no PODs this week, and Study Groups will be all OOH!
+- Build your first web app! 
+- Make sure to set good goals for yourself so you don't fall behind!
+- I have 10 hours of Open Office Hours this week! Please take advantage of them and come with any and all questions! Check the Cohort Calendar (above) for times!
 
-Students are coming in and out of the cohort, so the pairs are variable. They should settle out by next week, so if you either are paired with someone that is not in the cohort or you don't see your name on this list, just DM me or reach out on the #collaboration channel to get paired up
 
-
-## Pairing
+## Pairing (NONE DURING PROJECT WEEK)
 
 
 | Pair 1       | Pair 2       | Pair 3 |
@@ -43,6 +43,10 @@ Students are coming in and out of the cohort, so the pairs are variable. They sh
 ## Any questions or issues please DM me. 
 
 # Weekly Assignments
+### Week 15
+1. Plan, begin, and get halfway done your Sinatra Project!
+
+
 ### Week 14
 1. Sinatra: Sessions (4 Lessons)
 2. Sinatra: ActiveRecord (Sinatra Sessions Lab- User Logins) (5 Lessons)
