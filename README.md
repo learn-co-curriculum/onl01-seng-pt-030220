@@ -57,7 +57,8 @@
 
 | Topic | Video | Code | Repl |
 | ----- |:-----:| ------ | ----- | 
-|Sinatra Auth|[Video](https://youtu.be/2EwC112SHgw)|[Code](https://github.com/micahshute/simple_sinatra_todos)|N/A|
+|Sinatra Auth (Study Group, no music)| [Video](https://youtu.be/59V_PYDpTnU)|N/A|N/a|
+|Sinatra Auth (music too loud, sorry)|[Video](https://youtu.be/2EwC112SHgw)|[Code](https://github.com/micahshute/simple_sinatra_todos)|N/A|
 |Encryption, Hashing, Signatures| [Video]() |N/A|N/A|
 |Sinatra with 3rd Party API| [Video](https://youtu.be/u6LKNl5PYjU)|N/A|N/A|
 
