@@ -46,6 +46,9 @@
 ### Week 15
 1. Plan, begin, and get halfway done your Sinatra Project!
 
+| Topic | Video | Code | Repl |
+| ----- |:-----:| ------ | ----- | 
+|Sinatra Build pt 1| [Video](https://youtu.be/MhDjOiGkFds) | Coming Soon| N/A|
 
 ### Week 14
 1. Sinatra: Sessions (4 Lessons)
