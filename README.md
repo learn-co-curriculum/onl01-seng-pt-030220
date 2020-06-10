@@ -48,6 +48,7 @@
 
 | Topic | Video | Code | Repl |
 | ----- |:-----:| ------ | ----- | 
+| Sinatra Project Reqs | [Video](https://youtu.be/a4j6LIWg31g)|[Slides](https://docs.google.com/presentation/d/1Hsvg_gH0KgoHe7Lp58ziGMGaPJO8M5uOB1NQzrrGSQc/edit?usp=sharing)|N/A|
 |Sinatra Build pt 1| [Video](https://youtu.be/MhDjOiGkFds) | Coming Soon| N/A|
 
 ### Week 14
