@@ -6,11 +6,12 @@
 2. [Link to set up 1:1 with me!](https://go.oncehub.com/MicahWeekly11)
 
 # Announcements
-- SINATRA PROJECT WEEK 1!!!!
+- SINATRA PROJECT WEEK 2!!!!
 - As a reminder, there are no PODs this week, and Study Groups will be all OOH!
 - Build your first web app! 
 - Make sure to set good goals for yourself so you don't fall behind!
-- I have 10 hours of Open Office Hours this week! Please take advantage of them and come with any and all questions! Check the Cohort Calendar (above) for times!
+- Remember Friday is off
+- Next week is BREAK WEEK!! 
 
 
 ## Pairing (NONE DURING PROJECT WEEK)
@@ -41,6 +42,18 @@
 
 
 ## Any questions or issues please DM me. 
+
+# Weekly Assignments
+### Week 16
+1. Complete your Sinatra Portfolio Project
+2. Verify the REQUIREMENTS ARE MET PER THE LEARN.CO ASSESSMENT PAGE
+3. Schedule your assessment (NOT WITH ME).
+4. Be confident, crush it
+
+
+|Topic | Video| Code| Repl|
+| ----- |:-----:| ------ | ----- | 
+|Sinatra Build pt 3 | [Video](https://youtu.be/jcBT3l8sXD8)| Coming Soon | N/A|
 
 # Weekly Assignments
 ### Week 15
