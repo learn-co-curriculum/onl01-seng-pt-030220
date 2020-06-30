@@ -1,49 +1,22 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Micah&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-# Helpful Links 
-
-1. [Zoom link for 1:1's and Study Groups](https://wework.zoom.com/j/2135328262?pwd=ZVZHalFGbEgvTStoSFVxbkF0UGRzQT09)
-2. [Link to set up 1:1 with me!](https://go.oncehub.com/MicahWeekly11)
-
 # Announcements
-- SINATRA PROJECT WEEK 2!!!!
-- As a reminder, there are no PODs this week, and Study Groups will be all OOH!
-- Build your first web app! 
-- Make sure to set good goals for yourself so you don't fall behind!
-- Remember Friday is off
-- Next week is BREAK WEEK!! 
-
-
-## Pairing (NONE DURING PROJECT WEEK)
-
-
-| Pair 1       | Pair 2       | Pair 3 |
-| ------------- |:-------------:| ---------- |
-| Kimberly Aviles   | Ronald Taylor    |
-| Ashley Norton   | Dexter Fitch    |
-| Ruari Day   | Christopher Chaison    |
-| Rachel Padworski   | German Cruz    |
-| Brittany Russell   | Tariq Bailey    |
-| Rwanda S   | Shana Wiltshire    |
-| Melissa Perez   | Ruth Tafesework Kebede    |
-| Bernard Mel   | Ahmed Afandy    |
-| Robert Aledo   | Alfredo Diaz    |
-|  Alejandra Lee | Allen Phillip Pottinger    |
-| Christopher Cid   | Jordan Romero    |
-| Isaac Smith   | Megan Morgan Mcclure    |
-| Brandon Marrero   | Austin L Redmond    |
-| Adam Priest   | Marcos Rodriguez    |
-| Matthew Gordon   | Jeffrey Marbury    |
-| Domenico Cascone   | Erik Prenzlin    |
-| Sara Isabel Garcia Reyes   | James Dodds    |
-| Dylan Williamson   | Jack Madden    |
-| Oj   | Dametrik Fick    |
-| Ashley Twomey   | Jose Luis    |
-
+- We have Thursday and Friday off!
+- I am Nicky Dover, your new instructor. If you got questions, DM me!
+- We're on Rails!
+- Should I sell ad space here? Seems like a good side hustle.
 
 ## Any questions or issues please DM me. 
 
 # Weekly Assignments
+
+### Week 17
+1. Rails: Introduction to Rails (Rails MVC) (3 Lessons)
+2. Rails: Introduction to Rails (Finish) (3 Lessons)
+3. Rails: Model Basics (2 Lessons)
+4. Rails: Intro to REST (RESTful Action Index Lab) (2 Lessons)
+5. Rails: Intro to REST (Finish) (2 Lessons)
+
 ### Week 16
 1. Complete your Sinatra Portfolio Project
 2. Verify the REQUIREMENTS ARE MET PER THE LEARN.CO ASSESSMENT PAGE
