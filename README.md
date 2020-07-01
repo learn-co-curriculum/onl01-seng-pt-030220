@@ -17,6 +17,10 @@
 4. Rails: Intro to REST (RESTful Action Index Lab) (2 Lessons)
 5. Rails: Intro to REST (Finish) (2 Lessons)
 
+|Topic | Video| Code| Repl|
+| ----- |:-----:| ------ | ----- | 
+|Intro to Rails | [Video](https://youtu.be/3mb-MzZZU8g)| [Code](https://github.com/NickyEXE/Intro-To-Rails) | N/A|
+
 ### Week 16
 1. Complete your Sinatra Portfolio Project
 2. Verify the REQUIREMENTS ARE MET PER THE LEARN.CO ASSESSMENT PAGE
