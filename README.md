@@ -17,9 +17,10 @@
 4. Rails: Intro to REST (RESTful Action Index Lab) (2 Lessons)
 5. Rails: Intro to REST (Finish) (2 Lessons)
 
-|Topic | Video| Code| Repl|
-| ----- |:-----:| ------ | ----- | 
-|Intro to Rails | [Video](https://youtu.be/3mb-MzZZU8g)| [Code](https://github.com/NickyEXE/Intro-To-Rails) | N/A|
+|Topic | Video| Code|
+| ----- |:-----:| ------ | 
+|Intro to Rails | [Video](https://youtu.be/3mb-MzZZU8g)| [Code](https://github.com/NickyEXE/Intro-To-Rails)
+|Rest and Rails | [Video](https://youtu.be/jTuS_PaVgYc) - [Slides](https://docs.google.com/presentation/d/14RQgiqdWn5CGL5yAh4uCJAwLaG0YlDcbPfLwt9_OG1Y/edit?usp=sharing)| [Code](https://github.com/NickyEXE/030330-restful-routing-in-rails/tree/lesson-1-completion)
 
 ### Week 16
 1. Complete your Sinatra Portfolio Project
