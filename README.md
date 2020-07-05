@@ -1,14 +1,27 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Micah&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Announcements
-- We have Thursday and Friday off!
-- I am Nicky Dover, your new instructor. If you got questions, DM me!
-- We're on Rails!
-- Should I sell ad space here? Seems like a good side hustle.
+- CRUD Lecture Tuesday at 6PM ET
+- Optional Big O Review Wednesday at 5:30 PM ET
+- Have Optional Lunch with me on Friday at 1:30 PM ET
+- One-on-One Slots Available via the Calendar
+- We will have two pods on Thursday at 7 PM ET and Friday at 2:30 PM ET where we will simply build an app
+- We will have a curriculum pod at 6PM ET on Monday
+- We will have our first Algo pod at 7pm on Wednesday
 
-## Any questions or issues please DM me. 
+# Important Links:
+
+- Zoom: https://wework.zoom.com/j/98579111622?pwd=UlNKbThLWENMYlNRNzBFaUpiMkthdz09
+- Calendar: https://calendar.google.com/calendar/embed?src=flatironschool.com_7hr0loibj3vnukghc7a2qn6304%40group.calendar.google.com&ctz=America%2FNew_York
 
 # Weekly Assignments
+
+### Week 18
+1. Rails: Intro to ActionView (4 Lessons)
+2. Rails: CRUD with Rails (Index, Show, New, Create Lab) (3 Lessons)
+3. Rails: CRUD with Rails (Strong Params Basics) (3 Lessons)
+4. Rails: CRUD with Rails (Rails Generators) (3 Lessons)
+5. Rails: CRUD with Rails (Finish) (3 Lessons)
 
 ### Week 17
 1. Rails: Introduction to Rails (Rails MVC) (3 Lessons)
