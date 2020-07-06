@@ -2,12 +2,13 @@
 
 # Announcements
 - CRUD Lecture Tuesday at 6PM ET
-- Optional Big O Review Wednesday at 5:30 PM ET
+- Sinatra Show and Tell Wednesday at 6PM ET
+- Optional Big O Review Thursday at 5:30 PM ET
 - Have Optional Lunch with me on Friday at 1:30 PM ET
 - One-on-One Slots Available via the Calendar
-- We will have two pods on Thursday at 7 PM ET and Friday at 2:30 PM ET where we will simply build an app
+- We will have two pods on Wednesday at 7:30 PM ET and Friday at 2:30 PM ET where we will simply build an app
 - We will have a curriculum pod at 6PM ET on Monday
-- We will have our first Algo pod at 7pm on Wednesday
+- We will have our first Algo pod at 7pm on Thursday
 
 # Important Links:
 
