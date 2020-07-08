@@ -24,6 +24,10 @@
 4. Rails: CRUD with Rails (Rails Generators) (3 Lessons)
 5. Rails: CRUD with Rails (Finish) (3 Lessons)
 
+|Topic | Video| Code|
+| ----- |:-----:| ------ | 
+|Crud on Rails | [Video](https://wework.zoom.com/rec/share/2sl6F4Hx3HNIfbOW10rgapQuDqDdeaa80ChIqPcJnx2qZeIX4ssmToIaJSjCIN-X?startTime=1594159446000) | [Code](https://github.com/NickyEXE/CRUD-in-Rails) |
+
 ### Week 17
 1. Rails: Introduction to Rails (Rails MVC) (3 Lessons)
 2. Rails: Introduction to Rails (Finish) (3 Lessons)
