@@ -28,6 +28,7 @@
 | ----- |:-----:| ------ | 
 |Crud on Rails | [Video](https://wework.zoom.com/rec/share/2sl6F4Hx3HNIfbOW10rgapQuDqDdeaa80ChIqPcJnx2qZeIX4ssmToIaJSjCIN-X?startTime=1594159446000) | [Code](https://github.com/NickyEXE/CRUD-in-Rails) |
 |Big O | [Video](https://wework.zoom.com/rec/share/xN0pNo_U3G1LU9Kcsm_GUfQ7H7zPeaa82nJM_fUEyh0prc5N40UekIgyUUZtQylO?startTime=1594330574000) - [Slides](https://docs.google.com/presentation/d/11LZMaVAoLb0ijm84WICgDW-iDlT9053B7NKM4rTXScE/edit?usp=sharing) | [Code](https://github.com/NickyEXE/Big-O-Lecture) |
+|Build-A-Crud-App Pod 2| [Video TBD](TBD) | [Code](https://github.com/NickyEXE/Rails-CRUD-Pod-2)
 
 ### Week 17
 1. Rails: Introduction to Rails (Rails MVC) (3 Lessons)
@@ -40,7 +41,7 @@
 | ----- |:-----:| ------ | 
 |Intro to Rails | [Video](https://youtu.be/3mb-MzZZU8g)| [Code](https://github.com/NickyEXE/Intro-To-Rails)
 |Rest and Rails | [Video](https://youtu.be/jTuS_PaVgYc) - [Slides](https://docs.google.com/presentation/d/14RQgiqdWn5CGL5yAh4uCJAwLaG0YlDcbPfLwt9_OG1Y/edit?usp=sharing)| [Code](https://github.com/NickyEXE/030330-restful-routing-in-rails/tree/lesson-1-completion)
-|Build-A-Crud-App Pod 2| [Video TBD](TBD) | [Code](https://github.com/NickyEXE/Rails-CRUD-Pod-2)
+
 
 ### Week 16
 1. Complete your Sinatra Portfolio Project
