@@ -27,6 +27,7 @@
 |Topic | Video| Code|
 | ----- |:-----:| ------ | 
 |Crud on Rails | [Video](https://wework.zoom.com/rec/share/2sl6F4Hx3HNIfbOW10rgapQuDqDdeaa80ChIqPcJnx2qZeIX4ssmToIaJSjCIN-X?startTime=1594159446000) | [Code](https://github.com/NickyEXE/CRUD-in-Rails) |
+|Big O | [Video](https://wework.zoom.com/rec/share/xN0pNo_U3G1LU9Kcsm_GUfQ7H7zPeaa82nJM_fUEyh0prc5N40UekIgyUUZtQylO?startTime=1594330574000) - [Slides](https://docs.google.com/presentation/d/11LZMaVAoLb0ijm84WICgDW-iDlT9053B7NKM4rTXScE/edit?usp=sharing) | [Code](https://github.com/NickyEXE/Big-O-Lecture) |
 
 ### Week 17
 1. Rails: Introduction to Rails (Rails MVC) (3 Lessons)
