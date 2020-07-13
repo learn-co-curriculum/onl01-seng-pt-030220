@@ -1,14 +1,17 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Micah&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Announcements
-- CRUD Lecture Tuesday at 6PM ET
-- Sinatra Show and Tell Wednesday at 6PM ET
-- Optional Big O Review Thursday at 5:30 PM ET
-- Have Optional Lunch with me on Friday at 1:30 PM ET
-- One-on-One Slots Available via the Calendar
-- We will have two pods on Wednesday at 7:30 PM ET and Friday at 2:30 PM ET where we will simply build an app
-- We will have a curriculum pod at 6PM ET on Monday
-- We will have our first Algo pod at 7pm on Thursday
+- Rails Validations Lecture Tuesday at 6PM ET
+- Rails Associations and Nested Forms Thursday at 6PM ET
+- One-on-Ones Available on Calendar
+- Validations Pod Monday at 6 ET
+- Associations Pod Wednesday at 5 ET
+- Office Hours Wednesday at 6 ET
+- Algos Pod Thursday at 5 ET
+- Curriculum Pod Friday at 2:30 ET
+- Let's have lunch together again this Friday at 1:30 ET
+- The most important thing you can do this week is PRACTICE. Build a CRUD app.
+- Next week, I'll be deploying an optional Code Challenge to test your knowledge. I'll grade all the submitted ones.
 
 # Important Links:
 
@@ -16,6 +19,15 @@
 - Calendar: https://calendar.google.com/calendar/embed?src=flatironschool.com_7hr0loibj3vnukghc7a2qn6304%40group.calendar.google.com&ctz=America%2FNew_York
 
 # Weekly Assignments
+
+### Week 19
+1. Rails: Validations and Forms (Validations In Controller Actions Lab) (4 Lessons)
+2. Rails: Validations and Forms (Validations With Form_for) (3 Lessons)
+3. Rails: Validations and Forms (Finish) (3 Lessons)
+4. Rails: Associations and Rails (ActiveRecord Lifecycle Methods) (3 Lessons)
+5. Rails: Associations and Rails (Forms And Basic Associations Lab) (4 Lessons)
+
+
 
 ### Week 18
 1. Rails: Intro to ActionView (4 Lessons)
