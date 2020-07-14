@@ -27,7 +27,9 @@
 4. Rails: Associations and Rails (ActiveRecord Lifecycle Methods) (3 Lessons)
 5. Rails: Associations and Rails (Forms And Basic Associations Lab) (4 Lessons)
 
-
+|Topic | Video| Code|
+| ----- |:-----:| ------ | 
+|Validations Pod | [Video](https://wework.zoom.com/rec/share/uY9vIbLc7nxJQYHG1QLaCqkkBIrbT6a80HdKq6UMmEiE3hDIdIlT7m1WF_QktYk_?startTime=1594678047000) | N/A |
 
 ### Week 18
 1. Rails: Intro to ActionView (4 Lessons)
