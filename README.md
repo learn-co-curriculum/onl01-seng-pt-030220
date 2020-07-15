@@ -30,6 +30,7 @@
 |Topic | Video| Code|
 | ----- |:-----:| ------ | 
 |Validations Pod | [Video](https://wework.zoom.com/rec/share/uY9vIbLc7nxJQYHG1QLaCqkkBIrbT6a80HdKq6UMmEiE3hDIdIlT7m1WF_QktYk_?startTime=1594678047000) | N/A |
+|Validations Lecture | [Video](https://wework.zoom.com/rec/share/2dJkIJrs_GdJeqfn0F7taI8qHKjveaa81SJIrKJbmR0XoXCCP_oBM9auSHvkXrCh?startTime=1594764173000) [Slides](https://docs.google.com/presentation/d/1VaqHU-q8BAp4-pMmlsZ8VA5O3IjYIoGT0LPfY5mvLEE/edit?usp=sharing) | [Code](https://github.com/NickyEXE/validations-in-rails)
 
 ### Week 18
 1. Rails: Intro to ActionView (4 Lessons)
