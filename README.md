@@ -30,7 +30,10 @@
 |Topic | Video| Code|
 | ----- |:-----:| ------ | 
 |Validations Pod | [Video](https://wework.zoom.com/rec/share/uY9vIbLc7nxJQYHG1QLaCqkkBIrbT6a80HdKq6UMmEiE3hDIdIlT7m1WF_QktYk_?startTime=1594678047000) | N/A |
-|Validations Lecture | [Video](https://wework.zoom.com/rec/share/2dJkIJrs_GdJeqfn0F7taI8qHKjveaa81SJIrKJbmR0XoXCCP_oBM9auSHvkXrCh?startTime=1594764173000) [Slides](https://docs.google.com/presentation/d/1VaqHU-q8BAp4-pMmlsZ8VA5O3IjYIoGT0LPfY5mvLEE/edit?usp=sharing) | [Code](https://github.com/NickyEXE/validations-in-rails)
+|Validations Lecture | [Video](https://wework.zoom.com/rec/share/2dJkIJrs_GdJeqfn0F7taI8qHKjveaa81SJIrKJbmR0XoXCCP_oBM9auSHvkXrCh?startTime=1594764173000) [Slides](https://docs.google.com/presentation/d/1VaqHU-q8BAp4-pMmlsZ8VA5O3IjYIoGT0LPfY5mvLEE/edit?usp=sharing) | [Code](https://github.com/NickyEXE/validations-in-rails) |
+|Relationships Lecture | [Video](https://wework.zoom.com/rec/share/_PB-DY-g7GBJUKfU0VnBY4glFKLmX6a8gSkarqJezUlY-rHYxgeWpme_XgZJ2Pxn?startTime=1594937079000) | [Code](https://github.com/NickyEXE/validations-in-rails/tree/relationships_lecture) |
+|Basic Forms and Associations Lab Pod | [Video](https://wework.zoom.com/rec/share/x-ZHIYjhyT1LW4mR-E3DQY8qIq3aeaa81XJPrPUIxUlYKLOkBX9VzUQ1Csgif7c1?startTime=1595011082000) | [Code](https://github.com/NickyEXE/forms-and-basic-associations-rails-lab-onl01-seng-pt-030220/tree/pod-solution) |
+|Basic Nested Forms Lab Pod | [Video](https://wework.zoom.com/rec/share/x-ZHIYjhyT1LW4mR-E3DQY8qIq3aeaa81XJPrPUIxUlYKLOkBX9VzUQ1Csgif7c1?startTime=1595016219000) | [Code](https://github.com/NickyEXE/basic-nested-forms-lab-onl01-seng-pt-030220/tree/pod) |
 
 ### Week 18
 1. Rails: Intro to ActionView (4 Lessons)
