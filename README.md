@@ -26,6 +26,9 @@
 4. Rails: Layouts and Partials (Layouts And Templates In Rails Lab) (2 Lessons)
 5. Rails: Layouts and Partials (Finish) (4 Lessons)
 
+|Topic | Video | Code |
+| Partials with Locals Lab Pod | (Video)[https://wework.zoom.com/rec/share/wPFFAuvg6XhLXYXj2AKCRPQLXZraX6a8gyMX_aYOyU5LuVfZwTNoMKMQ0RyKO3I9?startTime=1595282788000] | N/A |
+
 ### Week 19
 1. Rails: Validations and Forms (Validations In Controller Actions Lab) (4 Lessons)
 2. Rails: Validations and Forms (Validations With Form_for) (3 Lessons)
