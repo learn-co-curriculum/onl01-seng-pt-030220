@@ -30,7 +30,9 @@
 | ----- |:-----:| ------ | 
 |Partials with Locals Lab Pod | [Video](https://wework.zoom.com/rec/share/wPFFAuvg6XhLXYXj2AKCRPQLXZraX6a8gyMX_aYOyU5LuVfZwTNoMKMQ0RyKO3I9?startTime=1595282788000) | None |
 |Partials and Locals Lecture | [Video](https://youtu.be/rFyGu3DXBzk) | [Code](https://github.com/NickyEXE/layouts-and-partials/tree/lesson) |
-|Flunchiron School Lecture |[Video](https://youtu.be/GwNImxUZCWg) | [Code](https://github.com/NickyEXE/FlunchironSchool/tree/class-solve-07-23)
+|Helpers Pod | [Video](https://youtu.be/fNCT6Vk71Co) | None|
+|Flunchiron School Lecture |[Video](https://youtu.be/GwNImxUZCWg) | [Code](https://github.com/NickyEXE/FlunchironSchool/tree/class-solve-07-23) |
+https://youtu.be/fNCT6Vk71Co |
 
 ### Week 19
 1. Rails: Validations and Forms (Validations In Controller Actions Lab) (4 Lessons)
