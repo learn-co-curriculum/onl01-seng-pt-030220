@@ -1,16 +1,17 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Micah&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Announcements
-- Code Challenge: Released Monday. Due this week. Optional. Nicky will give you feedback
-- Forms and Partials Lecture Tuesday at 6PM ET
-- Nicky builds an app with the Yelp API on Thursday at 6PM ET
-- One-on-Ones Available on Calendar
-- Curriculum Pod: Partials with Locals Lab on Monday at 6PM ET
-- Office Hours Wednesday at 2PM ET
-- Algos Pod Wednesday at 6PM ET
-- Features Pod Friday at 2:30 ET (Build on the Thursday lecture)
-- Let's have lunch together again this Friday at 1:30 ET
-- You should try to build a CRUD app with multiple models at some point this week.
+- Tuesday at 6PM ET: Rails Routing and Nested Resources
+- Thursday at 6PM ET: CSS!
+- Monday at 6PM ET: Features Pod -- Adding more features to our Rails App.
+- Tuesday at 5PM ET: Curriculum Pod -- Topic of your choice! Call dibs and lemme know what you wanna discuss.
+- Wednesday at 5:45 ET: Algos Pod
+- Wednesday at 6:45 ET: Curriculum Pod -- Topic of your choice! Call dibs and lemme know what you want to discuss.
+- Friday at 2:30 ET: CSS! The Pod!
+- Friday at 1:30 ET: Food and Feelings!
+- One-on-Ones: [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UU9FQ1l2bGJ4WWtGfGRlZmF1bHR8ODIyOTI1NDMzMjY0MjczMTE5ZDU4ZDE1YjgzOWI4ZjY) if you need one. Hit me up if there’s no spots that match your schedule.
+- Last Week’s Code Challenge: The deadline was Sunday but I will still review them if you send them to me! It may take me slightly longer to grade this week.
+
 
 # Important Links:
 
@@ -18,6 +19,13 @@
 - Calendar: https://calendar.google.com/calendar/embed?src=flatironschool.com_7hr0loibj3vnukghc7a2qn6304%40group.calendar.google.com&ctz=America%2FNew_York
 
 # Weekly Assignments
+
+### Week 21
+1. Rails: Refactoring with Helpers and Model Methods (Refactoring Views With Helpers Lab) (3 Lessons)
+2. Rails: Refactoring with Helpers and Model Methods (Finish) (2 Lessons)
+3. Rails: Routes and Resources (Routing And Nested Resources Lab) (2 Lessons)
+4. Rails: Routes and Resources (Modifying Nested Resources Lab) (2 Lessons)
+5. Rails: Routes and Resources (Finish) (2 Lessons)
 
 ### Week 20
 1. Rails: Associations and Rails (Displaying Has Many Through Lab) (2 Lessons)
