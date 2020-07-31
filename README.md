@@ -32,6 +32,8 @@
 |Rails App Features Pod | [Video](https://youtu.be/TVQLnNBNMi0) | None |
 | Nested Routes Lecture | [Video](https://youtu.be/0kJa6pGkIHQ) | [Code](https://github.com/NickyEXE/Nested-Routes-Lecture) |
 |Modifying Nested Routes Pod | [Video](https://youtu.be/SacWqfsCv_s) | None |
+|Editing in Nested Routes Pod | [Video](https://youtu.be/83q1BqEntHY) | None|
+|Algo Pod | [Video](https://youtu.be/TREVsniz9kA) | [Code](https://repl.it/join/irimfwsm-nickyexe) |
 |CSS Lecture | [Video](https://youtu.be/ckmKd1JkZTA) | [Code](https://github.com/NickyEXE/CSS-Lecture/tree/class-solve)|
 
 
