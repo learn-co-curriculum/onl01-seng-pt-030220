@@ -27,6 +27,14 @@
 4. Rails: Routes and Resources (Modifying Nested Resources Lab) (2 Lessons)
 5. Rails: Routes and Resources (Finish) (2 Lessons)
 
+|Topic | Video| Code|
+| ----- |:-----:| ------ | 
+|Rails App Features Pod | [Video](https://youtu.be/TVQLnNBNMi0) | None |
+| Nested Routes Lecture | [Video](https://youtu.be/0kJa6pGkIHQ) | TBD |
+|Modifying Nested Routes Pod | [Video](https://youtu.be/SacWqfsCv_s) | None |
+|CSS Lecture | [Video](https://youtu.be/ckmKd1JkZTA) | [Code](https://github.com/NickyEXE/CSS-Lecture/tree/class-solve)|
+
+
 ### Week 20
 1. Rails: Associations and Rails (Displaying Has Many Through Lab) (2 Lessons)
 2. Rails: Associations and Rails (Basic Nested Forms Lab) (2 Lessons)
