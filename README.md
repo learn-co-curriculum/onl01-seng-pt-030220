@@ -31,6 +31,12 @@
 4. Rails: Authentication (Omniauth Lab) (3 Lessons)
 5. Rails: Authentication (Finish), Rails: Popular Gems (3 Lessons)
 
+|Topic | Video| Code|
+| ----- |:-----:| ------ | 
+|Rails Scopes Pod | [Video](https://youtu.be/xa-d-ty1ZrQ) | [Code](https://github.com/NickyEXE/FlunchironSchool/tree/scopes)|
+|Rails BCrypt Pod | [Video](https://youtu.be/YnI-lKhq_ug) | None |
+|Auth in Rails (No Devise) | [Video](https://youtu.be/kKAOaHwWmic) | [Code](https://github.com/NickyEXE/auth-in-rails/tree/end-of-lecture) |
+
 
 ### Week 21
 1. Rails: Refactoring with Helpers and Model Methods (Refactoring Views With Helpers Lab) (3 Lessons)
