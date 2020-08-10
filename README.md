@@ -1,18 +1,9 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Micah&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Announcements
-- It's Auth Week!
-- There's a new Zoom link: https://flatironschool.zoom.us/j/5804127102?pwd=dVZjVklOa0lQSStKaE0vTjFjdzBXQT09
-- We have three lectures on Auth and one discussion about projects requirements:
-- Tuesday at 6PM ET: Lecture on Auth Without Devise
-- Wednesday at 6PM ET: Brief Lecture on Auth With Devise
-- Thursday at 6PM ET: Omni-Auth in Rails
-- Friday at 2:30PM ET: Project Requirements Discussion (I will have a second one next Monday at 6PM, if you can't make this one!)
-- We have four pods:
-- Monday at 6PM ET: Features Pod - We'll discuss scope methods, a requirement for the project.
-- Tuesday at 5PM ET: BCrypt Pod - We'll dig into how BCrypt works, what has_secure_password does for us, etc.
-- Wednesday at 7PM ET: Algo Pod!
-- Thursday at 5PM ET: A Pod that's up for grabs! What do you want to talk about? Lemme know!
+- It's Project Week 1!
+- Second Project Requirements discussion is on Monday at 
+- Office Hours are: M: 5PM ET; T: 6PM ET; W: 4PM ET; Th: 5PM ET; F: 2:30 PM ET.
 - Friday at 1:30PM ET: Food and Feelings on Friday: Let's hang out and grab lunch together.
 - One-on-Ones: [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UU9FQ1l2bGJ4WWtGfGRlZmF1bHR8ODIyOTI1NDMzMjY0MjczMTE5ZDU4ZDE1YjgzOWI4ZjY) if you need one. Hit me up if there’s no spots that match your schedule.
 
@@ -36,7 +27,12 @@
 |Rails Scopes Pod | [Video](https://youtu.be/xa-d-ty1ZrQ) | [Code](https://github.com/NickyEXE/FlunchironSchool/tree/scopes)|
 |Rails BCrypt Pod | [Video](https://youtu.be/YnI-lKhq_ug) | None |
 |Auth in Rails (No Devise) | [Video](https://youtu.be/kKAOaHwWmic) | [Code](https://github.com/NickyEXE/auth-in-rails/tree/end-of-lecture) |
-
+|Sessions and Cookies Pod | [Video](https://youtu.be/idAbPU7cxPc) | None |
+|Auth in Rails (Devise) | [Video](https://youtu.be/iqJ9fsrmFdY) | [Code](???) |
+|Algo Pod | [Video](https://youtu.be/uD_BEUJCYPM) | [Code](???) | 
+|Omniauth in Rails (No Devise) | [Video](https://youtu.be/PVloerN6xkI) | [Code](???) |
+|Omniauth in Rails (Devise) | [Video](https://youtu.be/Fks606284FM) | [Code](???) |
+| Rails Project Requirements Session 1 | [Video](https://youtu.be/b6Meu3u7TKA) | None |
 
 ### Week 21
 1. Rails: Refactoring with Helpers and Model Methods (Refactoring Views With Helpers Lab) (3 Lessons)
