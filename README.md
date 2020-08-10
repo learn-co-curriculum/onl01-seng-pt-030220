@@ -28,10 +28,10 @@
 |Rails BCrypt Pod | [Video](https://youtu.be/YnI-lKhq_ug) | None |
 |Auth in Rails (No Devise) | [Video](https://youtu.be/kKAOaHwWmic) | [Code](https://github.com/NickyEXE/auth-in-rails/tree/end-of-lecture) |
 |Sessions and Cookies Pod | [Video](https://youtu.be/idAbPU7cxPc) | None |
-|Auth in Rails (Devise) | [Video](https://youtu.be/iqJ9fsrmFdY) | [Code](???) |
-|Algo Pod | [Video](https://youtu.be/uD_BEUJCYPM) | [Code](???) | 
-|Omniauth in Rails (No Devise) | [Video](https://youtu.be/PVloerN6xkI) | [Code](???) |
-|Omniauth in Rails (Devise) | [Video](https://youtu.be/Fks606284FM) | [Code](???) |
+|Auth in Rails (Devise) | [Video](https://youtu.be/iqJ9fsrmFdY) | [Code](https://github.com/NickyEXE/auth-in-rails-with-devise) |
+|Algo Pod | [Video](https://youtu.be/uD_BEUJCYPM) | [Code](https://repl.it/@NickyEXE/AnagramDetector) | 
+|Omniauth in Rails (No Devise) | [Video](https://youtu.be/PVloerN6xkI) | [Code](https://github.com/NickyEXE/auth-in-rails/tree/omniauth-test) |
+|Omniauth in Rails (Devise) | [Video](https://youtu.be/Fks606284FM) | [Code](https://github.com/NickyEXE/auth-in-rails-with-devise) |
 | Rails Project Requirements Session 1 | [Video](https://youtu.be/b6Meu3u7TKA) | None |
 
 ### Week 21
