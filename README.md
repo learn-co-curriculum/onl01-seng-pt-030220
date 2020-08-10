@@ -15,6 +15,17 @@
 
 # Weekly Assignments
 
+### Week 23
+1. Rails Project
+2. Rails Project
+3. RAILS PROJECT
+4. (thumping on table) RAILS PROJECT
+5. (everyone thumping on table, jumping up and down together) RAILS PROJECT RAILS PROJECT RAILS PROJECT
+
+|Topic | Video | Code |
+| ----- |:-----:| ----- |
+|Rails Project Requirements Session 2 | [Video](https://youtu.be/QoCQbxVomhQ) | None |
+
 ### Week 22
 1. Rails: Authentication (Cookies And Sessions Lab) (3 Lessons)
 2. Rails: Authentication (Login Required Lab) (4 Lessons)
