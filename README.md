@@ -1,17 +1,16 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Micah&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Announcements
-- It's Project Week 1!
-- Second Project Requirements discussion is on Monday at 
-- Office Hours are: M: 5PM ET; T: 6PM ET; W: 4PM ET; Th: 5PM ET; F: 2:30 PM ET.
-- Friday at 1:30PM ET: Food and Feelings on Friday: Let's hang out and grab lunch together.
+- It's Project Week 2!
+- Project is Due 8/24.
+- Nicky's not available on Friday.
 - One-on-Ones: [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UU9FQ1l2bGJ4WWtGfGRlZmF1bHR8ODIyOTI1NDMzMjY0MjczMTE5ZDU4ZDE1YjgzOWI4ZjY) if you need one. Hit me up if there’s no spots that match your schedule.
 
 
 # Important Links:
 
-- Zoom: https://flatironschool.zoom.us/j/5804127102?pwd=dVZjVklOa0lQSStKaE0vTjFjdzBXQT09
-- Calendar: https://calendar.google.com/calendar/embed?src=flatironschool.com_7hr0loibj3vnukghc7a2qn6304%40group.calendar.google.com&ctz=America%2FNew_York
+- [Zoom](https://flatironschool.zoom.us/j/5804127102?pwd=dVZjVklOa0lQSStKaE0vTjFjdzBXQT09)
+- [Calendar](https://calendar.google.com/calendar/embed?src=flatironschool.com_7hr0loibj3vnukghc7a2qn6304%40group.calendar.google.com&ctz=America%2FNew_York)
 
 # Weekly Assignments
 
