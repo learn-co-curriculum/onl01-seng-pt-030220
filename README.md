@@ -1,9 +1,14 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Micah&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Announcements
-- It's Project Week 2!
-- Project is Due 8/24.
-- Nicky's not available on Friday.
+- It's JavaScript Time!
+- Project is Due This Monday (8/24) at 11:59 PM PST.
+- Lectures at 6PM ET on Tuesday and Thursday, on JS and the DOM and JS Fundamentals respectably.
+- Office Hours Monday at 6PM ET.
+- JS Ask-me-Anything on Wednesday at 6PM ET.
+- TBD Pod at 2:30 ET on Friday.
+- Algorithms Pod on Thursday at 5PM ET.
+- Food and Feelings on Friday at 1:30 ET.
 - One-on-Ones: [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UU9FQ1l2bGJ4WWtGfGRlZmF1bHR8ODIyOTI1NDMzMjY0MjczMTE5ZDU4ZDE1YjgzOWI4ZjY) if you need one. Hit me up if there’s no spots that match your schedule.
 
 
@@ -13,6 +18,14 @@
 - [Calendar](https://calendar.google.com/calendar/embed?src=flatironschool.com_7hr0loibj3vnukghc7a2qn6304%40group.calendar.google.com&ctz=America%2FNew_York)
 
 # Weekly Assignments
+
+### Week 24
+1. JS and Rails - Defining Front-End Web Programming,  JS and Rails - Manipulating the DOM (Introducing The DOM And Just Enough JavaScript) (3 Lessons)
+2. JS and Rails - Manipulating the DOM (Changing The Dom With Dev Tools And JavaScript) (3 Lessons)
+3. JS and Rails - Manipulating the DOM (The DOM Tree) (4 Lessons)
+4. JS and Rails - Manipulating the DOM (JS Fundamentals: Looping And Iteration Code Along) (3 Lessons)
+5. JS and Rails - Manipulating the DOM (Finish) (4 Lessons)
+
 
 ### Week 23
 1. Rails Project
