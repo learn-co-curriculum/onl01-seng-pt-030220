@@ -26,6 +26,9 @@
 4. JS and Rails - Manipulating the DOM (JS Fundamentals: Looping And Iteration Code Along) (3 Lessons)
 5. JS and Rails - Manipulating the DOM (Finish) (4 Lessons)
 
+|Topic | Video | Code |
+| ----- |:-----:| ----- |
+|Intro to the DOM| [Video](https://youtu.be/bg8trDHQWpk) | [Code](https://github.com/NickyEXE/Intro-to-the-DOM/tree/intro-to-dom-lecture)| 
 
 ### Week 23
 1. Rails Project
