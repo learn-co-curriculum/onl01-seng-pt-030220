@@ -33,7 +33,7 @@
 | ----- |:-----:| ----- |
 |**Week 24**|
 |Intro to the DOM| [Video](https://youtu.be/bg8trDHQWpk) | [Code](https://github.com/NickyEXE/Intro-to-the-DOM/tree/intro-to-dom-lecture)|
-|Intro to JS and DOM Element Creation | [Video](https://youtu.be/QoXQFh2wBCc) | [Code](https://github.com/NickyEXE/Intro-to-the-DOM/tree/intro-to-JS-and-DOM-Manipulation) | 
+|Intro to JS and DOM Element Creation | [Video](https://youtu.be/QoXQFh2wBCc) | [Code](https://github.com/NickyEXE/Intro-to-the-DOM/tree/intro-to-JS-and-DOM-Manipulation) |
 
 ### Rails
 
@@ -70,7 +70,7 @@
 |Auth in Rails (No Devise) | [Video](https://youtu.be/kKAOaHwWmic) | [Code](https://github.com/NickyEXE/auth-in-rails/tree/end-of-lecture) |
 |Sessions and Cookies Pod | [Video](https://youtu.be/idAbPU7cxPc) | None |
 |Auth in Rails (Devise) | [Video](https://youtu.be/iqJ9fsrmFdY) | [Code](https://github.com/NickyEXE/auth-in-rails-with-devise) |
-|Algo Pod | [Video](https://youtu.be/uD_BEUJCYPM) | [Code](https://repl.it/@NickyEXE/AnagramDetector) | 
+|Algo Pod | [Video](https://youtu.be/uD_BEUJCYPM) | [Code](https://repl.it/@NickyEXE/AnagramDetector) |
 |Omniauth in Rails (No Devise) | [Video](https://youtu.be/PVloerN6xkI) | [Code](https://github.com/NickyEXE/auth-in-rails/tree/omniauth-test) |
 |Omniauth in Rails (Devise) | [Video](https://youtu.be/Fks606284FM) | [Code](https://github.com/NickyEXE/auth-in-rails-with-devise) |
 | Rails Project Requirements Session 1 | [Video](https://youtu.be/b6Meu3u7TKA) | None |
@@ -80,7 +80,7 @@
 ### Sinatra
 
 |Topic | Video| Code| Repl|
-| ----- |:-----:| ------ | ----- | 
+| ----- |:-----:| ------ | ----- |
 |**Week 9**|
 | Intro to SQL | [Video](https://youtu.be/SD4cmjGBYCU) | N/A | N/A |
 |**Week 10**|
@@ -109,7 +109,7 @@
 
 ### Object Oriented Ruby
 | Topic | Video | Code | Repl |
-| ----- |:-----:| ------ | ----- | 
+| ----- |:-----:| ------ | ----- |
 |**Week 1**|
 | Orientation | [Video](https://youtu.be/BH1pgEvhxM8) | [Quiz](https://forms.gle/Zv4MJCWMDxQZ59gC6)|
 | Pair Programming| [Video](https://www.youtube.com/watch?v=VLAytSYlAVo&feature=youtu.be)|[Quiz](https://forms.gle/uLqxxJgpicgxwPFS8)|
@@ -139,19 +139,58 @@
 | Intro to APIs| [Video](https://youtu.be/ctniosV8an8) | N/A | N/A |
 | Pokemon CLI | [Video](https://youtu.be/W7Djc2IonRI) | N/A | N/A |
 | Pokemon CLI pt 2| [Video](https://youtu.be/06e6MVmpJ90) | N/A | N/A|
-| Pokemon CLI pt 3| [Video](https://youtu.be/Hbnp-mdD1Y4) | N/A | N/A| 
+| Pokemon CLI pt 3| [Video](https://youtu.be/Hbnp-mdD1Y4) | N/A | N/A|
 |**Week 6**|
 | Pokemon CLI pt 4 | [Video](https://youtu.be/xD3DMD90Ctk) | N/A | N/A |
 | Pokemon CLI pt 5 | [Video](https://youtu.be/TaRHwKGdJsg) | N/A | N/A |
 
-# Past Weekly Assignments
+# Future Weekly Assignments (Subject to Tweaking)
 
-### Week 24
-1. JS and Rails - Defining Front-End Web Programming,  JS and Rails - Manipulating the DOM (Introducing The DOM And Just Enough JavaScript) (3 Lessons)
+### Week 25
+1.  JS and Rails - Defining Front-End Web Programming,  JS and Rails - Manipulating the DOM (Introducing The DOM And Just Enough JavaScript) (3 Lessons)
 2. JS and Rails - Manipulating the DOM (Changing The Dom With Dev Tools And JavaScript) (3 Lessons)
 3. JS and Rails - Manipulating the DOM (The DOM Tree) (4 Lessons)
 4. JS and Rails - Manipulating the DOM (JS Fundamentals: Looping And Iteration Code Along) (3 Lessons)
 5. JS and Rails - Manipulating the DOM (Finish) (4 Lessons)
+
+### Week 26
+1. JS and Rails: Recognizing JavaScript Events (Functions In JavaScript) (3 Lessons)
+2. JS and Rails: Recognizing JavaScript Events (Acting On Events) (3 Lessons)
+3. JS and Rails: Recognizing JavaScript Events (JS Fundamentals: Scope Chain) (3 Lessons)
+4. JS and Rails: Recognizing JavaScript Events (Task Lister Lite) (4 Lessons)
+5. JS and Rails: Recognizing JavaScript Events (Finish) (3 Lessons)
+
+### Week 27
+1. JS and Rails: Communication with the Server (Fetch Lab) (3 Lessons)
+2. JS and Rails: Communication with the Server (JS Fundamentals Lab) (3 Lessons)
+3. JS and Rails: Communication with the Server (JS Fundamentals: Traversing Nested Objects) (2 Lessons)
+4. JS and Rails: Communication with the Server (Finish) (4 Lessons)
+5. JS and Rails: Putting it all Together (2 Lessons)
+
+### Week 28
+1. JS and Rails: Rails as an API (Custom JSON Rendering Using Rails) (4 Lessons)
+2. JS and Rails: Rails as an API (Using The Fast JSON API Gem) (4 Lessons)
+3. JS and Rails: Rails as an API (Finish), JS and Rails - Formalizing JS: Data Types, Comparisons, Conditionals (JS Fundamentals: Arithmetic Lab) (4 Lessons)
+4. JS and Rails: Formalizing JS: Data Types, Comparisons, Conditionals (JS Fundamentals: Logical Operators) (3 Lessons)
+5. JS and Rails: Formalizing JS: Data Types, Comparisons, Conditionals (Finish) (4 Lessons)
+
+### Week 29
+1. JS and Rails: ES6 Syntax Sugar (3 Lessons)
+2. JS and Rails: Advanced Function Usage (JS Advanced Functions: Collection Processing Methods) (4 Lessons)
+3. JS and Rails: Advanced Function Usage (Array Element Finding) (4 Lessons)
+4. JS and Rails: Advanced Function Usage  (JS Advanced Functions: Context And Explicit Setting) (4 Lessons)
+5. JS and Rails: Advanced Function Usage (Finish) (4 Lessons)
+
+### Week 30
+1. JS and Rails: Object Orientation in JavaScript (OOJS: Methods Types) (5 Lessons)
+2. JS and Rails: Object Orientation in JavaScript (Finish), JS and Rails - OO JavaScript: Inheritance (OOJS: Class Extension And Inheritance Extends) (4 Lessons)
+3. JS and Rails: OO JavaScript: Inheritance (Finish) (5 Lessons)
+4. JS and Rails: OO JavaScript: Prototypal Inheritance (OOJS: Predicting Constructor Effects) (4 Lessons)
+5. JS and Rails: OO JavaScript: Prototypal Inheritance (Finish) (4 Lessons)
+
+### Weeks 31-32: PROJECT MODE!
+
+# Past Weekly Assignments
 
 ### Week 23
 1. Rails Project
@@ -253,7 +292,7 @@
 4. SQL: Table Relations (SQL Join Tables) (5 lessons)
 5. SQL: Table Relations (Finish) (4 lessons)
 
-### Week 8: PROJECT WEEK PT 2 
+### Week 8: PROJECT WEEK PT 2
 1. Finish your project
 2. [Schedule your review](https://go.oncehub.com/StructuredProgramCLIProjectReviews)
 
@@ -265,8 +304,8 @@
 ### Week 6: April 6th 2020
 1. OO Ruby: Scraping (Scraping Lab 3 Lessons)
 2. OO Ruby: Scraping (Finish) (2 Lessons)
-3. OO Ruby: Final Projects (Start Music Library CLI) 
-4. OO Ruby: Final Projects (Finish Music Library CLI) 
+3. OO Ruby: Final Projects (Start Music Library CLI)
+4. OO Ruby: Final Projects (Finish Music Library CLI)
 5. OO Ruby: Final Preojects (Student Scraper)
 
 ### Week 5: Mar 30th 2020
@@ -286,10 +325,10 @@
 
 ### Week 3: Mar 16th 2020
 
-1. Object Oriented Ruby: Object Properties (up to Object Attributes Lesson) 
-2. Object Oriented Ruby: Object Properties (Object Attributes Lab - Video Review: Object Properties) 
-3. Object Oriented Ruby: Object Lifecycle 
-4. Object Oriented Ruby: Object’s Self 
+1. Object Oriented Ruby: Object Properties (up to Object Attributes Lesson)
+2. Object Oriented Ruby: Object Properties (Object Attributes Lab - Video Review: Object Properties)
+3. Object Oriented Ruby: Object Lifecycle
+4. Object Oriented Ruby: Object’s Self
 5. Object Oriented Ruby: Class Variables and Methods
 
 ### Week 2: Mar 9th 2020
@@ -301,11 +340,10 @@
 5. Day 5 - Intro to object orientation (all) + Classes and instances (all) + Instance Methods (all)
 
 ### Week 1: Mar 2nd 2020
-#### This week's focus:  Procedural Ruby 
+#### This week's focus:  Procedural Ruby
 
 1. Day 1 (Mon) - Welcome to Learn (all)  + Variables and Methods (up to Defining Methods) (6 lessons)
 2. Day 2 (Tue) - Variables and Methods ( Methods and Arguments - Method Scope Lab) (9 lessons)
 3. Day 3 (Wed) - Booleans (all) + Logic and Conditionals (all) (10 lessons)
 4. Day 4 (Thur) - Looping (all) (8 lessons)
 5. Day 5 (Fri) - Arrays (all) (5 lessons)
-
