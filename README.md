@@ -144,9 +144,7 @@
 | Pokemon CLI pt 4 | [Video](https://youtu.be/xD3DMD90Ctk) | N/A | N/A |
 | Pokemon CLI pt 5 | [Video](https://youtu.be/TaRHwKGdJsg) | N/A | N/A |
 
-
-
-# Previous Weekly Assignments
+# Past Weekly Assignments
 
 ### Week 24
 1. JS and Rails - Defining Front-End Web Programming,  JS and Rails - Manipulating the DOM (Introducing The DOM And Just Enough JavaScript) (3 Lessons)
@@ -155,21 +153,12 @@
 4. JS and Rails - Manipulating the DOM (JS Fundamentals: Looping And Iteration Code Along) (3 Lessons)
 5. JS and Rails - Manipulating the DOM (Finish) (4 Lessons)
 
-|Topic | Video | Code |
-| ----- |:-----:| ----- |
-|Intro to the DOM| [Video](https://youtu.be/bg8trDHQWpk) | [Code](https://github.com/NickyEXE/Intro-to-the-DOM/tree/intro-to-dom-lecture)|
-|Intro to JS and DOM Element Creation | [Video](https://youtu.be/QoXQFh2wBCc) | [Code](https://github.com/NickyEXE/Intro-to-the-DOM/tree/intro-to-JS-and-DOM-Manipulation) | 
-
 ### Week 23
 1. Rails Project
 2. Rails Project
 3. RAILS PROJECT
 4. (thumping on table) RAILS PROJECT
 5. (everyone thumping on table, jumping up and down together) RAILS PROJECT RAILS PROJECT RAILS PROJECT
-
-|Topic | Video | Code |
-| ----- |:-----:| ----- |
-|Rails Project Requirements Session 2 | [Video](https://youtu.be/QoCQbxVomhQ) | None |
 
 ### Week 22
 1. Rails: Authentication (Cookies And Sessions Lab) (3 Lessons)
@@ -178,34 +167,12 @@
 4. Rails: Authentication (Omniauth Lab) (3 Lessons)
 5. Rails: Authentication (Finish), Rails: Popular Gems (3 Lessons)
 
-|Topic | Video| Code|
-| ----- |:-----:| ------ | 
-|Rails Scopes Pod | [Video](https://youtu.be/xa-d-ty1ZrQ) | [Code](https://github.com/NickyEXE/FlunchironSchool/tree/scopes)|
-|Rails BCrypt Pod | [Video](https://youtu.be/YnI-lKhq_ug) | None |
-|Auth in Rails (No Devise) | [Video](https://youtu.be/kKAOaHwWmic) | [Code](https://github.com/NickyEXE/auth-in-rails/tree/end-of-lecture) |
-|Sessions and Cookies Pod | [Video](https://youtu.be/idAbPU7cxPc) | None |
-|Auth in Rails (Devise) | [Video](https://youtu.be/iqJ9fsrmFdY) | [Code](https://github.com/NickyEXE/auth-in-rails-with-devise) |
-|Algo Pod | [Video](https://youtu.be/uD_BEUJCYPM) | [Code](https://repl.it/@NickyEXE/AnagramDetector) | 
-|Omniauth in Rails (No Devise) | [Video](https://youtu.be/PVloerN6xkI) | [Code](https://github.com/NickyEXE/auth-in-rails/tree/omniauth-test) |
-|Omniauth in Rails (Devise) | [Video](https://youtu.be/Fks606284FM) | [Code](https://github.com/NickyEXE/auth-in-rails-with-devise) |
-| Rails Project Requirements Session 1 | [Video](https://youtu.be/b6Meu3u7TKA) | None |
-
 ### Week 21
 1. Rails: Refactoring with Helpers and Model Methods (Refactoring Views With Helpers Lab) (3 Lessons)
 2. Rails: Refactoring with Helpers and Model Methods (Finish) (2 Lessons)
 3. Rails: Routes and Resources (Routing And Nested Resources Lab) (2 Lessons)
 4. Rails: Routes and Resources (Modifying Nested Resources Lab) (2 Lessons)
 5. Rails: Routes and Resources (Finish) (2 Lessons)
-
-|Topic | Video| Code|
-| ----- |:-----:| ------ | 
-|Rails App Features Pod | [Video](https://youtu.be/TVQLnNBNMi0) | None |
-| Nested Routes Lecture | [Video](https://youtu.be/0kJa6pGkIHQ) | [Code](https://github.com/NickyEXE/Nested-Routes-Lecture) |
-|Modifying Nested Routes Pod | [Video](https://youtu.be/SacWqfsCv_s) | None |
-|Editing in Nested Routes Pod | [Video](https://youtu.be/83q1BqEntHY) | None|
-|Algo Pod | [Video](https://youtu.be/TREVsniz9kA) | [Code](https://repl.it/join/irimfwsm-nickyexe) |
-|CSS Lecture | [Video](https://youtu.be/ckmKd1JkZTA) | [Code](https://github.com/NickyEXE/CSS-Lecture/tree/class-solve)|
-
 
 ### Week 20
 1. Rails: Associations and Rails (Displaying Has Many Through Lab) (2 Lessons)
@@ -214,27 +181,12 @@
 4. Rails: Layouts and Partials (Layouts And Templates In Rails Lab) (2 Lessons)
 5. Rails: Layouts and Partials (Finish) (4 Lessons)
 
-|Topic | Video| Code|
-| ----- |:-----:| ------ | 
-|Partials with Locals Lab Pod | [Video](https://wework.zoom.com/rec/share/wPFFAuvg6XhLXYXj2AKCRPQLXZraX6a8gyMX_aYOyU5LuVfZwTNoMKMQ0RyKO3I9?startTime=1595282788000) | None |
-|Partials and Locals Lecture | [Video](https://youtu.be/rFyGu3DXBzk) | [Code](https://github.com/NickyEXE/layouts-and-partials/tree/lesson) |
-|Helpers Pod | [Video](https://youtu.be/fNCT6Vk71Co) | None|
-|Flunchiron School Lecture |[Video](https://youtu.be/GwNImxUZCWg) | [Code](https://github.com/NickyEXE/FlunchironSchool/tree/class-solve-07-23) |
-
 ### Week 19
 1. Rails: Validations and Forms (Validations In Controller Actions Lab) (4 Lessons)
 2. Rails: Validations and Forms (Validations With Form_for) (3 Lessons)
 3. Rails: Validations and Forms (Finish) (3 Lessons)
 4. Rails: Associations and Rails (ActiveRecord Lifecycle Methods) (3 Lessons)
 5. Rails: Associations and Rails (Forms And Basic Associations Lab) (4 Lessons)
-
-|Topic | Video| Code|
-| ----- |:-----:| ------ | 
-|Validations Pod | [Video](https://wework.zoom.com/rec/share/uY9vIbLc7nxJQYHG1QLaCqkkBIrbT6a80HdKq6UMmEiE3hDIdIlT7m1WF_QktYk_?startTime=1594678047000) | N/A |
-|Validations Lecture | [Video](https://wework.zoom.com/rec/share/2dJkIJrs_GdJeqfn0F7taI8qHKjveaa81SJIrKJbmR0XoXCCP_oBM9auSHvkXrCh?startTime=1594764173000) [Slides](https://docs.google.com/presentation/d/1VaqHU-q8BAp4-pMmlsZ8VA5O3IjYIoGT0LPfY5mvLEE/edit?usp=sharing) | [Code](https://github.com/NickyEXE/validations-in-rails) |
-|Relationships Lecture | [Video](https://wework.zoom.com/rec/share/_PB-DY-g7GBJUKfU0VnBY4glFKLmX6a8gSkarqJezUlY-rHYxgeWpme_XgZJ2Pxn?startTime=1594937079000) | [Code](https://github.com/NickyEXE/validations-in-rails/tree/relationships_lecture) |
-|Basic Forms and Associations Lab Pod | [Video](https://wework.zoom.com/rec/share/x-ZHIYjhyT1LW4mR-E3DQY8qIq3aeaa81XJPrPUIxUlYKLOkBX9VzUQ1Csgif7c1?startTime=1595011082000) | [Code](https://github.com/NickyEXE/forms-and-basic-associations-rails-lab-onl01-seng-pt-030220/tree/pod-solution) |
-|Basic Nested Forms Lab Pod | [Video](https://wework.zoom.com/rec/share/x-ZHIYjhyT1LW4mR-E3DQY8qIq3aeaa81XJPrPUIxUlYKLOkBX9VzUQ1Csgif7c1?startTime=1595016219000) | [Code](https://github.com/NickyEXE/basic-nested-forms-lab-onl01-seng-pt-030220/tree/pod) |
 
 ### Week 18
 1. Rails: Intro to ActionView (4 Lessons)
@@ -243,12 +195,6 @@
 4. Rails: CRUD with Rails (Rails Generators) (3 Lessons)
 5. Rails: CRUD with Rails (Finish) (3 Lessons)
 
-|Topic | Video| Code|
-| ----- |:-----:| ------ | 
-|Crud on Rails | [Video](https://wework.zoom.com/rec/share/2sl6F4Hx3HNIfbOW10rgapQuDqDdeaa80ChIqPcJnx2qZeIX4ssmToIaJSjCIN-X?startTime=1594159446000) | [Code](https://github.com/NickyEXE/CRUD-in-Rails-030220) |
-|Big O | [Video](https://wework.zoom.com/rec/share/xN0pNo_U3G1LU9Kcsm_GUfQ7H7zPeaa82nJM_fUEyh0prc5N40UekIgyUUZtQylO?startTime=1594330574000) - [Slides](https://docs.google.com/presentation/d/11LZMaVAoLb0ijm84WICgDW-iDlT9053B7NKM4rTXScE/edit?usp=sharing) | [Code](https://github.com/NickyEXE/Big-O-Lecture) |
-|Build-A-Crud-App Pod 2| [Video TBD](https://wework.zoom.com/rec/share/7MoyLqis1XlOfNbTr1HjS6I5N5b9aaa8hChK8vFexBupcjSe8r40qVzGcq2CNZ-U?startTime=1594406239000) | [Code](https://github.com/NickyEXE/Rails-CRUD-Pod-2)
-
 ### Week 17
 1. Rails: Introduction to Rails (Rails MVC) (3 Lessons)
 2. Rails: Introduction to Rails (Finish) (3 Lessons)
@@ -256,32 +202,14 @@
 4. Rails: Intro to REST (RESTful Action Index Lab) (2 Lessons)
 5. Rails: Intro to REST (Finish) (2 Lessons)
 
-|Topic | Video| Code|
-| ----- |:-----:| ------ | 
-|Intro to Rails | [Video](https://youtu.be/3mb-MzZZU8g)| [Code](https://github.com/NickyEXE/Intro-To-Rails)
-|Rest and Rails | [Video](https://youtu.be/jTuS_PaVgYc) - [Slides](https://docs.google.com/presentation/d/14RQgiqdWn5CGL5yAh4uCJAwLaG0YlDcbPfLwt9_OG1Y/edit?usp=sharing)| [Code](https://github.com/NickyEXE/030330-restful-routing-in-rails/tree/lesson-1-completion)
-
-
 ### Week 16
 1. Complete your Sinatra Portfolio Project
 2. Verify the REQUIREMENTS ARE MET PER THE LEARN.CO ASSESSMENT PAGE
 3. Schedule your assessment (NOT WITH ME).
 4. Be confident, crush it
 
-
-|Topic | Video| Code| Repl|
-| ----- |:-----:| ------ | ----- | 
-|Sinatra Build pt 3 | [Video](https://youtu.be/jcBT3l8sXD8)| Coming Soon | N/A|
-
-# Weekly Assignments
 ### Week 15
 1. Plan, begin, and get halfway done your Sinatra Project!
-
-| Topic | Video | Code | Repl |
-| ----- |:-----:| ------ | ----- | 
-| Sinatra Project Reqs | [Video](https://youtu.be/a4j6LIWg31g)|[Slides](https://docs.google.com/presentation/d/1Hsvg_gH0KgoHe7Lp58ziGMGaPJO8M5uOB1NQzrrGSQc/edit?usp=sharing)|N/A|
-|Sinatra Build pt 1| [Video](https://youtu.be/MhDjOiGkFds) | Coming Soon| N/A|
-|Sinatra Build pt 2| [Video](https://youtu.be/D1ZDjSKxbYk) | Coming Soon|N/A|
 
 ### Week 14
 1. Sinatra: Sessions (4 Lessons)
@@ -290,27 +218,12 @@
 4. Sinatra: ActiveRecord (Finish) (5 Lessons)
 5. Sinatra Project Mode: Fwitter (1 Lessons)
 
-
-| Topic | Video | Code | Repl |
-| ----- |:-----:| ------ | ----- | 
-|Sinatra Auth (Study Group, no music)| [Video](https://youtu.be/59V_PYDpTnU)|N/A|N/a|
-|Sinatra Auth (music too loud, sorry)|[Video](https://youtu.be/2EwC112SHgw)|[Code](https://github.com/micahshute/simple_sinatra_todos)|N/A|
-|Encryption, Hashing, Signatures| [Video]() |N/A|N/A|
-|Sinatra with 3rd Party API| [Video](https://youtu.be/u6LKNl5PYjU)|N/A|N/A|
-
-
-# Weekly Assignments
 ### Week 13
 1. Sinatra: MVC And Forms (Sinatra Basic Views Lab) (4 Lessons)
 2. Sinatra: MVC And Forms (Finish), Sinatra: Forms (Intro To Capybara Tests) (4 Lessons)
 3. Sinatra: Forms (Basic Sinatra Forms Lab) (5 Lessons)
 4. Sinatra: Forms (Sinatra Basic Forms Lab) (4 Lessons)
 5. Sinatra: Forms (Finish) (4 Lessons)
-
-| Topic | Video | Code | Repl |
-| ----- |:-----:| ------ | ----- | 
-|Topic MVC/Forms|[Video](https://youtu.be/sR7xGHqXG-Y)|N/A|N/A|
-|Sinatra CRUD| [Video](https://youtu.be/RAzIxbnGFyk)|N/A|N/A|
 
 ### Week 12
 1.  Sinatra: Sinatra Basics (What is Sinatra) (1 Lessons)
@@ -319,27 +232,12 @@
 4. Sinatra: Sinatra Basics (Sinatra “Hello World” Lab) (2 Lessons)
 5. Sinatra: Sinatra Basics (Finish) (2 Lessons)
 
-
-| Topic | Video | Code | Repl |
-| ----- |:-----:| ------ | ----- | 
-|Intro to Sinatra|[Video](https://youtu.be/c5CtI2qR7GU)|[Code](https://github.com/micahshute/sinatra_intro_example)||
-|Intro to Sinatra (pt 2, POD)| [Video](https://youtu.be/GH-0ViRbhQY)|See above||
-|Intro to Sinatra (pt 3)| [Video](https://youtu.be/NDV-Opf8EQc) | N/A| N/A|
-
 ### Week 11
 1. ORMs and ActiveRecord: ActiveRecord (Intro to Rake) (3 Lessons)
 2. ORMs and ActiveRecord: ActiveRecord (Migration and Active Record Lab) (3 Lessons)
 3. ORMs and ActiveRecord: ActiveRecord (Finish) (2 Lessons)
 4. ORMs and ActiveRecord: Associations (ActiveRecord Associations Lab) (2 Lessons)
 5. ORMs and ActiveRecord: Associations (Finish) (5 Lessons)
-
-| Topic | Video | Code | Repl |
-| ----- |:-----:| ------ | ----- | 
-[Slides](https://docs.google.com/presentation/d/1RFuivIsZSd47B3aLeqHkqfOAwdMAwM9VoueIF08R9BU/edit?usp=sharing)
-|Intro to Sinatra|[Video](https://youtu.be/c5CtI2qR7GU)|[Code](https://github.com/micahshute/sinatra_intro_example)||
-|Intro to Sinatra (pt 2, POD)| [Video](https://youtu.be/GH-0ViRbhQY)|See above||
-|Intro to Sinatra (pt 3)| [Video](https://youtu.be/NDV-Opf8EQc) | N/A| N/A|
-
 
 ### Week 10
 1. ORMs and ActiveRecord: ORMs (Mapping Classes To Tables Lab) (3 lessons)
@@ -348,22 +246,12 @@
 4. ORMs and ActiveRecord: ORMs (Dynamic ORM with Inheritance) (3 lessons)
 5. ORMs and ActiveRecord: ORMs (Finish) (4 lessons)
 
-| Topic | Video | Code | Repl |
-| ----- |:-----:| ------ | ----- | 
-| Intro to SQL | [Video](https://youtu.be/D7eQIGUuqRc) | [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/make_orm/tweet_cli) | N/A |
-
-
 ### Week 9: Intro to SQL
 1. SQL: Topic Introduction, SQL: Getting Started (SQL Databases And Text Editors) (4 lessons)
 2. SQL: Getting Started (Basic SQL Queries) (3 Lessons)
 3. SQL: Getting Started (Finish) (3 lessons)
 4. SQL: Table Relations (SQL Join Tables) (5 lessons)
 5. SQL: Table Relations (Finish) (4 lessons)
-
-| Topic | Video | Code | Repl |
-| ----- |:-----:| ------ | ----- | 
-| Intro to SQL | [Video](https://youtu.be/SD4cmjGBYCU) | N/A | N/A |
-
 
 ### Week 8: PROJECT WEEK PT 2 
 1. Finish your project
@@ -381,32 +269,12 @@
 4. OO Ruby: Final Projects (Finish Music Library CLI) 
 5. OO Ruby: Final Preojects (Student Scraper)
 
-
-| Topic | Video | Code | Repl |
-| ----- |:-----:| ------ | ----- | 
-| Pokemon CLI pt 4 | [Video](https://youtu.be/xD3DMD90Ctk) | N/A | N/A |
-| Pokemon CLI pt 5 | [Video](https://youtu.be/TaRHwKGdJsg) | N/A | N/A |
-
 ### Week 5: Mar 30th 2020
 1. Object Oriented Ruby: Object Relationships (OO Banking) (3 Lessons)
 2. Object Oriented Ruby: Object Relationships (Finish), Object Oriented Ruby: Object Architecture (Intro to Inheritance Lab) (4 Lessons)
 3. Object Oriented Ruby: Object Architecture (Finish) (4 Lessons)
 4. Object Oriented Ruby: Metaprogramming (Mass Assignment Lab) (3 Lessons)
 5. Object Oriented Ruby: Metaprogramming (Finish) (2 Lessons)
-
-
-| Topic         | Video         | Code/Other | Repl/other resources|
-| ------------- |:-------------:| ----------- | ------------------- |
-|**Week 5**|
-| Object Relationships| [Video](https://youtu.be/nJTGosyMc6Q)| [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/oo_relations/pokemon) | N/A |
-| Pokemon Relationship Addon | [Video](https://youtu.be/rQkUZOXuu4c) | [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/oo_relations/pokemon) | N/A |
-| Intro To Scraping (Old Lecture) | [Video](https://youtu.be/rjg-gQGJhGc)| [Lesson, Code, Slides](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/intro_scraping) | N/A |
-| Intro to APIs| [Video](https://youtu.be/ctniosV8an8) | N/A | N/A |
-| Pokemon CLI | [Video](https://youtu.be/W7Djc2IonRI) | N/A | N/A |
-| Pokemon CLI pt 2| [Video](https://youtu.be/06e6MVmpJ90) | N/A | N/A|
-| Pokemon CLI pt 3| [Video](https://youtu.be/Hbnp-mdD1Y4) | N/A | N/A| 
-
-
 
 ### Week 4: Mar 23rd 2020
 
@@ -416,13 +284,6 @@
 4. Object Oriented Ruby: Object Relationships (Has Many Object Lab) (4 Lessons)
 5.  Object Oriented Ruby: Object Relationships (Collaborating Objects Review) (3 Lessons)
 
-| Topic         | Video         | Code/Other | Repl/other resources|
-| ------------- |:-------------:| ----------- | ------------------- |
-|**Week 4**|
-| Object Class Methods and Self| |[Video](https://youtu.be/xD7-tfCMGzk) | N/A | N/A |
-|Simple CLI | [Video](https://youtu.be/5uqJiT81DzI) | [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/oop_simple_cli) | N/A |
-| Open Office Hours| |[Video](https://youtu.be/nua6WT7iEro) | N/A | N/A |
-
 ### Week 3: Mar 16th 2020
 
 1. Object Oriented Ruby: Object Properties (up to Object Attributes Lesson) 
@@ -430,13 +291,6 @@
 3. Object Oriented Ruby: Object Lifecycle 
 4. Object Oriented Ruby: Object’s Self 
 5. Object Oriented Ruby: Class Variables and Methods
-
-| Topic         | Video         | Code/Other | Repl/other resources|
-| ------------- |:-------------:| ----------- | ------------------- |
-|**Week 3**|
-|Intro to OOP | [Video](https://youtu.be/6Ia-sfpALGY) | [Slides](https://docs.google.com/presentation/d/1q8aHtZuveTKJLZql6V4YRxbIwBreEcO6Ep-A5oK1UOA/edit?usp=sharing) | N/A |
-|Intro to OOP pt. 2| [Video](https://youtu.be/qBFKDpKHgug) | Slides (above link) | N/A |
-
 
 ### Week 2: Mar 9th 2020
 #### This Week's Focus: Arrays, Hashes, Iteration
@@ -446,13 +300,6 @@
 4. Day 4 - Data Structures(all)
 5. Day 5 - Intro to object orientation (all) + Classes and instances (all) + Instance Methods (all)
 
-| Topic         | Video         | Code/Other | Repl/other resources|
-| ------------- |:-------------:| ----------- | ------------------- |
-|**Week 2**|
-|Arrays and Iterations| [Video](https://youtu.be/i5wRJGMwmu4) | N/A| N/A|
-|Hash Iteration Lab| [Video](https://youtu.be/Plg9se4F5IA) |N/A| |N/A|
-|Friday OOH | [Video](https://youtu.be/_j8xI6MEmUc) | N/A | N/A |
-
 ### Week 1: Mar 2nd 2020
 #### This week's focus:  Procedural Ruby 
 
@@ -461,20 +308,4 @@
 3. Day 3 (Wed) - Booleans (all) + Logic and Conditionals (all) (10 lessons)
 4. Day 4 (Thur) - Looping (all) (8 lessons)
 5. Day 5 (Fri) - Arrays (all) (5 lessons)
-
-# Study Group Videos and Code
-
-| Topic         | Video         | Code/Other | Repl/other resources|
-| ------------- |:-------------:| ----------- | ------------------- |
-|**Week 1**|
-| Orientation | [Video](https://youtu.be/BH1pgEvhxM8) | [Quiz](https://forms.gle/Zv4MJCWMDxQZ59gC6)|
-| Pair Programming| [Video](https://www.youtube.com/watch?v=VLAytSYlAVo&feature=youtu.be)|[Quiz](https://forms.gle/uLqxxJgpicgxwPFS8)|
-| Functions/Return Values Lab | [Video](https://youtu.be/LVAai-QnE54)| N/A|
-| Teusday Night OOH | [Video](https://youtu.be/8lefNmDKI90)|N/A|
-| If Statements/ Ternary Operators | [Video](#)| [Code](#)|
-| Wednesday Morning OOH | [Video](https://youtu.be/N8qdTTcsMyw)| N/A |
-| If Statement/Ternary Op Labs | [Video](https://youtu.be/vwzIRaTZkV0)| N/A |
-| While and Until Loops /Countdown to Midnight Lab Walkthrough | [Video](https://youtu.be/QwLHQ8gjw18)| N/A |
-| First Mile Week 1 Thursday Night OOH | [Video](https://youtu.be/N8_oL0msK14)| | N/A |
-| First Mile Week 1 Friday OOH| [Video](https://youtu.be/WNjEMJZghRw) | N/A |
 
