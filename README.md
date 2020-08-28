@@ -11,13 +11,142 @@
 - Food and Feelings on Friday at 1:30 ET.
 - One-on-Ones: [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UU9FQ1l2bGJ4WWtGfGRlZmF1bHR8ODIyOTI1NDMzMjY0MjczMTE5ZDU4ZDE1YjgzOWI4ZjY) if you need one. Hit me up if there’s no spots that match your schedule.
 
+# This Week's Assignments
+
+### Week 24
+1. JS and Rails - Defining Front-End Web Programming,  JS and Rails - Manipulating the DOM (Introducing The DOM And Just Enough JavaScript) (3 Lessons)
+2. JS and Rails - Manipulating the DOM (Changing The Dom With Dev Tools And JavaScript) (3 Lessons)
+3. JS and Rails - Manipulating the DOM (The DOM Tree) (4 Lessons)
+4. JS and Rails - Manipulating the DOM (JS Fundamentals: Looping And Iteration Code Along) (3 Lessons)
+5. JS and Rails - Manipulating the DOM (Finish) (4 Lessons)
 
 # Important Links:
 
 - [Zoom](https://flatironschool.zoom.us/j/5804127102?pwd=dVZjVklOa0lQSStKaE0vTjFjdzBXQT09)
 - [Calendar](https://calendar.google.com/calendar/embed?src=flatironschool.com_7hr0loibj3vnukghc7a2qn6304%40group.calendar.google.com&ctz=America%2FNew_York)
 
-# Weekly Assignments
+# Lectures & Code
+
+### Javascript
+
+|Topic | Video | Code |
+| ----- |:-----:| ----- |
+|**Week 24**|
+|Intro to the DOM| [Video](https://youtu.be/bg8trDHQWpk) | [Code](https://github.com/NickyEXE/Intro-to-the-DOM/tree/intro-to-dom-lecture)|
+|Intro to JS and DOM Element Creation | [Video](https://youtu.be/QoXQFh2wBCc) | [Code](https://github.com/NickyEXE/Intro-to-the-DOM/tree/intro-to-JS-and-DOM-Manipulation) | 
+
+### Rails
+
+|Topic | Video | Code |
+| ----- |:-----:| ----- |
+|**Week 17**|
+|Intro to Rails | [Video](https://youtu.be/3mb-MzZZU8g)| [Code](https://github.com/NickyEXE/Intro-To-Rails)
+|Rest and Rails | [Video](https://youtu.be/jTuS_PaVgYc) - [Slides](https://docs.google.com/presentation/d/14RQgiqdWn5CGL5yAh4uCJAwLaG0YlDcbPfLwt9_OG1Y/edit?usp=sharing)| [Code](https://github.com/NickyEXE/030330-restful-routing-in-rails/tree/lesson-1-completion) |
+|**Week 18**|
+|Crud on Rails | [Video](https://wework.zoom.com/rec/share/2sl6F4Hx3HNIfbOW10rgapQuDqDdeaa80ChIqPcJnx2qZeIX4ssmToIaJSjCIN-X?startTime=1594159446000) | [Code](https://github.com/NickyEXE/CRUD-in-Rails-030220) |
+|Big O | [Video](https://wework.zoom.com/rec/share/xN0pNo_U3G1LU9Kcsm_GUfQ7H7zPeaa82nJM_fUEyh0prc5N40UekIgyUUZtQylO?startTime=1594330574000) - [Slides](https://docs.google.com/presentation/d/11LZMaVAoLb0ijm84WICgDW-iDlT9053B7NKM4rTXScE/edit?usp=sharing) | [Code](https://github.com/NickyEXE/Big-O-Lecture) |
+|Build-A-Crud-App Pod 2| [Video TBD](https://wework.zoom.com/rec/share/7MoyLqis1XlOfNbTr1HjS6I5N5b9aaa8hChK8vFexBupcjSe8r40qVzGcq2CNZ-U?startTime=1594406239000) | [Code](https://github.com/NickyEXE/Rails-CRUD-Pod-2) |
+|**Week 19**|
+|Validations Pod | [Video](https://wework.zoom.com/rec/share/uY9vIbLc7nxJQYHG1QLaCqkkBIrbT6a80HdKq6UMmEiE3hDIdIlT7m1WF_QktYk_?startTime=1594678047000) | N/A |
+|Validations Lecture | [Video](https://wework.zoom.com/rec/share/2dJkIJrs_GdJeqfn0F7taI8qHKjveaa81SJIrKJbmR0XoXCCP_oBM9auSHvkXrCh?startTime=1594764173000) [Slides](https://docs.google.com/presentation/d/1VaqHU-q8BAp4-pMmlsZ8VA5O3IjYIoGT0LPfY5mvLEE/edit?usp=sharing) | [Code](https://github.com/NickyEXE/validations-in-rails) |
+|Relationships Lecture | [Video](https://wework.zoom.com/rec/share/_PB-DY-g7GBJUKfU0VnBY4glFKLmX6a8gSkarqJezUlY-rHYxgeWpme_XgZJ2Pxn?startTime=1594937079000) | [Code](https://github.com/NickyEXE/validations-in-rails/tree/relationships_lecture) |
+|Basic Forms and Associations Lab Pod | [Video](https://wework.zoom.com/rec/share/x-ZHIYjhyT1LW4mR-E3DQY8qIq3aeaa81XJPrPUIxUlYKLOkBX9VzUQ1Csgif7c1?startTime=1595011082000) | [Code](https://github.com/NickyEXE/forms-and-basic-associations-rails-lab-onl01-seng-pt-030220/tree/pod-solution) |
+|Basic Nested Forms Lab Pod | [Video](https://wework.zoom.com/rec/share/x-ZHIYjhyT1LW4mR-E3DQY8qIq3aeaa81XJPrPUIxUlYKLOkBX9VzUQ1Csgif7c1?startTime=1595016219000) | [Code](https://github.com/NickyEXE/basic-nested-forms-lab-onl01-seng-pt-030220/tree/pod) |
+|**Week 20**|
+|Partials with Locals Lab Pod | [Video](https://wework.zoom.com/rec/share/wPFFAuvg6XhLXYXj2AKCRPQLXZraX6a8gyMX_aYOyU5LuVfZwTNoMKMQ0RyKO3I9?startTime=1595282788000) | None |
+|Partials and Locals Lecture | [Video](https://youtu.be/rFyGu3DXBzk) | [Code](https://github.com/NickyEXE/layouts-and-partials/tree/lesson) |
+|Helpers Pod | [Video](https://youtu.be/fNCT6Vk71Co) | None|
+|Flunchiron School Lecture |[Video](https://youtu.be/GwNImxUZCWg) | [Code](https://github.com/NickyEXE/FlunchironSchool/tree/class-solve-07-23) |
+|**Week 21**|
+|Rails App Features Pod | [Video](https://youtu.be/TVQLnNBNMi0) | None |
+| Nested Routes Lecture | [Video](https://youtu.be/0kJa6pGkIHQ) | [Code](https://github.com/NickyEXE/Nested-Routes-Lecture) |
+|Modifying Nested Routes Pod | [Video](https://youtu.be/SacWqfsCv_s) | None |
+|Editing in Nested Routes Pod | [Video](https://youtu.be/83q1BqEntHY) | None|
+|Algo Pod | [Video](https://youtu.be/TREVsniz9kA) | [Code](https://repl.it/join/irimfwsm-nickyexe) |
+|CSS Lecture | [Video](https://youtu.be/ckmKd1JkZTA) | [Code](https://github.com/NickyEXE/CSS-Lecture/tree/class-solve)|
+|**Week 22**|
+|Rails Scopes Pod | [Video](https://youtu.be/xa-d-ty1ZrQ) | [Code](https://github.com/NickyEXE/FlunchironSchool/tree/scopes)|
+|Rails BCrypt Pod | [Video](https://youtu.be/YnI-lKhq_ug) | None |
+|Auth in Rails (No Devise) | [Video](https://youtu.be/kKAOaHwWmic) | [Code](https://github.com/NickyEXE/auth-in-rails/tree/end-of-lecture) |
+|Sessions and Cookies Pod | [Video](https://youtu.be/idAbPU7cxPc) | None |
+|Auth in Rails (Devise) | [Video](https://youtu.be/iqJ9fsrmFdY) | [Code](https://github.com/NickyEXE/auth-in-rails-with-devise) |
+|Algo Pod | [Video](https://youtu.be/uD_BEUJCYPM) | [Code](https://repl.it/@NickyEXE/AnagramDetector) | 
+|Omniauth in Rails (No Devise) | [Video](https://youtu.be/PVloerN6xkI) | [Code](https://github.com/NickyEXE/auth-in-rails/tree/omniauth-test) |
+|Omniauth in Rails (Devise) | [Video](https://youtu.be/Fks606284FM) | [Code](https://github.com/NickyEXE/auth-in-rails-with-devise) |
+| Rails Project Requirements Session 1 | [Video](https://youtu.be/b6Meu3u7TKA) | None |
+|**Week 23**|
+|Rails Project Requirements Session 2 | [Video](https://youtu.be/QoCQbxVomhQ) | None |
+
+### Sinatra
+
+|Topic | Video| Code| Repl|
+| ----- |:-----:| ------ | ----- | 
+|**Week 9**|
+| Intro to SQL | [Video](https://youtu.be/SD4cmjGBYCU) | N/A | N/A |
+|**Week 10**|
+| Intro to SQL | [Video](https://youtu.be/D7eQIGUuqRc) | [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/make_orm/tweet_cli) | N/A |
+|**Week 11**|
+| Intro to ActiveRecord | | [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/blob/master/minis/activerecord.rb) |  [Supplimental Video](https://youtu.be/Ro5RszyRb5w) |
+[Slides](https://docs.google.com/presentation/d/1RFuivIsZSd47B3aLeqHkqfOAwdMAwM9VoueIF08R9BU/edit?usp=sharing) |
+|**Week 12**|
+|Intro to Sinatra|[Video](https://youtu.be/c5CtI2qR7GU)|[Code](https://github.com/micahshute/sinatra_intro_example)||
+|Intro to Sinatra (pt 2, POD)| [Video](https://youtu.be/GH-0ViRbhQY)|See above||
+|Intro to Sinatra (pt 3)| [Video](https://youtu.be/NDV-Opf8EQc) | N/A| N/A|
+|**Week 13**|
+|Topic MVC/Forms|[Video](https://youtu.be/sR7xGHqXG-Y)|N/A|N/A|
+|Sinatra CRUD| [Video](https://youtu.be/RAzIxbnGFyk)|N/A|N/A|
+|**Week 14**|
+|Encryption, Hashing, Signatures| [Video]() |N/A|N/A|
+|Sinatra Auth (music too loud, sorry)|[Video](https://youtu.be/2EwC112SHgw)|[Code](https://github.com/micahshute/simple_sinatra_todos)|N/A|
+|Sinatra Auth (Study Group, no music)| [Video](https://youtu.be/59V_PYDpTnU)|N/A|N/a|
+|Sinatra with 3rd Party API| [Video](https://youtu.be/u6LKNl5PYjU)|N/A|N/A|
+|**Week 15**|
+| Sinatra Project Reqs | [Video](https://youtu.be/a4j6LIWg31g)|[Slides](https://docs.google.com/presentation/d/1Hsvg_gH0KgoHe7Lp58ziGMGaPJO8M5uOB1NQzrrGSQc/edit?usp=sharing)|N/A|
+|Sinatra Build pt 1| [Video](https://youtu.be/MhDjOiGkFds) | Coming Soon| N/A|
+|Sinatra Build pt 2| [Video](https://youtu.be/D1ZDjSKxbYk) | Coming Soon|N/A|
+|**Week 16**|
+|Sinatra Build pt 3 | [Video](https://youtu.be/jcBT3l8sXD8)| Coming Soon | N/A |
+
+### Object Oriented Ruby
+| Topic | Video | Code | Repl |
+| ----- |:-----:| ------ | ----- | 
+|**Week 1**|
+| Orientation | [Video](https://youtu.be/BH1pgEvhxM8) | [Quiz](https://forms.gle/Zv4MJCWMDxQZ59gC6)|
+| Pair Programming| [Video](https://www.youtube.com/watch?v=VLAytSYlAVo&feature=youtu.be)|[Quiz](https://forms.gle/uLqxxJgpicgxwPFS8)|
+| Functions/Return Values Lab | [Video](https://youtu.be/LVAai-QnE54)| N/A|
+| Teusday Night OOH | [Video](https://youtu.be/8lefNmDKI90)|N/A|
+| If Statements/ Ternary Operators | [Video](#)| [Code](#)|
+| Wednesday Morning OOH | [Video](https://youtu.be/N8qdTTcsMyw)| N/A |
+| If Statement/Ternary Op Labs | [Video](https://youtu.be/vwzIRaTZkV0)| N/A |
+| While and Until Loops /Countdown to Midnight Lab Walkthrough | [Video](https://youtu.be/QwLHQ8gjw18)| N/A |
+| First Mile Week 1 Thursday Night OOH | [Video](https://youtu.be/N8_oL0msK14)| | N/A |
+| First Mile Week 1 Friday OOH| [Video](https://youtu.be/WNjEMJZghRw) | N/A |
+|**Week 2**|
+|Arrays and Iterations| [Video](https://youtu.be/i5wRJGMwmu4) | N/A| N/A|
+|Hash Iteration Lab| [Video](https://youtu.be/Plg9se4F5IA) |N/A| |N/A|
+|Friday OOH | [Video](https://youtu.be/_j8xI6MEmUc) | N/A | N/A |
+|**Week 3**|
+|Intro to OOP | [Video](https://youtu.be/6Ia-sfpALGY) | [Slides](https://docs.google.com/presentation/d/1q8aHtZuveTKJLZql6V4YRxbIwBreEcO6Ep-A5oK1UOA/edit?usp=sharing) | N/A |
+|Intro to OOP pt. 2| [Video](https://youtu.be/qBFKDpKHgug) | Slides (above link) | N/A |
+|**Week 4**|
+| Object Class Methods and Self| |[Video](https://youtu.be/xD7-tfCMGzk) | N/A | N/A |
+|Simple CLI | [Video](https://youtu.be/5uqJiT81DzI) | [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/oop_simple_cli) | N/A |
+| Open Office Hours| |[Video](https://youtu.be/nua6WT7iEro) | N/A | N/A |
+|**Week 5**|
+| Object Relationships| [Video](https://youtu.be/nJTGosyMc6Q)| [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/oo_relations/pokemon) | N/A |
+| Pokemon Relationship Addon | [Video](https://youtu.be/rQkUZOXuu4c) | [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/oo_relations/pokemon) | N/A |
+| Intro To Scraping (Old Lecture) | [Video](https://youtu.be/rjg-gQGJhGc)| [Lesson, Code, Slides](https://github.com/micahshute/flatiron_cohort_lead_lessons/tree/master/intro_scraping) | N/A |
+| Intro to APIs| [Video](https://youtu.be/ctniosV8an8) | N/A | N/A |
+| Pokemon CLI | [Video](https://youtu.be/W7Djc2IonRI) | N/A | N/A |
+| Pokemon CLI pt 2| [Video](https://youtu.be/06e6MVmpJ90) | N/A | N/A|
+| Pokemon CLI pt 3| [Video](https://youtu.be/Hbnp-mdD1Y4) | N/A | N/A| 
+|**Week 6**|
+| Pokemon CLI pt 4 | [Video](https://youtu.be/xD3DMD90Ctk) | N/A | N/A |
+| Pokemon CLI pt 5 | [Video](https://youtu.be/TaRHwKGdJsg) | N/A | N/A |
+
+
+
+# Previous Weekly Assignments
 
 ### Week 24
 1. JS and Rails - Defining Front-End Web Programming,  JS and Rails - Manipulating the DOM (Introducing The DOM And Just Enough JavaScript) (3 Lessons)
@@ -206,8 +335,11 @@
 
 | Topic | Video | Code | Repl |
 | ----- |:-----:| ------ | ----- | 
-| Intro to ActiveRecord | | [Code](https://github.com/micahshute/flatiron_cohort_lead_lessons/blob/master/minis/activerecord.rb) |  [Supplimental Video](https://youtu.be/Ro5RszyRb5w) |
 [Slides](https://docs.google.com/presentation/d/1RFuivIsZSd47B3aLeqHkqfOAwdMAwM9VoueIF08R9BU/edit?usp=sharing)
+|Intro to Sinatra|[Video](https://youtu.be/c5CtI2qR7GU)|[Code](https://github.com/micahshute/sinatra_intro_example)||
+|Intro to Sinatra (pt 2, POD)| [Video](https://youtu.be/GH-0ViRbhQY)|See above||
+|Intro to Sinatra (pt 3)| [Video](https://youtu.be/NDV-Opf8EQc) | N/A| N/A|
+
 
 ### Week 10
 1. ORMs and ActiveRecord: ORMs (Mapping Classes To Tables Lab) (3 lessons)
