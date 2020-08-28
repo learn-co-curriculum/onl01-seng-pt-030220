@@ -185,6 +185,13 @@
 
 # Past Weekly Assignments
 
+### Week 24
+1. Rails Project
+2. Rails Project
+3. RAILS PROJECT
+4. (thumping on table) RAILS PROJECT
+5. (everyone thumping on table, jumping up and down together) RAILS PROJECT RAILS PROJECT RAILS PROJECT
+
 ### Week 23
 1. Rails Project
 2. Rails Project
