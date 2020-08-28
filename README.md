@@ -13,8 +13,8 @@
 
 # This Week's Assignments
 
-### Week 24
-1. JS and Rails - Defining Front-End Web Programming,  JS and Rails - Manipulating the DOM (Introducing The DOM And Just Enough JavaScript) (3 Lessons)
+### Week 25
+1.  JS and Rails - Defining Front-End Web Programming,  JS and Rails - Manipulating the DOM (Introducing The DOM And Just Enough JavaScript) (3 Lessons)
 2. JS and Rails - Manipulating the DOM (Changing The Dom With Dev Tools And JavaScript) (3 Lessons)
 3. JS and Rails - Manipulating the DOM (The DOM Tree) (4 Lessons)
 4. JS and Rails - Manipulating the DOM (JS Fundamentals: Looping And Iteration Code Along) (3 Lessons)
@@ -145,13 +145,6 @@
 | Pokemon CLI pt 5 | [Video](https://youtu.be/TaRHwKGdJsg) | N/A | N/A |
 
 # Future Weekly Assignments (Subject to Tweaking)
-
-### Week 25
-1.  JS and Rails - Defining Front-End Web Programming,  JS and Rails - Manipulating the DOM (Introducing The DOM And Just Enough JavaScript) (3 Lessons)
-2. JS and Rails - Manipulating the DOM (Changing The Dom With Dev Tools And JavaScript) (3 Lessons)
-3. JS and Rails - Manipulating the DOM (The DOM Tree) (4 Lessons)
-4. JS and Rails - Manipulating the DOM (JS Fundamentals: Looping And Iteration Code Along) (3 Lessons)
-5. JS and Rails - Manipulating the DOM (Finish) (4 Lessons)
 
 ### Week 26
 1. JS and Rails: Recognizing JavaScript Events (Functions In JavaScript) (3 Lessons)
