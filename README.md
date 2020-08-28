@@ -28,7 +28,8 @@
 
 |Topic | Video | Code |
 | ----- |:-----:| ----- |
-|Intro to the DOM| [Video](https://youtu.be/bg8trDHQWpk) | [Code](https://github.com/NickyEXE/Intro-to-the-DOM/tree/intro-to-dom-lecture)| 
+|Intro to the DOM| [Video](https://youtu.be/bg8trDHQWpk) | [Code](https://github.com/NickyEXE/Intro-to-the-DOM/tree/intro-to-dom-lecture)|
+|Intro to JS and DOM Element Creation | [Video](https://youtu.be/QoXQFh2wBCc) | [Code](https://github.com/NickyEXE/Intro-to-the-DOM/tree/intro-to-JS-and-DOM-Manipulation) | 
 
 ### Week 23
 1. Rails Project
