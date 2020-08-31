@@ -1,24 +1,26 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Nicky&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Announcements
-- It's JavaScript Time!
-- Project is Due This Monday (8/24) at 11:59 PM PST.
-- Lectures at 6PM ET on Tuesday and Thursday, on JS and the DOM and JS Fundamentals respectably.
-- Office Hours Monday at 6PM ET.
-- JS Ask-me-Anything on Wednesday at 6PM ET.
-- TBD Pod at 2:30 ET on Friday.
+- This bulleted list of events is appropriate, considering we're learning about JS events!
+- Next Monday is Labor Day and all instructors will be off.
+- Rails Show & Tell on Wednesday at 5PM ET! Sign up to show off your Rails app or just come and support your cohortmates and learn from them!
+- Let me know if you won't have your Rails Review done by this Friday. The last day to get them done is next Monday, but that's a vacation day.
+- Lecture on Tuesday at 6PM ET on JS events.
+- Office Hours Monday at 6PM ET and Thursday at 6PM ET.
+- Events Pod on Wednesday at 6PM ET
 - Algorithms Pod on Thursday at 5PM ET.
+- TBD Pod on Friday at 2:30 ET.
 - Food and Feelings on Friday at 1:30 ET.
 - One-on-Ones: [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UU9FQ1l2bGJ4WWtGfGRlZmF1bHR8ODIyOTI1NDMzMjY0MjczMTE5ZDU4ZDE1YjgzOWI4ZjY) if you need one. Hit me up if there’s no spots that match your schedule.
 
 # This Week's Assignments
 
-### Week 25
-1.  JS and Rails - Defining Front-End Web Programming,  JS and Rails - Manipulating the DOM (Introducing The DOM And Just Enough JavaScript) (3 Lessons)
-2. JS and Rails - Manipulating the DOM (Changing The Dom With Dev Tools And JavaScript) (3 Lessons)
-3. JS and Rails - Manipulating the DOM (The DOM Tree) (4 Lessons)
-4. JS and Rails - Manipulating the DOM (JS Fundamentals: Looping And Iteration Code Along) (3 Lessons)
-5. JS and Rails - Manipulating the DOM (Finish) (4 Lessons)
+### Week 26
+1. JS and Rails: Recognizing JavaScript Events (Functions In JavaScript) (3 Lessons)
+2. JS and Rails: Recognizing JavaScript Events (Acting On Events) (3 Lessons)
+3. JS and Rails: Recognizing JavaScript Events (JS Fundamentals: Scope Chain) (3 Lessons)
+4. JS and Rails: Recognizing JavaScript Events (Task Lister Lite) (4 Lessons)
+5. JS and Rails: Recognizing JavaScript Events (Finish) (3 Lessons)
 
 # Important Links:
 
@@ -146,13 +148,6 @@
 
 # Future Weekly Assignments (Subject to Tweaking)
 
-### Week 26
-1. JS and Rails: Recognizing JavaScript Events (Functions In JavaScript) (3 Lessons)
-2. JS and Rails: Recognizing JavaScript Events (Acting On Events) (3 Lessons)
-3. JS and Rails: Recognizing JavaScript Events (JS Fundamentals: Scope Chain) (3 Lessons)
-4. JS and Rails: Recognizing JavaScript Events (Task Lister Lite) (4 Lessons)
-5. JS and Rails: Recognizing JavaScript Events (Finish) (3 Lessons)
-
 ### Week 27
 1. JS and Rails: Communication with the Server (Fetch Lab) (3 Lessons)
 2. JS and Rails: Communication with the Server (JS Fundamentals Lab) (3 Lessons)
@@ -184,6 +179,13 @@
 ### Weeks 31-32: PROJECT MODE!
 
 # Past Weekly Assignments
+
+### Week 25
+1.  JS and Rails - Defining Front-End Web Programming,  JS and Rails - Manipulating the DOM (Introducing The DOM And Just Enough JavaScript) (3 Lessons)
+2. JS and Rails - Manipulating the DOM (Changing The Dom With Dev Tools And JavaScript) (3 Lessons)
+3. JS and Rails - Manipulating the DOM (The DOM Tree) (4 Lessons)
+4. JS and Rails - Manipulating the DOM (JS Fundamentals: Looping And Iteration Code Along) (3 Lessons)
+5. JS and Rails - Manipulating the DOM (Finish) (4 Lessons)
 
 ### Week 24
 1. Rails Project
