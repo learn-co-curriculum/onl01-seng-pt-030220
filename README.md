@@ -6,7 +6,8 @@
 - Rails Show & Tell on Wednesday at 5PM ET! Sign up to show off your Rails app or just come and support your cohortmates and learn from them!
 - Let me know if you won't have your Rails Review done by this Friday. The last day to get them done is next Monday, but that's a vacation day.
 - Lecture on Tuesday at 6PM ET on JS events.
-- Office Hours Monday at 6PM ET and Thursday at 6PM ET.
+- Lecture on Thursday at 6PM ET on JS delegations and closures.
+- Office Hours Monday at 6PM ET.
 - Events Pod on Wednesday at 6PM ET
 - Algorithms Pod on Thursday at 5PM ET.
 - TBD Pod on Friday at 2:30 ET.
