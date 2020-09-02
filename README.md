@@ -34,7 +34,9 @@
 
 |Topic | Video | Code |
 | ----- |:-----:| ----- |
-|**Week 24**|
+|**Week 26**|
+| Intro to Events | [Video](https://youtu.be/MKjCezefFho) | [Code](https://github.com/NickyEXE/intro-to-events)|
+|**Week 25**|
 |Intro to the DOM| [Video](https://youtu.be/bg8trDHQWpk) | [Code](https://github.com/NickyEXE/Intro-to-the-DOM/tree/intro-to-dom-lecture)|
 |Intro to JS and DOM Element Creation | [Video](https://youtu.be/QoXQFh2wBCc) | [Code](https://github.com/NickyEXE/Intro-to-the-DOM/tree/intro-to-JS-and-DOM-Manipulation) |
 
