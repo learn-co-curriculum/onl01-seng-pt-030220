@@ -38,7 +38,6 @@
 | Intro to Events | [Video](https://youtu.be/MKjCezefFho) | [Code](https://github.com/NickyEXE/intro-to-events)|
 | Events - Closures and Delegation | [Video](https://youtu.be/NaRa99_Mk2I) | [Code](https://github.com/NickyEXE/intro-to-events/tree/end-of-lecture-2) |
 | The DOM Challenge Solve 1 - Closures | [Video](https://youtu.be/fPb99z5g-LU) | [Code](https://github.com/NickyEXE/jsdom-dom-challenge-onl01-seng-pt-030220/tree/closures) |
-
 |**Week 25**|
 |Intro to the DOM| [Video](https://youtu.be/bg8trDHQWpk) | [Code](https://github.com/NickyEXE/Intro-to-the-DOM/tree/intro-to-dom-lecture)|
 |Intro to JS and DOM Element Creation | [Video](https://youtu.be/QoXQFh2wBCc) | [Code](https://github.com/NickyEXE/Intro-to-the-DOM/tree/intro-to-JS-and-DOM-Manipulation) |
