@@ -1,27 +1,24 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Nicky&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Announcements
-- This bulleted list of events is appropriate, considering we're learning about JS events!
-- Next Monday is Labor Day and all instructors will be off.
-- Rails Show & Tell on Wednesday at 5PM ET! Sign up to show off your Rails app or just come and support your cohortmates and learn from them!
-- Let me know if you won't have your Rails Review done by this Friday. The last day to get them done is next Monday, but that's a vacation day.
-- Lecture on Tuesday at 6PM ET on JS events.
-- Lecture on Thursday at 6PM ET on JS delegations and closures.
-- Office Hours Monday at 6PM ET.
-- Events Pod on Wednesday at 6PM ET
-- Algorithms Pod on Thursday at 5PM ET.
-- TBD Pod on Friday at 2:30 ET.
+- We're making Fetch happen.
+- Lecture on Tuesday at 6PM ET on JS fetch.
+- Lecture on Thursday at 6PM ET on JS fetch and Rails as a server.
+- Events Pod on Tuesday at 5PM ET.
+- Office Hours on Wednesday at 6PM ET.
+- Algos Pod on Thursday at 5PM ET.
 - Food and Feelings on Friday at 1:30 ET.
+- TBD Pod on Friday at 2:30 PM ET.
 - One-on-Ones: [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UU9FQ1l2bGJ4WWtGfGRlZmF1bHR8ODIyOTI1NDMzMjY0MjczMTE5ZDU4ZDE1YjgzOWI4ZjY) if you need one. Hit me up if there’s no spots that match your schedule.
 
 # This Week's Assignments
 
-### Week 26
-1. JS and Rails: Recognizing JavaScript Events (Functions In JavaScript) (3 Lessons)
-2. JS and Rails: Recognizing JavaScript Events (Acting On Events) (3 Lessons)
-3. JS and Rails: Recognizing JavaScript Events (JS Fundamentals: Scope Chain) (3 Lessons)
-4. JS and Rails: Recognizing JavaScript Events (Task Lister Lite) (4 Lessons)
-5. JS and Rails: Recognizing JavaScript Events (Finish) (3 Lessons)
+### Week 27
+1. JS and Rails: Communication with the Server (Fetch Lab) (3 Lessons)
+2. JS and Rails: Communication with the Server (JS Fundamentals Lab) (3 Lessons)
+3. JS and Rails: Communication with the Server (JS Fundamentals: Traversing Nested Objects) (2 Lessons)
+4. JS and Rails: Communication with the Server (Finish) (4 Lessons)
+5. JS and Rails: Putting it all Together (2 Lessons)
 
 # Important Links:
 
@@ -153,13 +150,6 @@
 
 # Future Weekly Assignments (Subject to Tweaking)
 
-### Week 27
-1. JS and Rails: Communication with the Server (Fetch Lab) (3 Lessons)
-2. JS and Rails: Communication with the Server (JS Fundamentals Lab) (3 Lessons)
-3. JS and Rails: Communication with the Server (JS Fundamentals: Traversing Nested Objects) (2 Lessons)
-4. JS and Rails: Communication with the Server (Finish) (4 Lessons)
-5. JS and Rails: Putting it all Together (2 Lessons)
-
 ### Week 28
 1. JS and Rails: Rails as an API (Custom JSON Rendering Using Rails) (4 Lessons)
 2. JS and Rails: Rails as an API (Using The Fast JSON API Gem) (4 Lessons)
@@ -184,6 +174,13 @@
 ### Weeks 31-32: PROJECT MODE!
 
 # Past Weekly Assignments
+
+### Week 26
+1. JS and Rails: Recognizing JavaScript Events (Functions In JavaScript) (3 Lessons)
+2. JS and Rails: Recognizing JavaScript Events (Acting On Events) (3 Lessons)
+3. JS and Rails: Recognizing JavaScript Events (JS Fundamentals: Scope Chain) (3 Lessons)
+4. JS and Rails: Recognizing JavaScript Events (Task Lister Lite) (4 Lessons)
+5. JS and Rails: Recognizing JavaScript Events (Finish) (3 Lessons)
 
 ### Week 25
 1.  JS and Rails - Defining Front-End Web Programming,  JS and Rails - Manipulating the DOM (Introducing The DOM And Just Enough JavaScript) (3 Lessons)
