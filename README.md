@@ -31,6 +31,9 @@
 
 |Topic | Video | Code |
 | ----- |:-----:| ----- |
+|**Week 27**|
+| The DOM Challenge Solve 2 - Delegation and the DOM | [Video](https://youtu.be/8VK-rT18zZU) | [Code](https://github.com/NickyEXE/jsdom-dom-challenge-onl01-seng-pt-030220/tree/delegation)|
+| Intro to Fetch | [Video](https://youtu.be/hzi_GdVKdVE) | [Code](https://github.com/NickyEXE/intro-to-fetch)|
 |**Week 26**|
 | Intro to Events | [Video](https://youtu.be/MKjCezefFho) | [Code](https://github.com/NickyEXE/intro-to-events)|
 | Events - Closures and Delegation | [Video](https://youtu.be/NaRa99_Mk2I) | [Code](https://github.com/NickyEXE/intro-to-events/tree/end-of-lecture-2) |
