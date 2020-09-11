@@ -34,6 +34,10 @@
 |**Week 27**|
 | The DOM Challenge Solve 2 - Delegation and the DOM | [Video](https://youtu.be/8VK-rT18zZU) | [Code](https://github.com/NickyEXE/jsdom-dom-challenge-onl01-seng-pt-030220/tree/delegation)|
 | Intro to Fetch | [Video](https://youtu.be/hzi_GdVKdVE) | [Code](https://github.com/NickyEXE/intro-to-fetch)|
+| Algo Club - Quicksort | [Video](https://youtu.be/3u7InWXcrLo) | [Code](https://repl.it/@NickyEXE/QuickSort#index.js) |
+| Rails as an API | [Video](https://youtu.be/ssMmzII8W2Q) | [Backend](https://github.com/NickyEXE/rails-as-an-api-cats-backend) [Frontend](https://github.com/NickyEXE/intro-to-fetch/tree/rails)|
+
+| Rails as an API
 |**Week 26**|
 | Intro to Events | [Video](https://youtu.be/MKjCezefFho) | [Code](https://github.com/NickyEXE/intro-to-events)|
 | Events - Closures and Delegation | [Video](https://youtu.be/NaRa99_Mk2I) | [Code](https://github.com/NickyEXE/intro-to-events/tree/end-of-lecture-2) |
