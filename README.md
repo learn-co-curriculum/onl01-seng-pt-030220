@@ -1,24 +1,17 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Nicky&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Announcements
-- We're making Fetch happen.
-- Lecture on Tuesday at 6PM ET on JS fetch.
-- Lecture on Thursday at 6PM ET on JS fetch and Rails as a server.
-- Events Pod on Tuesday at 5PM ET.
-- Office Hours on Wednesday at 6PM ET.
-- Algos Pod on Thursday at 5PM ET.
+- We're wrapping up the big three: DOM Manipulation, Event Handling, and Communication with the Server.
+- Lecture on Tuesday at 6PM ET on CRUD with JS fetch.
+- Lecture on Thursday at 6PM ET completing our review of the big three.
+- We're going to try out Algo Club on Wednesday at 6PM ET, rather than our usual Thursday at 5PM.
+- Pods on Tuesday at 5:00 ET and Friday at 2:30 PM ET.
+- Office Hours on Monday at 6PM and Thursday at 5PM ET.
 - Food and Feelings on Friday at 1:30 ET.
 - TBD Pod on Friday at 2:30 PM ET.
 - One-on-Ones: [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UU9FQ1l2bGJ4WWtGfGRlZmF1bHR8ODIyOTI1NDMzMjY0MjczMTE5ZDU4ZDE1YjgzOWI4ZjY) if you need one. Hit me up if there’s no spots that match your schedule.
 
 # This Week's Assignments
-
-### Week 27
-1. JS and Rails: Communication with the Server (Fetch Lab) (3 Lessons)
-2. JS and Rails: Communication with the Server (JS Fundamentals Lab) (3 Lessons)
-3. JS and Rails: Communication with the Server (JS Fundamentals: Traversing Nested Objects) (2 Lessons)
-4. JS and Rails: Communication with the Server (Finish) (4 Lessons)
-5. JS and Rails: Putting it all Together (2 Lessons)
 
 # Important Links:
 
@@ -26,6 +19,13 @@
 - [Calendar](https://calendar.google.com/calendar/embed?src=flatironschool.com_7hr0loibj3vnukghc7a2qn6304%40group.calendar.google.com&ctz=America%2FNew_York)
 
 # Lectures & Code
+
+### Week 28
+1. JS and Rails: Rails as an API (Custom JSON Rendering Using Rails) (4 Lessons)
+2. JS and Rails: Rails as an API (Using The Fast JSON API Gem) (4 Lessons)
+3. JS and Rails: Rails as an API (Finish), JS and Rails - Formalizing JS: Data Types, Comparisons, Conditionals (JS Fundamentals: Arithmetic Lab) (4 Lessons)
+4. JS and Rails: Formalizing JS: Data Types, Comparisons, Conditionals (JS Fundamentals: Logical Operators) (3 Lessons)
+5. JS and Rails: Formalizing JS: Data Types, Comparisons, Conditionals (Finish) (4 Lessons)
 
 ### Javascript
 
@@ -155,13 +155,6 @@
 
 # Future Weekly Assignments (Subject to Tweaking)
 
-### Week 28
-1. JS and Rails: Rails as an API (Custom JSON Rendering Using Rails) (4 Lessons)
-2. JS and Rails: Rails as an API (Using The Fast JSON API Gem) (4 Lessons)
-3. JS and Rails: Rails as an API (Finish), JS and Rails - Formalizing JS: Data Types, Comparisons, Conditionals (JS Fundamentals: Arithmetic Lab) (4 Lessons)
-4. JS and Rails: Formalizing JS: Data Types, Comparisons, Conditionals (JS Fundamentals: Logical Operators) (3 Lessons)
-5. JS and Rails: Formalizing JS: Data Types, Comparisons, Conditionals (Finish) (4 Lessons)
-
 ### Week 29
 1. JS and Rails: ES6 Syntax Sugar (3 Lessons)
 2. JS and Rails: Advanced Function Usage (JS Advanced Functions: Collection Processing Methods) (4 Lessons)
@@ -179,6 +172,13 @@
 ### Weeks 31-32: PROJECT MODE!
 
 # Past Weekly Assignments
+
+### Week 27
+1. JS and Rails: Communication with the Server (Fetch Lab) (3 Lessons)
+2. JS and Rails: Communication with the Server (JS Fundamentals Lab) (3 Lessons)
+3. JS and Rails: Communication with the Server (JS Fundamentals: Traversing Nested Objects) (2 Lessons)
+4. JS and Rails: Communication with the Server (Finish) (4 Lessons)
+5. JS and Rails: Putting it all Together (2 Lessons)
 
 ### Week 26
 1. JS and Rails: Recognizing JavaScript Events (Functions In JavaScript) (3 Lessons)
