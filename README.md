@@ -31,6 +31,10 @@
 
 |Topic | Video | Code |
 | ----- |:-----:| ----- |
+|**Week 28**|
+| Sample Project - OOJS | [Video](https://youtu.be/rPvGLvADdxE) | [Code](https://github.com/cernanb/job-board-js-spa)|
+| Doing a Patch with a Modal | [Video](https://youtu.be/HuKgioSzQPo) | TBA | 
+| Rails as an API part 2 - Post and Patch | [Video](https://youtu.be/MIzHAQvFTO0) | [Frontend](https://github.com/NickyEXE/intro-to-fetch/tree/tuesday-lecture) [Backend](https://github.com/NickyEXE/rails-as-an-api-cats-backend) |
 |**Week 27**|
 | The DOM Challenge Solve 2 - Delegation and the DOM | [Video](https://youtu.be/8VK-rT18zZU) | [Code](https://github.com/NickyEXE/jsdom-dom-challenge-onl01-seng-pt-030220/tree/delegation)|
 | Intro to Fetch | [Video](https://youtu.be/hzi_GdVKdVE) | [Code](https://github.com/NickyEXE/intro-to-fetch)|
