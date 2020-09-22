@@ -32,7 +32,7 @@
 |Topic | Video | Code |
 | ----- |:-----:| ----- |
 |**Week 29**|
-| THIS | [Video TBD](TBD) | [Code](https://github.com/NickyEXE/javascript-functional-context-this-lecture) |
+| THIS | [Video](https://youtu.be/8y8-1X15mdA) | [Code](https://github.com/NickyEXE/javascript-functional-context-this-lecture) |
 |**Week 28**|
 | Sample Project - OOJS | [Video](https://youtu.be/rPvGLvADdxE) | [Code](https://github.com/cernanb/job-board-js-spa)|
 | Doing a Patch with a Modal | [Video](https://youtu.be/HuKgioSzQPo) | TBA | 
