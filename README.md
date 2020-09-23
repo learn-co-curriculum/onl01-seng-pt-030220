@@ -32,6 +32,7 @@
 |Topic | Video | Code |
 | ----- |:-----:| ----- |
 |**Week 29**|
+| OOJS Class Syntax | [Video](https://youtu.be/BlxFeqONUZI)| [End of Lecture](https://github.com/NickyEXE/OO-Refactor-Lecture/tree/oo-refactor) - [Entirely Class-Oriented Refactor](https://github.com/NickyEXE/OO-Refactor-Lecture/tree/test) |
 | THIS | [Video](https://youtu.be/8y8-1X15mdA) | [Code](https://github.com/NickyEXE/javascript-functional-context-this-lecture) |
 |**Week 28**|
 | Sample Project - OOJS | [Video](https://youtu.be/rPvGLvADdxE) | [Code](https://github.com/cernanb/job-board-js-spa)|
