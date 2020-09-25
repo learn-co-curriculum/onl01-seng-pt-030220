@@ -34,8 +34,8 @@
 |**Week 29**|
 | THIS | [Video](https://youtu.be/8y8-1X15mdA) | [Code](https://github.com/NickyEXE/javascript-functional-context-this-lecture) |
 | OOJS Class Syntax | [Video](https://youtu.be/BlxFeqONUZI)| [End of Lecture](https://github.com/NickyEXE/OO-Refactor-Lecture/tree/oo-refactor) - [Entirely Class-Oriented Refactor](https://github.com/NickyEXE/OO-Refactor-Lecture/tree/test) |
-| Toy Tales OO Refactor (with Patch) | [Video Coming soon]() | [Code](https://github.com/NickyEXE/toy-tale-oo-refactor) |
-| Toy Tales OO Refactor Pod - Delete, Filter, Sort, and Search | [Video Coming Soon]() | [Code](https://github.com/NickyEXE/toy-tale-oo-refactor/tree/friday-pod) |
+| Toy Tales OO Refactor (with Patch) | [Video](https://youtu.be/B1a5CazfDqY) | [Code](https://github.com/NickyEXE/toy-tale-oo-refactor) |
+| Toy Tales OO Refactor Pod - Delete, Filter, Sort, and Search | [Video](https://youtu.be/q3dywAdUDLM) | [Code](https://github.com/NickyEXE/toy-tale-oo-refactor/tree/friday-pod) |
 |**Week 28**|
 | Doing a Patch with a Modal | [Video](https://youtu.be/HuKgioSzQPo) | TBA | 
 | Rails as an API part 2 - Post and Patch | [Video](https://youtu.be/MIzHAQvFTO0) | [Frontend](https://github.com/NickyEXE/intro-to-fetch/tree/tuesday-lecture) [Backend](https://github.com/NickyEXE/rails-as-an-api-cats-backend) |
