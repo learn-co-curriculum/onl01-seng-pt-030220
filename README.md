@@ -6,7 +6,7 @@
 - Office Hours Tuesday at 5PM and Wednesday at 5:45 PM
 - Algo Club Wednesday at 6:30PM.
 - Food and Feelings on Friday at 1:30 ET.
-- Pod on Friday at 2:30 PM ET.
+- Project Expectations AMA Pt. 1: Friday at 2:30 ET. We'll do another on Monday.
 - One-on-Ones: [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UU9FQ1l2bGJ4WWtGfGRlZmF1bHR8ODIyOTI1NDMzMjY0MjczMTE5ZDU4ZDE1YjgzOWI4ZjY) if you need one. Hit me up if there’s no spots that match your schedule.
 
 # This Week's Assignments
