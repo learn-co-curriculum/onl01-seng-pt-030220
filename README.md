@@ -13,12 +13,12 @@
 
 # This Week's Assignments
 
-### Week 29
-1. JS and Rails: Object Orientation in JavaScript (OOJS: Methods Types) (5 Lessons)
-2. JS and Rails: Object Orientation in JavaScript (Finish), JS and Rails - OO JavaScript: Inheritance (OOJS: Class Extension And Inheritance Extends) (4 Lessons)
-3. JS and Rails: OO JavaScript: Inheritance (Finish) (5 Lessons)
-4. JS and Rails: ES6 Syntax Sugar (3 Lessons)
-5. JS and Rails: Advanced Function Usage (JS Advanced Functions: Collection Processing Methods) (4 Lessons)
+### Week 30
+1. JS and Rails: Advanced Function Usage (Array Element Finding) (4 Lessons)
+2. JS and Rails: Advanced Function Usage  (JS Advanced Functions: Context And Explicit Setting) (4 Lessons)
+3. JS and Rails: Advanced Function Usage (Finish) (4 Lessons)
+4. JS and Rails: OO JavaScript: Prototypal Inheritance (OOJS: Predicting Constructor Effects) (4 Lessons)
+5. JS and Rails: OO JavaScript: Prototypal Inheritance (Finish) (4 Lessons)
 
 # Important Links:
 
@@ -166,16 +166,16 @@
 
 # Future Weekly Assignments (Subject to Tweaking)
 
-### Week 30
-1. JS and Rails: Advanced Function Usage (Array Element Finding) (4 Lessons)
-2. JS and Rails: Advanced Function Usage  (JS Advanced Functions: Context And Explicit Setting) (4 Lessons)
-3. JS and Rails: Advanced Function Usage (Finish) (4 Lessons)
-4. JS and Rails: OO JavaScript: Prototypal Inheritance (OOJS: Predicting Constructor Effects) (4 Lessons)
-5. JS and Rails: OO JavaScript: Prototypal Inheritance (Finish) (4 Lessons)
-
 ### Weeks 31-32: PROJECT MODE!
 
 # Past Weekly Assignments
+
+### Week 29
+1. JS and Rails: Object Orientation in JavaScript (OOJS: Methods Types) (5 Lessons)
+2. JS and Rails: Object Orientation in JavaScript (Finish), JS and Rails - OO JavaScript: Inheritance (OOJS: Class Extension And Inheritance Extends) (4 Lessons)
+3. JS and Rails: OO JavaScript: Inheritance (Finish) (5 Lessons)
+4. JS and Rails: ES6 Syntax Sugar (3 Lessons)
+5. JS and Rails: Advanced Function Usage (JS Advanced Functions: Collection Processing Methods) (4 Lessons)
 
 ### Week 28
 1. JS and Rails: Rails as an API (Custom JSON Rendering Using Rails) (4 Lessons)
