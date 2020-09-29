@@ -61,17 +61,17 @@
 |Intro to Rails | [Video](https://youtu.be/3mb-MzZZU8g)| [Code](https://github.com/NickyEXE/Intro-To-Rails)
 |Rest and Rails | [Video](https://youtu.be/jTuS_PaVgYc) - [Slides](https://docs.google.com/presentation/d/14RQgiqdWn5CGL5yAh4uCJAwLaG0YlDcbPfLwt9_OG1Y/edit?usp=sharing)| [Code](https://github.com/NickyEXE/030330-restful-routing-in-rails/tree/lesson-1-completion) |
 |**Week 18**|
-|Crud on Rails | [Video](https://wework.zoom.com/rec/share/2sl6F4Hx3HNIfbOW10rgapQuDqDdeaa80ChIqPcJnx2qZeIX4ssmToIaJSjCIN-X?startTime=1594159446000) | [Code](https://github.com/NickyEXE/CRUD-in-Rails-030220) |
-|Big O | [Video](https://wework.zoom.com/rec/share/xN0pNo_U3G1LU9Kcsm_GUfQ7H7zPeaa82nJM_fUEyh0prc5N40UekIgyUUZtQylO?startTime=1594330574000) - [Slides](https://docs.google.com/presentation/d/11LZMaVAoLb0ijm84WICgDW-iDlT9053B7NKM4rTXScE/edit?usp=sharing) | [Code](https://github.com/NickyEXE/Big-O-Lecture) |
-|Build-A-Crud-App Pod 2| [Video TBD](https://wework.zoom.com/rec/share/7MoyLqis1XlOfNbTr1HjS6I5N5b9aaa8hChK8vFexBupcjSe8r40qVzGcq2CNZ-U?startTime=1594406239000) | [Code](https://github.com/NickyEXE/Rails-CRUD-Pod-2) |
+|Crud on Rails | [Video](https://youtu.be/qYptZRAmqQc) | [Code](https://github.com/NickyEXE/CRUD-in-Rails-030220) |
+|Big O | [Video](https://youtu.be/W5p6FnG0Y7c) - [Slides](https://docs.google.com/presentation/d/11LZMaVAoLb0ijm84WICgDW-iDlT9053B7NKM4rTXScE/edit?usp=sharing) | [Code](https://github.com/NickyEXE/Big-O-Lecture) |
+|Build-A-Crud-App Pod 2| [Video](https://youtu.be/OLaF5EQaZV4) | [Code](https://github.com/NickyEXE/Rails-CRUD-Pod-2) |
 |**Week 19**|
-|Validations Pod | [Video](https://wework.zoom.com/rec/share/uY9vIbLc7nxJQYHG1QLaCqkkBIrbT6a80HdKq6UMmEiE3hDIdIlT7m1WF_QktYk_?startTime=1594678047000) | N/A |
-|Validations Lecture | [Video](https://wework.zoom.com/rec/share/2dJkIJrs_GdJeqfn0F7taI8qHKjveaa81SJIrKJbmR0XoXCCP_oBM9auSHvkXrCh?startTime=1594764173000) [Slides](https://docs.google.com/presentation/d/1VaqHU-q8BAp4-pMmlsZ8VA5O3IjYIoGT0LPfY5mvLEE/edit?usp=sharing) | [Code](https://github.com/NickyEXE/validations-in-rails) |
-|Relationships Lecture | [Video](https://wework.zoom.com/rec/share/_PB-DY-g7GBJUKfU0VnBY4glFKLmX6a8gSkarqJezUlY-rHYxgeWpme_XgZJ2Pxn?startTime=1594937079000) | [Code](https://github.com/NickyEXE/validations-in-rails/tree/relationships_lecture) |
-|Basic Forms and Associations Lab Pod | [Video](https://wework.zoom.com/rec/share/x-ZHIYjhyT1LW4mR-E3DQY8qIq3aeaa81XJPrPUIxUlYKLOkBX9VzUQ1Csgif7c1?startTime=1595011082000) | [Code](https://github.com/NickyEXE/forms-and-basic-associations-rails-lab-onl01-seng-pt-030220/tree/pod-solution) |
-|Basic Nested Forms Lab Pod | [Video](https://wework.zoom.com/rec/share/x-ZHIYjhyT1LW4mR-E3DQY8qIq3aeaa81XJPrPUIxUlYKLOkBX9VzUQ1Csgif7c1?startTime=1595016219000) | [Code](https://github.com/NickyEXE/basic-nested-forms-lab-onl01-seng-pt-030220/tree/pod) |
+|Validations Pod | [Video](https://youtu.be/WbF6g4mHHQg) | N/A |
+|Validations Lecture | [Video](https://youtu.be/BowN9iFSvtU) [Slides](https://docs.google.com/presentation/d/1VaqHU-q8BAp4-pMmlsZ8VA5O3IjYIoGT0LPfY5mvLEE/edit?usp=sharing) | [Code](https://github.com/NickyEXE/validations-in-rails) |
+|Relationships Lecture | [Video](https://youtu.be/zoNS3nl1osE) | [Code](https://github.com/NickyEXE/validations-in-rails/tree/relationships_lecture) |
+|Basic Forms and Associations Lab Pod | [Video](https://youtu.be/Q5UP0d3tPkE) | [Code](https://github.com/NickyEXE/forms-and-basic-associations-rails-lab-onl01-seng-pt-030220/tree/pod-solution) |
+|Basic Nested Forms Lab Pod | [Video](https://youtu.be/p_yAK8Sv5Bk) | [Code](https://github.com/NickyEXE/basic-nested-forms-lab-onl01-seng-pt-030220/tree/pod) |
 |**Week 20**|
-|Partials with Locals Lab Pod | [Video](https://wework.zoom.com/rec/share/wPFFAuvg6XhLXYXj2AKCRPQLXZraX6a8gyMX_aYOyU5LuVfZwTNoMKMQ0RyKO3I9?startTime=1595282788000) | None |
+|Partials with Locals Lab Pod | [Video](https://youtu.be/uyQn5lpeOQM) | None |
 |Partials and Locals Lecture | [Video](https://youtu.be/rFyGu3DXBzk) | [Code](https://github.com/NickyEXE/layouts-and-partials/tree/lesson) |
 |Helpers Pod | [Video](https://youtu.be/fNCT6Vk71Co) | None|
 |Flunchiron School Lecture |[Video](https://youtu.be/GwNImxUZCWg) | [Code](https://github.com/NickyEXE/FlunchironSchool/tree/class-solve-07-23) |
