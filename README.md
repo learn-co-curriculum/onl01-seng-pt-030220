@@ -31,6 +31,8 @@
 | ----- |:-----:| ----- |
 |**Week 30**|
 | Pod - Using a User Model without Auth or Passwords | [Video](https://youtu.be/FQxsMeklFwc) | [Frontend](https://github.com/NickyEXE/nuclear-messages-frontend) [Backend](https://github.com/NickyEXE/nuclear-messages-backend) |
+| Pod - Displaying Validations | [Video](https://youtu.be/j-GxXSdBzjY) | [Frontend](https://github.com/NickyEXE/nuclear-messages-frontend/tree/tuesday-pod) [Backend](https://github.com/NickyEXE/nuclear-messages-backend/tree/tuesday-pod) |
+| Canvas and Games | [Video](https://youtu.be/GAcBnLXp8YY) | [Code](https://github.com/NickyEXE/HTML5-Canvas-Games) |
 |**Week 29**|
 | THIS | [Video](https://youtu.be/8y8-1X15mdA) | [Code](https://github.com/NickyEXE/javascript-functional-context-this-lecture) |
 | OOJS Class Syntax | [Video](https://youtu.be/BlxFeqONUZI)| [End of Lecture](https://github.com/NickyEXE/OO-Refactor-Lecture/tree/oo-refactor) - [Entirely Class-Oriented Refactor](https://github.com/NickyEXE/OO-Refactor-Lecture/tree/test) |
