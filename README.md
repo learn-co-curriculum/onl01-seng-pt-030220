@@ -13,13 +13,7 @@
 - One-on-Ones: [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UU9FQ1l2bGJ4WWtGfGRlZmF1bHR8ODIyOTI1NDMzMjY0MjczMTE5ZDU4ZDE1YjgzOWI4ZjY) if you need one. Hit me up if there’s no spots that match your schedule.
 
 # This Week's Assignments
-
-### Week 30
-1. JS and Rails: Advanced Function Usage (Array Element Finding) (4 Lessons)
-2. JS and Rails: Advanced Function Usage  (JS Advanced Functions: Context And Explicit Setting) (4 Lessons)
-3. JS and Rails: Advanced Function Usage (Finish) (4 Lessons)
-4. JS and Rails: OO JavaScript: Prototypal Inheritance (OOJS: Predicting Constructor Effects) (4 Lessons)
-5. JS and Rails: OO JavaScript: Prototypal Inheritance (Finish) (4 Lessons)
+- Do a project
 
 # Important Links:
 
@@ -172,6 +166,13 @@
 ### Weeks 31-32: PROJECT MODE!
 
 # Past Weekly Assignments
+
+### Week 30
+1. JS and Rails: Advanced Function Usage (Array Element Finding) (4 Lessons)
+2. JS and Rails: Advanced Function Usage  (JS Advanced Functions: Context And Explicit Setting) (4 Lessons)
+3. JS and Rails: Advanced Function Usage (Finish) (4 Lessons)
+4. JS and Rails: OO JavaScript: Prototypal Inheritance (OOJS: Predicting Constructor Effects) (4 Lessons)
+5. JS and Rails: OO JavaScript: Prototypal Inheritance (Finish) (4 Lessons)
 
 ### Week 29
 1. JS and Rails: Object Orientation in JavaScript (OOJS: Methods Types) (5 Lessons)
