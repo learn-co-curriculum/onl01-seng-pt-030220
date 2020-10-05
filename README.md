@@ -1,12 +1,15 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Nicky&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Announcements
-- Monday at 6PM: User Model without Auth
-- Lectures on Tuesday and Thursday at 6PM: Building a Video Game/Using HTML5 Canvas (Tuesday - Optional), and ES6 stuff and Things You Should Know (Thursday)
-- Office Hours Tuesday at 5PM and Wednesday at 5:45 PM
-- Algo Club Wednesday at 6:30PM.
-- Food and Feelings on Friday at 1:30 ET.
-- Project Expectations AMA Pt. 1: Friday at 2:30 ET. We'll do another on Monday.
+- It's PROJECT MODE
+- Big events in the next five weeks:
+-- October 12: Indigenous People's Day (Day Off)
+-- October 16: End of Project Week 2
+-- October 19-23: Break week!
+-- October 23: Last day to submit your project and schedule a review
+-- October 26: Beginning of React
+-- November 9: Last day to pass JS
+- Open Office Hours Monday-Thursday at 6PM
 - One-on-Ones: [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UU9FQ1l2bGJ4WWtGfGRlZmF1bHR8ODIyOTI1NDMzMjY0MjczMTE5ZDU4ZDE1YjgzOWI4ZjY) if you need one. Hit me up if there’s no spots that match your schedule.
 
 # This Week's Assignments
