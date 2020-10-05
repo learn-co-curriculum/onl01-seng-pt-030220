@@ -26,6 +26,8 @@
 
 |Topic | Video | Code |
 | ----- |:-----:| ----- |
+|**Week 31**|
+| JS Project AMA Session 2 | [Video](https://youtu.be/1XnSVANUSP4) | None |
 |**Week 30**|
 | Pod - Using a User Model without Auth or Passwords | [Video](https://youtu.be/FQxsMeklFwc) | [Frontend](https://github.com/NickyEXE/nuclear-messages-frontend) [Backend](https://github.com/NickyEXE/nuclear-messages-backend) |
 | Pod - Displaying Validations | [Video](https://youtu.be/j-GxXSdBzjY) | [Frontend](https://github.com/NickyEXE/nuclear-messages-frontend/tree/tuesday-pod) [Backend](https://github.com/NickyEXE/nuclear-messages-backend/tree/tuesday-pod) |
