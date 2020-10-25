@@ -13,7 +13,50 @@
 - One-on-Ones: [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UU9FQ1l2bGJ4WWtGfGRlZmF1bHR8ODIyOTI1NDMzMjY0MjczMTE5ZDU4ZDE1YjgzOWI4ZjY) if you need one. Hit me up if there’s no spots that match your schedule.
 
 # This Week's Assignments
-- Do a project
+
+### Week 33
+1. React: Node Package Manager (2 Lessons)
+2. React: Introduction to React (This Is React Readme) (1 Lessons)
+3. React: Introduction to React (Finish) (2 Lessons)
+4. React: Introduction to Components (Static Components Lab) (2 Lessons)
+5. React: Introduction to Components (Finish) (2 Lessons)
+
+# Upcoming Assignments
+
+### Week 34
+1. React: Props and State (Modular Code) (3 Lessons)
+2. React: Props and State (Simple State Lab) (4 Lessons)
+3. React: Props and State (Finish), React - Events (Event System Lab) (4 Lessons)
+4. React: Events (Finish) (4 Lessons)
+5. React: Forms (3 Lessons)
+
+### Week 35
+1. React: Lifecycle Methods (Component Mounting And Unmounting Readme) (2 Lessons)
+2. React: Lifecycle Methods (Component Mounting Lab - Pancake Flipper) (2 Lessons)
+3. React: Lifecycle Methods (Finish) (2 Lessons)
+4. React: Async React (Async Fetch Lab) (2 Lessons)
+5. React: Async React (Finish) (1 Lessons)
+
+### Week 36
+1. React: Advanced Components (Presentational Components Lab) (3 Lessons)
+2. React: Advanced Components (Finish) (3 Lessons)
+3. React: React: Under the Hood (Webpack And React) (3 Lessons)
+4. React: React: Under the Hood (Finish), React - Client Side Routing (Introduction To React Router) (3 Lessons)
+5. React: Client Side Routing (Finish) (3 Lessons)
+
+### Week 37
+1. Redux: Building Redux (Redux Reducer) (3 Lessons)
+2. Redux: Building Redux (Redux Dispatch With Event Listeners) (3 Lessons)
+3. Redux: Building Redux (Finish), Redux - Redux Library (Intro To Redux Library Codealong) (3 lessons)
+4. Redux: Redux Library (Map State To Props Lab) (3 Lessons)
+5. Redux: Redux Library (Finish) (4 Lessons)
+
+### Week 38
+1. Redux: React Redux Continued (Redux Forms Codealong) (2 Lessons)
+2. Redux: React Redux Continued (Cooking With Redux) (2 Lessons)
+3. Redux: React Redux Continued (Redux Delete Codealong) (2 Lessons)
+4. Redux: React Redux Continued (Finish) (2 Lessons)
+5. Redux: Async Redux (2 Lessons)
 
 # Important Links:
 
@@ -40,7 +83,7 @@
 | Toy Tales OO Refactor (with Patch) | [Video](https://youtu.be/B1a5CazfDqY) | [Code](https://github.com/NickyEXE/toy-tale-oo-refactor) |
 | Toy Tales OO Refactor Pod - Delete, Filter, Sort, and Search | [Video](https://youtu.be/q3dywAdUDLM) | [Code](https://github.com/NickyEXE/toy-tale-oo-refactor/tree/friday-pod) |
 |**Week 28**|
-| Doing a Patch with a Modal | [Video](https://youtu.be/HuKgioSzQPo) | TBA | 
+| Doing a Patch with a Modal | [Video](https://youtu.be/HuKgioSzQPo) | TBA |
 | Rails as an API part 2 - Post and Patch | [Video](https://youtu.be/MIzHAQvFTO0) | [Frontend](https://github.com/NickyEXE/intro-to-fetch/tree/tuesday-lecture) [Backend](https://github.com/NickyEXE/rails-as-an-api-cats-backend) |
 | Sample Project - OOJS | [Video](https://youtu.be/rPvGLvADdxE) | [Code](https://github.com/cernanb/job-board-js-spa)|
 |**Week 27**|
