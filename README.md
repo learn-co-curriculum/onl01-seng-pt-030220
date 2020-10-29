@@ -60,6 +60,13 @@
 
 # Lectures & Code
 
+### React/Redux
+|Topic | Video | Code |
+| ----- |:-----:| ----- |
+|**Week 33**|
+| Intro to React, Components and Props | [Video](https://youtu.be/tsj_eZZXta0) | [Code](https://github.com/NickyEXE/hackerchat/tree/end-of-lecture-1) |
+
+
 ### Javascript
 
 |Topic | Video | Code |
