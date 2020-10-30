@@ -64,8 +64,8 @@
 |Topic | Video | Code |
 | ----- |:-----:| ----- |
 |**Week 33**|
-| Intro to React, Components and Props | [Video](https://youtu.be/tsj_eZZXta0) | [Code](https://github.com/NickyEXE/hackerchat/tree/end-of-lecture-1) |
-
+| Intro to React - Components and Props | [Video](https://youtu.be/tsj_eZZXta0) | [Code](https://github.com/NickyEXE/hackerchat/tree/end-of-lecture-1) |
+| Intro to React - State and Events | [Video](https://youtu.be/m5CYqvYq-ig) | [Code](https://github.com/NickyEXE/React-state-and-events)|
 
 ### Javascript
 
