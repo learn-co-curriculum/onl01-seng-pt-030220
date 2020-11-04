@@ -1,22 +1,9 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Nicky&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Announcements
-- Open Office Hours Monday at 6PM
-- Wednesday 6 ET: JS Project Show and Tell
-- Thursday 5 ET: Algo Club
-- November 9: Last day to pass JS
 - One-on-Ones: [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UU9FQ1l2bGJ4WWtGfGRlZmF1bHR8ODIyOTI1NDMzMjY0MjczMTE5ZDU4ZDE1YjgzOWI4ZjY) if you need one. Hit me up if there’s no spots that match your schedule.
 
 # This Week's Assignments
-
-### Week 33
-1. React: Node Package Manager (2 Lessons)
-2. React: Introduction to React (This Is React Readme) (1 Lessons)
-3. React: Introduction to React (Finish) (2 Lessons)
-4. React: Introduction to Components (Static Components Lab) (2 Lessons)
-5. React: Introduction to Components (Finish) (2 Lessons)
-
-# Upcoming Assignments
 
 ### Week 34
 1. React: Props and State (Modular Code) (3 Lessons)
@@ -24,6 +11,8 @@
 3. React: Props and State (Finish), React - Events (Event System Lab) (4 Lessons)
 4. React: Events (Finish) (4 Lessons)
 5. React: Forms (3 Lessons)
+
+# Upcoming Assignments
 
 ### Week 35
 1. React: Lifecycle Methods (Component Mounting And Unmounting Readme) (2 Lessons)
@@ -63,6 +52,8 @@
 ### React/Redux
 |Topic | Video | Code |
 | ----- |:-----:| ----- |
+|**Week 34**|
+| Intro to React - Forms | [Video](https://youtu.be/kHyCYAsgxpw) | [Code](https://github.com/NickyEXE/react-forms) |
 |**Week 33**|
 | Intro to React - Components and Props | [Video](https://youtu.be/tsj_eZZXta0) | [Code](https://github.com/NickyEXE/hackerchat/tree/end-of-lecture-1) |
 | Intro to React - State and Events | [Video](https://youtu.be/m5CYqvYq-ig) | [Code](https://github.com/NickyEXE/React-state-and-events)|
@@ -215,6 +206,13 @@
 ### Weeks 31-32: PROJECT MODE!
 
 # Past Weekly Assignments
+
+### Week 33
+1. React: Node Package Manager (2 Lessons)
+2. React: Introduction to React (This Is React Readme) (1 Lessons)
+3. React: Introduction to React (Finish) (2 Lessons)
+4. React: Introduction to Components (Static Components Lab) (2 Lessons)
+5. React: Introduction to Components (Finish) (2 Lessons)
 
 ### Week 30
 1. JS and Rails: Advanced Function Usage (Array Element Finding) (4 Lessons)
