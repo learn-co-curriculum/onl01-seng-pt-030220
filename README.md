@@ -1,6 +1,11 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Nicky&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Announcements
+- Only one lecture this week, on Tuesday at 6PM ET on React Forms.
+- Try to do [Hogwarts](https://github.com/learn-co-curriculum/hogwarts/) by next Monday. Feel free to pair program. It's tough.
+- We'll be building CRUD apps on Thursday at 6PM ET and Friday at 2:30 PM ET.
+- Open Office Hours on Monday and Wednesday at 6PM ET, and Thursday at 5PM ET.
+- No Algo Club this week.
 - One-on-Ones: [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UU9FQ1l2bGJ4WWtGfGRlZmF1bHR8ODIyOTI1NDMzMjY0MjczMTE5ZDU4ZDE1YjgzOWI4ZjY) if you need one. Hit me up if there’s no spots that match your schedule.
 
 # This Week's Assignments
@@ -11,6 +16,23 @@
 3. React: Props and State (Finish), React - Events (Event System Lab) (4 Lessons)
 4. React: Events (Finish) (4 Lessons)
 5. React: Forms (3 Lessons)
+
+# Suggested Practice
+
+I don't suggest you do all of these! Just enough to feel confident.
+
+### After React Forms
+- Hogwarts: https://github.com/learn-co-curriculum/hogwarts/
+- Build a front-end only CRUD app
+- Rebuild Task Lister Lite in React: https://learn-co-curriculum.github.io/js-task-lister-lite/
+- Rebuild the DOM Challenge in React: https://github.com/learn-co-curriculum/jsdom-dom-challenge
+
+### After Async React
+- Pokemon Searcher: https://github.com/learn-co-curriculum/react-pokemon-searcher
+- Sushi Saga: https://github.com/learn-co-curriculum/React-Practice-Code-Challenge
+- React Pizza: https://github.com/learn-co-curriculum/React-Pizza
+- Flatiron Stonks: https://github.com/learn-co-curriculum/React-Stocks
+- React Toy Tales: https://github.com/learn-co-curriculum/react-toy-tales
 
 # Upcoming Assignments
 
