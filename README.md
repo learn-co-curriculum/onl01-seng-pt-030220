@@ -76,6 +76,7 @@ I don't suggest you do all of these! Just enough to feel confident.
 | ----- |:-----:| ----- |
 |**Week 34**|
 | Intro to React - Forms | [Video](https://youtu.be/kHyCYAsgxpw) | [Code](https://github.com/NickyEXE/react-forms) |
+| Build a Front-End Only React App Pod 1 | [Video](https://youtu.be/H6Mb2-o7aY4) | [Code](https://github.com/NickyEXE/animal-fans-practice-react-crud-app) |
 |**Week 33**|
 | Intro to React - Components and Props | [Video](https://youtu.be/tsj_eZZXta0) | [Code](https://github.com/NickyEXE/hackerchat/tree/end-of-lecture-1) |
 | Intro to React - State and Events | [Video](https://youtu.be/m5CYqvYq-ig) | [Code](https://github.com/NickyEXE/React-state-and-events)|
