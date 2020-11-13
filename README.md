@@ -19,7 +19,12 @@ Other stuff:
 
 # This Week's Assignments
 
-### Week 34
+### Week 35
+1. React: Lifecycle Methods (Component Mounting And Unmounting Readme) (2 Lessons)
+2. React: Lifecycle Methods (Component Mounting Lab - Pancake Flipper) (2 Lessons)
+3. React: Lifecycle Methods (Finish) (2 Lessons)
+4. React: Async React (Async Fetch Lab) (2 Lessons)
+5. React: Async React (Finish) (1 Lessons)
 
 # Suggested Practice
 
@@ -39,13 +44,6 @@ I don't suggest you do all of these! Just enough to feel confident.
 - React Toy Tales: https://github.com/learn-co-curriculum/react-toy-tales
 
 # Upcoming Assignments
-
-### Week 35
-1. React: Lifecycle Methods (Component Mounting And Unmounting Readme) (2 Lessons)
-2. React: Lifecycle Methods (Component Mounting Lab - Pancake Flipper) (2 Lessons)
-3. React: Lifecycle Methods (Finish) (2 Lessons)
-4. React: Async React (Async Fetch Lab) (2 Lessons)
-5. React: Async React (Finish) (1 Lessons)
 
 ### Week 36
 1. React: Advanced Components (Presentational Components Lab) (3 Lessons)
@@ -80,7 +78,8 @@ I don't suggest you do all of these! Just enough to feel confident.
 | ----- |:-----:| ----- |
 |**Week 35**|
 | Hogwarts | [Video](https://youtu.be/j8VIe8fnGWk) | [Code](https://github.com/NickyEXE/030220-Hogwarts) |
-| React - Component Lifecycle Methods | [Video](https://youtu.be/wYNIiiqYu7w) | [Ticker](https://github.com/NickyEXE/intro-to-component-lifecycle) [Hackerchat Frontend](https://github.com/NickyEXE/hackerchat-frontend) [Hackerchat Backend(https://github.com/NickyEXE/hackerchat-backend) |
+| React - Component Lifecycle Methods | [Video](https://youtu.be/wYNIiiqYu7w) | [Ticker](https://github.com/NickyEXE/intro-to-component-lifecycle) [Hackerchat Frontend](https://github.com/NickyEXE/hackerchat-frontend) [Hackerchat Backend](https://github.com/NickyEXE/hackerchat-backend) |
+| React Component Lifecycle Methods 2 | [Video TBD]() | [Hackerchat Frontend](https://github.com/NickyEXE/hackerchat-frontend/tree/lecture2) [Hackerchat Backend](https://github.com/NickyEXE/hackerchat-backend/tree/lecture-2)|
 
 |**Week 34**|
 | Intro to React - Forms | [Video](https://youtu.be/kHyCYAsgxpw) | [Code](https://github.com/NickyEXE/react-forms) |
