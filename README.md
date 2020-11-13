@@ -80,6 +80,7 @@ I don't suggest you do all of these! Just enough to feel confident.
 | Hogwarts | [Video](https://youtu.be/j8VIe8fnGWk) | [Code](https://github.com/NickyEXE/030220-Hogwarts) |
 | React - Component Lifecycle Methods | [Video](https://youtu.be/wYNIiiqYu7w) | [Ticker](https://github.com/NickyEXE/intro-to-component-lifecycle) [Hackerchat Frontend](https://github.com/NickyEXE/hackerchat-frontend) [Hackerchat Backend](https://github.com/NickyEXE/hackerchat-backend) |
 | React Component Lifecycle Methods 2 | [Video](https://youtu.be/8bFz6LBlmiY) | [Hackerchat Frontend](https://github.com/NickyEXE/hackerchat-frontend/tree/lecture2) [Hackerchat Backend](https://github.com/NickyEXE/hackerchat-backend/tree/lecture-2)|
+| Sushi Saga | [Video](https://youtu.be/YcydUzqTbPY) | [Code](https://github.com/NickyEXE/030220-sushi-saga) |
 |**Week 34**|
 | Intro to React - Forms | [Video](https://youtu.be/kHyCYAsgxpw) | [Code](https://github.com/NickyEXE/react-forms) |
 | Build a Front-End Only React App Pod 1 | [Video](https://youtu.be/H6Mb2-o7aY4) | [Code](https://github.com/NickyEXE/animal-fans-practice-react-crud-app) |
