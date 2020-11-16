@@ -1,30 +1,17 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Nicky&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Announcements
-This week, again, we’re Making Fetch Happen. We’re going to be talking about Component Lifecycle methods, which will give us a nice place to put our fetches and get back to full stack development.
-
-The most important flag this week is that Wednesday is Veteran’s Day, and you and I have the day off.
-
-I’m going to only be doing one lecture on Tuesday on Component Lifecycles and fetch. Thursday will be a review of those concepts, but don’t let the schedule fool you: The reason I’m keeping the week largely focused on fetches and reviews is because I want you to feel at least a little confident, by next week, about the concepts I’m teaching up through this Tuesday.
-
-Once you’ve finished the Async React labs and watched my Tuesday lecture, do at least 1-2 of the Async React practice challenges I shared (available on the learn.co landing page for our class). That’s your big homework for this week.
-
-Next week, we’re going to be going through a lot of crazy stuff, from auth to React Router, because that will be our last non-Redux week. So please use this week as a time to catch up, reinforce, and get those reps in.
-
-Other stuff:
-- I’m reviewing Hogwarts on Monday at 6PM ET. If you haven’t done it yet, don’t let me spoil it for you! It’ll be recorded and I’m always down to answer questions when you get to it.
-- Thursday 6PM ET and Friday at 2:30 ET will be reviews. I’ll let you know what specifically I’m doing as the time comes.
-- No algo club for the next two weeks. Practice with the practice labs instead.
-- Next week, you’ll get access to career services!
+- It's auth week! We're going to be discussing Auth and React Router. We have three lectures instead of our normal two, so heads up there!
+- You'll also be getting access to career services on Monday November 16th, assuming that you're confirmed as passing your JS project review. Reach out to me if you find yourself unexpectedly not having access.
 
 # This Week's Assignments
 
-### Week 35
-1. React: Lifecycle Methods (Component Mounting And Unmounting Readme) (2 Lessons)
-2. React: Lifecycle Methods (Component Mounting Lab - Pancake Flipper) (2 Lessons)
-3. React: Lifecycle Methods (Finish) (2 Lessons)
-4. React: Async React (Async Fetch Lab) (2 Lessons)
-5. React: Async React (Finish) (1 Lessons)
+### Week 36
+1. React: Advanced Components (Presentational Components Lab) (3 Lessons)
+2. React: Advanced Components (Finish) (3 Lessons)
+3. React: React: Under the Hood (Webpack And React) (3 Lessons)
+4. React: React: Under the Hood (Finish), React - Client Side Routing (Introduction To React Router) (3 Lessons)
+5. React: Client Side Routing (Finish) (3 Lessons)
 
 # Suggested Practice
 
@@ -44,13 +31,6 @@ I don't suggest you do all of these! Just enough to feel confident.
 - React Toy Tales: https://github.com/learn-co-curriculum/react-toy-tales
 
 # Upcoming Assignments
-
-### Week 36
-1. React: Advanced Components (Presentational Components Lab) (3 Lessons)
-2. React: Advanced Components (Finish) (3 Lessons)
-3. React: React: Under the Hood (Webpack And React) (3 Lessons)
-4. React: React: Under the Hood (Finish), React - Client Side Routing (Introduction To React Router) (3 Lessons)
-5. React: Client Side Routing (Finish) (3 Lessons)
 
 ### Week 37
 1. Redux: Building Redux (Redux Reducer) (3 Lessons)
@@ -233,6 +213,13 @@ I don't suggest you do all of these! Just enough to feel confident.
 | Pokemon CLI pt 5 | [Video](https://youtu.be/TaRHwKGdJsg) | N/A | N/A |
 
 # Past Weekly Assignments
+
+### Week 35
+1. React: Lifecycle Methods (Component Mounting And Unmounting Readme) (2 Lessons)
+2. React: Lifecycle Methods (Component Mounting Lab - Pancake Flipper) (2 Lessons)
+3. React: Lifecycle Methods (Finish) (2 Lessons)
+4. React: Async React (Async Fetch Lab) (2 Lessons)
+5. React: Async React (Finish) (1 Lessons)
 
 ### Week 34
 1. React: Props and State (Modular Code) (3 Lessons)
