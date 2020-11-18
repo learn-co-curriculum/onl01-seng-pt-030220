@@ -56,6 +56,7 @@ I don't suggest you do all of these! Just enough to feel confident.
 ### React/Redux
 |Topic | Video | Code |
 | ----- |:-----:| ----- |
+| React Auth Part 1 | [Video](https://youtu.be/qZbXKDr2gSE) | [Frontend](https://github.com/NickyEXE/JWT-Auth-in-React-Frontend/tree/lecture) [Backend](https://github.com/NickyEXE/JWT-Auth-in-React-Backend/tree/lecture)|
 |**Week 35**|
 | Hogwarts | [Video](https://youtu.be/j8VIe8fnGWk) | [Code](https://github.com/NickyEXE/030220-Hogwarts) |
 | React - Component Lifecycle Methods | [Video](https://youtu.be/wYNIiiqYu7w) | [Ticker](https://github.com/NickyEXE/intro-to-component-lifecycle) [Hackerchat Frontend](https://github.com/NickyEXE/hackerchat-frontend) [Hackerchat Backend](https://github.com/NickyEXE/hackerchat-backend) |
