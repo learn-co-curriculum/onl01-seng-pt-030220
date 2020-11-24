@@ -52,6 +52,7 @@ I don't suggest you do all of these! Just enough to feel confident.
 | React Auth Part 2 | [Video](https://youtu.be/RWBs1yEaktU) | [Frontend](https://github.com/NickyEXE/JWT-Auth-in-React-Frontend/tree/lecture2) [Backend](https://github.com/NickyEXE/JWT-Auth-in-React-Backend/tree/lecture2)|
 | React Router | [Video](https://youtu.be/LrnRgXJ-YyM) | [Code](https://github.com/NickyEXE/react-router/tree/class-solve) |
 | React - Edit with Modal | [Video](https://youtu.be/OtIOaSxy8Mc) | [Code](https://github.com/NickyEXE/react-router/tree/edit) |
+| React - Create/Read with Modal | [Video](https://youtu.be/eOJFnzDYZJE) | [Code](https://github.com/NickyEXE/react-router/tree/edit) |
 |**Week 35**|
 | Hogwarts | [Video](https://youtu.be/j8VIe8fnGWk) | [Code](https://github.com/NickyEXE/030220-Hogwarts) |
 | React - Component Lifecycle Methods | [Video](https://youtu.be/wYNIiiqYu7w) | [Ticker](https://github.com/NickyEXE/intro-to-component-lifecycle) [Hackerchat Frontend](https://github.com/NickyEXE/hackerchat-frontend) [Hackerchat Backend](https://github.com/NickyEXE/hackerchat-backend) |
