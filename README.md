@@ -48,6 +48,9 @@ I don't suggest you do all of these! Just enough to feel confident.
 ### React/Redux
 |Topic | Video | Code |
 | ----- |:-----:| ----- |
+|**Week 37**|
+| Intro to Redux | [Video](https://youtu.be/79FmuECmHgE) | [Code](https://github.com/NickyEXE/intro-to-redux)|
+|**Week 36**|
 | React Auth Part 1 | [Video](https://youtu.be/qZbXKDr2gSE) | [Frontend](https://github.com/NickyEXE/JWT-Auth-in-React-Frontend/tree/lecture) [Backend](https://github.com/NickyEXE/JWT-Auth-in-React-Backend/tree/lecture)|
 | React Auth Part 2 | [Video](https://youtu.be/RWBs1yEaktU) | [Frontend](https://github.com/NickyEXE/JWT-Auth-in-React-Frontend/tree/lecture2) [Backend](https://github.com/NickyEXE/JWT-Auth-in-React-Backend/tree/lecture2)|
 | React Router | [Video](https://youtu.be/LrnRgXJ-YyM) | [Code](https://github.com/NickyEXE/react-router/tree/class-solve) |
