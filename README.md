@@ -1,16 +1,17 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Nicky&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Announcements
-- Happy Thanksgiving week! We'll have a Redux Lecture on Tuesday, a review + introduction to Redux Thunk on Wednesday, and then we're off Thursday and Friday.
+- I'm going to be building a sample project this week in Redux. 
+- You should be taking time to plan your project and then hitting me up!
 
 # This Week's Assignments
 
-### Week 37
-1. Redux: Building Redux (Redux Reducer) (3 Lessons)
-2. Redux: Building Redux (Redux Dispatch With Event Listeners) (3 Lessons)
-3. Redux: Building Redux (Finish), Redux - Redux Library (Intro To Redux Library Codealong) (3 lessons)
-4. Redux: Redux Library (Map State To Props Lab) (3 Lessons)
-5. Redux: Redux Library (Finish) (4 Lessons)
+### Week 38
+1. Redux: React Redux Continued (Redux Forms Codealong) (2 Lessons)
+2. Redux: React Redux Continued (Cooking With Redux) (2 Lessons)
+3. Redux: React Redux Continued (Redux Delete Codealong) (2 Lessons)
+4. Redux: React Redux Continued (Finish) (2 Lessons)
+5. Redux: Async Redux (2 Lessons)
 
 # Suggested Practice
 
@@ -31,12 +32,7 @@ I don't suggest you do all of these! Just enough to feel confident.
 
 # Upcoming Assignments
 
-### Week 38
-1. Redux: React Redux Continued (Redux Forms Codealong) (2 Lessons)
-2. Redux: React Redux Continued (Cooking With Redux) (2 Lessons)
-3. Redux: React Redux Continued (Redux Delete Codealong) (2 Lessons)
-4. Redux: React Redux Continued (Finish) (2 Lessons)
-5. Redux: Async Redux (2 Lessons)
+None. Ever again. Just your project.
 
 # Important Links:
 
@@ -214,6 +210,13 @@ I don't suggest you do all of these! Just enough to feel confident.
 | Pokemon CLI pt 5 | [Video](https://youtu.be/TaRHwKGdJsg) | N/A | N/A |
 
 # Past Weekly Assignments
+
+### Week 37
+1. Redux: Building Redux (Redux Reducer) (3 Lessons)
+2. Redux: Building Redux (Redux Dispatch With Event Listeners) (3 Lessons)
+3. Redux: Building Redux (Finish), Redux - Redux Library (Intro To Redux Library Codealong) (3 lessons)
+4. Redux: Redux Library (Map State To Props Lab) (3 Lessons)
+5. Redux: Redux Library (Finish) (4 Lessons)
 
 ### Week 36
 1. React: Advanced Components (Presentational Components Lab) (3 Lessons)
