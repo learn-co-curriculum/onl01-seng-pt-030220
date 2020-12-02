@@ -44,6 +44,8 @@ None. Ever again. Just your project.
 ### React/Redux
 |Topic | Video | Code |
 | ----- |:-----:| ----- |
+|**Week 38**|
+|Project Build Part 1 - Rails Review, Thunk, combineReducers | [Video](https://youtu.be/fbHaSsksxWM) | [Frontend](https://github.com/NickyEXE/Flunchiron-React-Frontend/tree/end-of-first-lecturee) [Backend](https://github.com/NickyEXE/Flunchiron-React-Backend/tree/end-of-first-lecture) |
 |**Week 37**|
 | Intro to Redux | [Video](https://youtu.be/79FmuECmHgE) | [Code](https://github.com/NickyEXE/intro-to-redux)|
 | Redux Sushi Saga with Thunk | [Video](https://youtu.be/XCBSrJkKLC0) | [Code](https://github.com/NickyEXE/030220-sushi-saga/tree/redux)|
