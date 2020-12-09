@@ -48,7 +48,8 @@ None. Ever again. Just your project.
 |Project Build Part 1 - Rails Review, Thunk, combineReducers | [Video](https://youtu.be/fbHaSsksxWM) | [Frontend](https://github.com/NickyEXE/Flunchiron-React-Frontend/tree/end-of-first-lecturee) [Backend](https://github.com/NickyEXE/Flunchiron-React-Backend/tree/end-of-first-lecture) |
 |Project Build Part 2 - Routes, Component Lifecycle | [Video](https://youtu.be/fKXwy9e2_D0) | [Frontend](https://github.com/NickyEXE/Flunchiron-React-Frontend/tree/lecture-2) [Backend](https://github.com/NickyEXE/Flunchiron-React-Backend/tree/lecture-2) |
 |Project Build Part 3 - Auth | [Video](https://youtu.be/nGxDouFhMA0) | [Frontend](https://github.com/NickyEXE/Flunchiron-React-Frontend/tree/lecture-3) [Backend](https://github.com/NickyEXE/Flunchiron-React-Backend/tree/lecture-3-final) |
-|Redux Project Requirements Session 1 | [Video](https://youtu.be/LNZHFwYKvd4) | N/A |
+|Redux Project Requirements | [Video](https://youtu.be/LNZHFwYKvd4) | N/A |
+|Project Build Addendum - Filter, Sort, Search | [Video](https://youtu.be/HizuYhX9UcI) | [Frontend](https://github.com/NickyEXE/Flunchiron-React-Frontend/tree/lecture-3) [Backend](https://github.com/NickyEXE/Flunchiron-React-Backend/tree/lecture-3-final) |
 |**Week 37**|
 | Intro to Redux | [Video](https://youtu.be/79FmuECmHgE) | [Code](https://github.com/NickyEXE/intro-to-redux)|
 | Redux Sushi Saga with Thunk | [Video](https://youtu.be/XCBSrJkKLC0) | [Code](https://github.com/NickyEXE/030220-sushi-saga/tree/redux)|
