@@ -1,17 +1,7 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdocjBsb2liajN2bnVrZ2hjN2EycW42MzA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23616161&amp;title=Cohort%20Calendar%20-%203%2F2%20Part-Time-A%20(Nicky&#39;s%20Cohort)" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Announcements
-- I'm going to be building a sample project this week in Redux. 
-- You should be taking time to plan your project and then hitting me up!
-
-# This Week's Assignments
-
-### Week 38
-1. Redux: React Redux Continued (Redux Forms Codealong) (2 Lessons)
-2. Redux: React Redux Continued (Cooking With Redux) (2 Lessons)
-3. Redux: React Redux Continued (Redux Delete Codealong) (2 Lessons)
-4. Redux: React Redux Continued (Finish) (2 Lessons)
-5. Redux: Async Redux (2 Lessons)
+- Congratulations!
 
 # Suggested Practice
 
@@ -44,6 +34,8 @@ None. Ever again. Just your project.
 ### React/Redux
 |Topic | Video | Code |
 | ----- |:-----:| ----- |
+|**Week 42**| 
+| Intro to Graduation | [Video](https://www.youtube.com/watch?v=yy5sbCYQCRA) | N/A |
 |**Week 38**|
 |Project Build Part 1 - Rails Review, Thunk, combineReducers | [Video](https://youtu.be/fbHaSsksxWM) | [Frontend](https://github.com/NickyEXE/Flunchiron-React-Frontend/tree/end-of-first-lecturee) [Backend](https://github.com/NickyEXE/Flunchiron-React-Backend/tree/end-of-first-lecture) |
 |Project Build Part 2 - Routes, Component Lifecycle | [Video](https://youtu.be/fKXwy9e2_D0) | [Frontend](https://github.com/NickyEXE/Flunchiron-React-Frontend/tree/lecture-2) [Backend](https://github.com/NickyEXE/Flunchiron-React-Backend/tree/lecture-2) |
@@ -216,6 +208,13 @@ None. Ever again. Just your project.
 | Pokemon CLI pt 5 | [Video](https://youtu.be/TaRHwKGdJsg) | N/A | N/A |
 
 # Past Weekly Assignments
+
+### Week 38
+1. Redux: React Redux Continued (Redux Forms Codealong) (2 Lessons)
+2. Redux: React Redux Continued (Cooking With Redux) (2 Lessons)
+3. Redux: React Redux Continued (Redux Delete Codealong) (2 Lessons)
+4. Redux: React Redux Continued (Finish) (2 Lessons)
+5. Redux: Async Redux (2 Lessons)
 
 ### Week 37
 1. Redux: Building Redux (Redux Reducer) (3 Lessons)
